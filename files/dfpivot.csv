@@ -1,0 +1,1195 @@
+,doc_hdr_id,doc_typ_nm,doc_crte_dt,crte_dt,doc_mdfn_dt,actn_rqst_cd,campus,concentration1,concentration2,department1,department2,major1,major2,minor1,minor2,requestedof,dayssincerequest,dayssincecreate
+0,10012268,UGS-MAAdvancedDegree.ParentDoctype,13-Feb-12,10-Apr-12,10-Apr-12,Approve,BL,,,SPHS,,SPHSMA,,,,danharri,2857,2914
+1,12016644,UGS-MAAdvancedDegree.ParentDoctype,17-Dec-12,23-Aug-13,07-Jan-13,Approve,BL,,,SPHS,,SPHSMA,,,,UGS.BL.MAAdvDeg.SPHS2,2357,2606
+2,16960387,UGS.Committee.Doctype,14-Jun-13,16-Feb-15,14-Jun-13,Approve,BL,,,CSCI,,CSCIPHD,,,,jklingin,1815,2427
+3,21974641,UGS-MAAdvancedDegree.ParentDoctype,21-Aug-13,10-Sep-13,21-Aug-13,Approve,BL,,,SPHS,,SPHSMA,,,,UGS.BL.MAAdvDeg.SPHS2,2339,2359
+4,22067259,UGS.Committee.Doctype,24-Aug-13,26-Aug-13,24-Aug-13,Approve,BL,,,PHYS,,PHYSPHD,,G,,moore54,2354,2356
+5,22619624,UGS-MAAdvancedDegree.ParentDoctype,15-Sep-13,30-Sep-13,15-Sep-13,Approve,IN,,,COMM,,APLCMMA,,,,farabous,2319,2334
+6,22888186,UGS-MAAdvancedDegree.ParentDoctype,25-Sep-13,26-Sep-13,25-Sep-13,Approve,IN,,,BIOC,,BIOCMBIOMS,,,,anvaliya,2323,2324
+7,23475188,UGS-MAAdvancedDegree.ParentDoctype,16-Oct-13,30-Apr-15,16-Oct-13,Approve,IN,,,GEOG,,GISMS,,,,falhajmo,1742,2303
+8,25178749,UGS-MAAdvancedDegree.ParentDoctype,02-Jan-14,18-Apr-14,02-Jan-14,Approve,IN,,,GEOG,,GISMS,,,,bsperl,2119,2225
+9,25462417,UGS-MAAdvancedDegree.ParentDoctype,16-Jan-14,14-Nov-14,16-Jan-14,Approve,IN,,,COMM,,APLCMMA,,,,lquandt,1909,2211
+10,25464891,UGS-MAAdvancedDegree.ParentDoctype,16-Jan-14,12-Jan-15,16-Jan-14,Approve,IN,,,HIST,,HISTMA,,,,mattstar,1850,2211
+11,25537943,UGS-MAAdvancedDegree.ParentDoctype,18-Jan-14,13-Mar-14,18-Jan-14,Approve,IN,,,POLS,,POLSMA,,,,peislin,2155,2209
+12,25635849,UGS-MAAdvancedDegree.ParentDoctype,23-Jan-14,01-Apr-14,23-Jan-14,Approve,IN,,,ECON,,ECONMA,,,,iaareces,2136,2204
+13,25904472,UGS-MAAdvancedDegree.ParentDoctype,04-Feb-14,01-Apr-14,11-Feb-14,Approve,IN,,,PHIL,,PHILMA,,,,avrua,2136,2192
+14,26026823,UGS-MAAdvancedDegree.ParentDoctype,10-Feb-14,13-May-15,10-Feb-14,Approve,IN,,,SPAN,,SPANMAT,,,,amnscott,1729,2186
+15,26213131,UGS-MAAdvancedDegree.ParentDoctype,16-Feb-14,09-Jan-15,16-Feb-14,Approve,BL,,,SPHS,,SPHSMA,,,,mmateuma,1853,2180
+16,27870208,UGS-MAAdvancedDegree.ParentDoctype,22-Apr-14,24-Apr-14,22-Apr-14,Approve,BL,,,SPHS,,SPHSMA,,,,UGS.BL.MAAdvDeg.SPHS2,2113,2115
+17,31570762,UGS.Candidacy.Doctype,10-Sep-14,07-Apr-16,10-Sep-14,Approve,BL,Law and Democracy ,,LAW,,LAWSSPHD,,POLSGMIN,,jjhenriq,1399,1974
+18,32669626,UGS.Committee.Doctype,17-Oct-14,23-Oct-14,17-Oct-14,Approve,BL,,,CSCI,,CSCIPHD,,Statistics/Machine Learning,,ehaghver,1931,1937
+19,32669626,UGS.Committee.Doctype,17-Oct-14,23-Oct-14,17-Oct-14,Approve,BL,,,CSCI,,CSCIPHD,,Statistics/Machine Learning,,vgucht,1931,1937
+20,32752173,UGS.Candidacy.Doctype,21-Oct-14,21-Oct-14,21-Oct-14,Approve,BL,,,GEOG,,GEOGPHD,,STATSCIMIN,,UGS.BL.Candidacy.GEOG1,1933,1933
+21,32775798,UGS.Candidacy.Doctype,21-Oct-14,23-Jun-15,22-Oct-14,Approve,IN,,,INFO,,INFOPHDP,,Interdisciplinary,,xiniu,1688,1933
+22,33227112,UGS.Candidacy.Doctype,05-Nov-14,23-Jan-15,05-Nov-14,Approve,IN,,,MNEU,,MNEURSPHD,,Individualized,,goxford,1839,1918
+23,33309318,UGS.Candidacy.Doctype,07-Nov-14,06-Apr-15,07-Nov-14,Approve,IN,,,EDUC,,UREDSTPHD,,SOCIOLMIN,,tcrayton,1766,1916
+24,35021889,UGS.CommitteeV2.Doctype,23-Jan-15,24-Jan-15,23-Jan-15,Approve,BL,,,EDUCLCLE,,LNGEDPHD,,,,lee2,1838,1839
+25,35295298,UGS.CommitteeV2.Doctype,03-Feb-15,12-Oct-15,03-Feb-15,Approve,IN,,,EDUC,,UREDSTPHD,,,,roblhugh,1577,1828
+26,35651356,UGS.Candidacy.Doctype,16-Feb-15,18-Feb-15,16-Feb-15,Approve,IN,,,INFO,,INFOPHDP,,COMPSCIMIN,,baker,1813,1815
+27,36076438,UGS.CommitteeV2.Doctype,04-Mar-15,01-Sep-15,04-Mar-15,Approve,BL,,,EDUCELPS,,HPPEDPHD,,Human rights (minor)International and Comparative Education (con),,jlulm,1618,1799
+28,37040762,UGS.Candidacy.Doctype,09-Apr-15,24-Apr-15,09-Apr-15,Approve,IN,HCI,,INFO,,INFOPHDP,,Individualized,,xiniu,1748,1763
+29,37046737,UGS.Candidacy.Doctype,09-Apr-15,03-Sep-15,09-Apr-15,Approve,IN,,,INFO,INFO,INFOPHDP,INFOPHDP,INHCIMIN,,dbolchin,1616,1763
+30,37132196,UGS.CommitteeV2.Doctype,10-Apr-15,11-Jun-15,10-Apr-15,Approve,IN,,,SHRS,,HREBSCPHD,,Health Promotion,,breagan,1700,1762
+31,37185438,UGS-MAAdvancedDegree.ParentDoctype,14-Apr-15,15-Apr-15,14-Apr-15,Approve,IN,,,MUSE,,MUSSTMA,,,,anirde,1757,1758
+33,40333650,UGS.CommitteeV2.Doctype,10-Jun-15,19-Aug-15,10-Jun-15,Approve,IN,,,BIOC,,BIOCMBPHD,,,,ipetrach,1631,1701
+34,41022327,UGS.CommitteeV2.Doctype,02-Jul-15,10-Jul-15,08-Jul-15,Approve,IN,,,PHSL,,CELINPHPHD,,Diabetes and Obesity,,dthurmon,1671,1679
+35,41907571,UGS-MAAdvancedDegree.ParentDoctype,05-Aug-15,06-Aug-15,05-Aug-15,Approve,IN,,,COMM,,APLCMMA,,,,mecvance,1644,1645
+36,42077559,UGS.Candidacy.Doctype,12-Aug-15,12-Aug-15,12-Aug-15,Approve,IN,,,INFO,,INFOPHD,,Individualized,,apirzade,1638,1638
+37,42097043,UGS.Candidacy.Doctype,12-Aug-15,12-Aug-15,12-Aug-15,Approve,IN,,,,,ANTCBPHD,,LIFSCGMIN,,kjjones1,1638,1638
+38,42097043,UGS.Candidacy.Doctype,12-Aug-15,12-Aug-15,12-Aug-15,Approve,IN,,,,,ANTCBPHD,,LIFSCGMIN,,vsanders,1638,1638
+39,42225765,UGS.Candidacy.Doctype,17-Aug-15,17-Aug-15,17-Aug-15,Approve,IN,,,SHRS,,HREBSCPHD,,HLTPOLMIN,,ellisjen,1633,1633
+40,42266086,UGS.Candidacy.Doctype,18-Aug-15,09-Aug-16,18-Aug-15,Approve,BL,Education Policy Studies,,EDUCELPS,,HPPEDPHD,,HMRTSGMIN,,cochoa,1275,1632
+41,43811859,UGS.Candidacy.Doctype,08-Oct-15,22-Dec-15,08-Oct-15,Approve,IN,Health Informatics,,INFO,,INFOPHD,,Individualized,,dpjohnso,1506,1581
+42,43882590,UGS.CommitteeV2.Doctype,12-Oct-15,12-Oct-15,12-Oct-15,Approve,IN,,,INFO,,INFOPHD,,,,aozhou,1577,1577
+43,44090662,UGS-MAAdvancedDegree.ParentDoctype,19-Oct-15,31-Mar-17,19-Oct-15,Approve,IN,,,CLRES,,CLRESMSCR,,,,engetich,1041,1570
+45,45637421,UGS.Candidacy.Doctype,12-Dec-15,12-Dec-15,12-Dec-15,Approve,BL,,,CMLT,,CMLTPHD,,JSTUGMIN,,UGS.BL.Candidacy.CMLT1,1516,1516
+46,46183461,UGS.Candidacy.Doctype,06-Jan-16,27-Jan-17,06-Jan-16,Approve,IN,Bioinformatics,,INFO,,INFOPHD,,COMPSCIMIN,,alhasan,1104,1491
+47,46210090,UGS.CommitteeV2.Doctype,07-Jan-16,17-Feb-16,07-Jan-16,Approve,IN,,,PHAR,,PHARMPHD,,Life Sciences,,tjjerde,1449,1490
+48,46672568,UGS-MAAdvancedDegree.ParentDoctype,25-Jan-16,05-May-16,25-Jan-16,Approve,BL,,,ENG,,CRWRMFA,,,,UGS.BL.MAAdvDeg.ENG1,1371,1472
+49,46734129,UGS-PhDCommencement.ParentDoctype,26-Jan-16,05-Feb-16,03-Feb-16,Approve,BL,,,HISP,,SPANPHD,,,,ejuarezc,1461,1471
+51,47040761,UGS-MAAdvancedDegree.ParentDoctype,04-Feb-16,04-Feb-16,04-Feb-16,Approve,IN,,,PHST,,PHLSTEXCMA,,,,UGS.IN.MAAdvDeg.PHST1,1462,1462
+52,47197999,UGS-MAAdvancedDegree.ParentDoctype,10-Feb-16,01-Jul-16,10-Feb-16,Approve,BL,,,TEL,,TELMA,,,,,1314,1456
+53,47483988,UGS.Candidacy.Doctype,19-Feb-16,29-Nov-17,29-Nov-17,Approve,BL,Human Geography,,GEOG,,GEOGPHD,,ANTHGMIN,,UGS.BL.Candidacy.GEOG1,798,1447
+54,47587622,UGS-MAAdvancedDegree.ParentDoctype,23-Feb-16,01-Jul-16,23-Feb-16,Approve,IN,Sports Journalism,,JOPR,,SPRTJOUMA1,,,,UGS.IN.MAAdvDeg.JOPR1,1314,1443
+55,47637559,UGS-MAAdvancedDegree.ParentDoctype,25-Feb-16,16-Sep-16,25-Feb-16,Approve,BL,,,CEUS,,CEUSMA,,,,batubozd,1237,1441
+56,47646411,UGS.Candidacy.Doctype,25-Feb-16,29-Feb-16,25-Feb-16,Approve,IN,,,MNEU,,MNEURSPHD,,LIFSCGMIN,,vaskom,1437,1441
+57,48410930,UGS-MAAdvancedDegree.ParentDoctype,23-Mar-16,23-Mar-16,23-Mar-16,Approve,BL,,,AAAD,,AAADSMA,,,,UGS.BL.MAAdvDeg.AAADS1,1414,1414
+58,48410930,UGS-MAAdvancedDegree.ParentDoctype,23-Mar-16,23-Mar-16,23-Mar-16,FYI,BL,,,AAAD,,AAADSMA,,,,ytjackso,1414,1414
+59,48903798,UGS.CommitteeV2.Doctype,08-Apr-16,18-Apr-16,08-Apr-16,Approve,IN,,,PHAR,,PHARMPHD,,cancer biology,,ESROUR,1388,1398
+60,49050479,UGS.CommitteeChangeV2.Doctype,14-Apr-16,14-Apr-16,14-Apr-16,Approve,IN,,,PBHL,,EPIDEMPHD1,,Medical Genetics,,sgrannis,1392,1392
+62,49367570,UGS.ExceptionRevalidation.Doctype,25-Apr-16,22-Jan-17,25-Apr-16,Approve,BL,,,EDUCELPS,,HIEDPHD,,,,ccarney,1109,1381
+63,49514730,UGS.CommitteeV2.Doctype,01-May-16,27-Apr-18,20-Mar-18,Approve,IN,,,INFO,,INFOPHD,,(Individualized) Information Architecture,,akulanth,649,1375
+64,49729580,UGS-MAAdvancedDegree.ParentDoctype,07-May-16,11-Jul-16,08-May-16,Approve,BL,Language Pedagogy,,EALC,,CHINMA,,,,UGS.BL.MAAdvDeg.EALC2,1304,1369
+65,49797037,UGS-MAAdvancedDegree.ParentDoctype,10-May-16,01-Jul-16,10-May-16,Approve,IN,,,TRNSCI,,TRNSCIMS,,,,jmladows,1314,1366
+66,49982141,UGS.CommitteeV2.Doctype,17-May-16,13-Jun-16,17-May-16,Approve,BL,,,EDUCELPS,,HPPEDPHD,,Special Education,,aecoburn,1332,1359
+67,50289358,UGS.ExceptionWaiver.Doctype,26-May-16,20-Jun-16,26-May-16,Approve,BL,International and Comparative Education,,EDUCELPS,,HPPEDPHD,,,,hu22,1325,1350
+68,50289369,UGS.ExceptionWaiver.Doctype,26-May-16,20-Jun-16,26-May-16,Approve,BL,International and Comparative Education,,EDUCELPS,,HPPEDPHD,,,,hu22,1325,1350
+69,50289394,UGS.ExceptionWaiver.Doctype,26-May-16,20-Jun-16,26-May-16,Approve,BL,International and Comparative Education,,EDUCELPS,,HPPEDPHD,,,,hu22,1325,1350
+70,50311247,UGS.CommitteeV2.Doctype,27-May-16,27-May-16,27-May-16,Approve,IN,,,EDUC,,UREDSTPHD,,,,jscheuri,1349,1349
+71,50319083,UGS.ExceptionWaiver.Doctype,27-May-16,20-Jun-16,27-May-16,Approve,BL,International and Comparative Education,,EDUCELPS,,HPPEDPHD,,,,hu22,1325,1349
+72,50374190,UGS.CommitteeChangeV2.Doctype,01-Jun-16,08-Jun-16,01-Jun-16,Approve,IN,,,MICR,,MIIMPHD,,Life Sciences,,adent2,1337,1344
+73,50563852,UGS.ExceptionWaiver.Doctype,07-Jun-16,20-Jul-16,07-Jun-16,Approve,BL,,,EDUCELPS,,HIEDPHD,,LRNDVGMIN,,skinnerc,1295,1338
+74,50731406,UGS.ExceptionWaiver.Doctype,13-Jun-16,14-Jun-16,13-Jun-16,Approve,BL,ESL/EFL,,EDUCLCLE,,LCLNGPHD,,SLSTGMIN,,lewison,1331,1332
+75,5125040,UGS-MAAdvancedDegree.ParentDoctype,28-Sep-09,28-Sep-09,28-Sep-09,Approve,BL,,,GRAD,,SLSTMA,,,,middillo,3782,3782
+76,51786605,UGS.Candidacy.Doctype,19-Jul-16,22-Aug-16,19-Jul-16,Approve,BL,,,EDUCLCLE,,LCLNGPHD,,EDINQGMIN,,ampanos,1262,1296
+77,51941401,UGS.ExceptionWaiver.Doctype,25-Jul-16,25-Jul-16,25-Jul-16,Approve,BL,,,EDUCCEP,,LRNDEVPHD,,HUCPTGMIN,,eblevis,1290,1290
+78,52682851,UGS-MAAdvancedDegree.ParentDoctype,17-Aug-16,18-Jun-19,17-Aug-16,Approve,IN,,,COMM,,APLCMMA,,,,UGS.IN.MAAdvDeg.COMM1,232,1267
+79,52858335,UGS.ExceptionRevalidation.Doctype,23-Aug-16,06-Sep-16,23-Aug-16,Approve,BL,Higher Education,,EDUCELPS,,HPPEDPHD,,,,li374,1247,1261
+80,52878274,UGS.CommitteeV2.Doctype,24-Aug-16,25-Jan-17,20-Jan-17,Approve,BL,,,EDUCIST,,INSYTPHD,,Learning Sciences,,juswhiti,1106,1260
+81,53728393,UGS.CommitteeV2.Doctype,19-Sep-16,19-Sep-16,19-Sep-16,Approve,BL,,,CMLT,,CMLTPHD,,Jewish Studies,,dkerler,1234,1234
+82,53728393,UGS.CommitteeV2.Doctype,19-Sep-16,19-Sep-16,19-Sep-16,Approve,BL,,,CMLT,,CMLTPHD,,Jewish Studies,,eperetz,1234,1234
+83,53775011,UGS.ExceptionRevalidation.Doctype,20-Sep-16,29-Sep-16,20-Sep-16,Approve,BL,,,EDUCELPS,,HIEDPHD,,,,natharri,1224,1233
+84,53912671,UGS-PhDDefense.ParentDoctype,25-Sep-16,30-Nov-16,24-Nov-16,Approve,BL,,,EDUCLCLE,,LCLNGPHD,,Media,,clwessel,1162,1228
+87,54448770,UGS-MAAdvancedDegree.ParentDoctype,11-Oct-16,11-Oct-16,11-Oct-16,Approve,BL,,,EURO,,EUROMA,,,,UGS.BL.MAAdvDeg.WEUR1,1212,1212
+88,54483135,UGS.Candidacy.Doctype,12-Oct-16,25-Oct-16,12-Oct-16,Approve,BL,,,EDUCCEP,,SCPSYPHD,,CNSLGMIN,INQMTHGMIN,mfhanell,1198,1211
+89,54598342,UGS.Candidacy.Doctype,17-Oct-16,03-Oct-17,17-Oct-16,Approve,BL,History of Education,,EDUCELPS,,HPPEDPHD,,Individualized,,khengtge,855,1206
+91,54925954,UGS.ExceptionWaiver.Doctype,26-Oct-16,26-Oct-16,26-Oct-16,Approve,BL,PhD,,EDUCCEP,,SCPSYPHD,,,,skiba,1197,1197
+92,55268993,UGS.CommitteeV2.Doctype,05-Nov-16,05-Dec-19,05-Nov-16,Approve,BL,,,CSCI,,CSCIPHD,,Statistics,,huang48,62,1187
+93,55483617,UGS.Candidacy.Doctype,14-Nov-16,07-Sep-18,14-Nov-16,Approve,BL,,,PHYS,,PHYSPHD,,PHYSGMIN,PHYSGMIN,bforland,516,1178
+94,55517292,UGS.Candidacy.Doctype,15-Nov-16,16-Dec-16,15-Nov-16,Approve,BL,,,EDUCELPS,,HIEDPHD,,EDPOLGMIN,,jonlozan,1146,1177
+95,55536256,UGS.ExceptionWaiver.Doctype,15-Nov-16,18-Nov-16,15-Nov-16,Approve,BL,Learning Sciences,,EDUCCEP,,LRNDEVPHD,,INFOGMIN,,secdunc,1174,1177
+96,55566211,UGS.ExceptionWaiver.Doctype,16-Nov-16,03-Jan-17,16-Nov-16,Approve,BL,Curriculum Studies,,EDUCCI,,CRINPHD,,,,choi254,1128,1176
+97,55570050,UGS.ExceptionWaiver.Doctype,16-Nov-16,09-Jan-17,16-Nov-16,Approve,BL,IR,,EDUCELPS,,HIEDPHD,,EDINQGMIN,,roblhugh,1122,1176
+98,56145000,UGS.CommitteeV2.Doctype,06-Dec-16,07-Dec-16,06-Dec-16,Approve,IN,,,PHAR,,PHARMPHD,,Life Sciences,,libarlow,1155,1156
+99,56162086,UGS.ExceptionWaiver.Doctype,07-Dec-16,13-Dec-16,07-Dec-16,Approve,BL,Higher Education Policy,,EDUCELPS,,HPPEDPHD,,PHLNTGMIN,,rychan,1149,1155
+100,56162886,UGS.ExceptionWaiver.Doctype,07-Dec-16,13-Dec-16,07-Dec-16,Approve,BL,Higher Education Policy,,EDUCELPS,,HPPEDPHD,,PHLNTGMIN,,rychan,1149,1155
+101,56473331,UGS.CommitteeV2.Doctype,16-Dec-16,16-Dec-16,16-Dec-16,Approve,BL,,,EDUCELPS,,HPPEDPHD,,,,,1146,1146
+102,56496647,UGS-MAAdvancedDegree.ParentDoctype,16-Dec-16,03-Jan-18,16-Dec-16,Approve,BL,Philosophy,,HPSC,,HPSCMA,,,,kbrumble,763,1146
+103,56845433,UGS.Candidacy.Doctype,03-Jan-17,13-Jun-17,03-Jan-17,Approve,BL,,,EDUCELPS,,HIEDPHD,,AAADGMIN,,glhowell,967,1128
+104,56888602,UGS.ExceptionWaiver.Doctype,05-Jan-17,30-Jan-17,05-Jan-17,Approve,BL,20th century Russian literature,,SLAV,,SLAVPHD,,ARHSGMIN,,natamats,1101,1126
+105,57439344,UGS.Candidacy.Doctype,24-Jan-17,23-Oct-18,24-Jan-17,Approve,IN,,,PHST,,PHSTDPHD,,NPRFMGTMIN,,cherrold,470,1107
+106,57667315,UGS-MAAdvancedDegree.ParentDoctype,30-Jan-17,07-Sep-17,30-Jan-17,Approve,BL,Journalism,,MSCH,,MEDIAMS,,,,UGS.BL.MAAdvDeg.MSCH1,881,1101
+107,57787790,UGS.ExceptionRevalidation.Doctype,02-Feb-17,08-Feb-17,02-Feb-17,Approve,BL,Counseling Psychology,,EDUCCEP,,COPSYPHD,,HUMDEVGMIN,,astright,1092,1098
+108,57821923,UGS-PhDCommencement.ParentDoctype,03-Feb-17,03-Feb-17,03-Feb-17,Approve,BL,,,ECON,,ECONPHD,,,,dpuzzell,1097,1097
+109,57992298,UGS-MAAdvancedDegree.ParentDoctype,09-Feb-17,23-Feb-17,09-Feb-17,Approve,BL,Painting,,FINS,,FINASMFA,,,,gencohn,1077,1091
+110,58004870,UGS.ExceptionMinor.Doctype,09-Feb-17,14-Feb-17,09-Feb-17,Approve,BL,,,SPH,,EPIDPHD,,,,khanigan,1086,1091
+111,58011612,UGS.CommitteeChangeV2.Doctype,09-Feb-17,09-Feb-17,09-Feb-17,Approve,BL,,,CHEM,,CHEMPHD,,Materials,,iyengar,1091,1091
+112,58071069,UGS.Candidacy.Doctype,10-Feb-17,27-Apr-17,10-Feb-17,Approve,BL,,,CSCI,,CSCIPHD,,BIOINGMIN,,wang558,1014,1090
+113,58136941,UGS-MAAdvancedDegree.ParentDoctype,13-Feb-17,05-Sep-18,13-Feb-17,Approve,BL,Organic,,CHEM,,CHEMMS,,,,lewiskn,518,1087
+114,58149798,UGS.Candidacy.Doctype,14-Feb-17,15-Feb-17,14-Feb-17,Approve,IN,,,ECON,,ECONPHD,,BIOSTATMIN,,UGS.IN.Candidacy.ECON2.ECONPHD,1085,1086
+115,58162950,UGS-MAAdvancedDegree.ParentDoctype,14-Feb-17,01-Mar-17,14-Feb-17,Approve,IN,,,MUSE,,MUSSTMA,,,,anncjord,1071,1086
+116,58207219,UGS.ExceptionWaiver.Doctype,15-Feb-17,16-Feb-17,15-Feb-17,Approve,BL,Learning Sciences,,EDUCCEP,,LRNDEVPHD,,,,leogordo,1084,1085
+117,58225856,UGS.ExceptionWaiver.Doctype,16-Feb-17,26-Oct-17,16-Feb-17,FYI,BL,Quantitative,,EDUCCEP,,INQMTHPHD,,STATSCIMIN,,weihuaan,832,1084
+118,58225856,UGS.ExceptionWaiver.Doctype,16-Feb-17,30-Oct-17,16-Feb-17,Approve,BL,Quantitative,,EDUCCEP,,INQMTHPHD,,STATSCIMIN,,ramosja,828,1084
+119,58306048,UGS-PhDCommencement.ParentDoctype,18-Feb-17,23-Feb-17,20-Feb-17,Approve,BL,,,EDUC,,CRINPHD,,,,yaslan,1077,1082
+121,58335768,UGS-PhDCommencement.ParentDoctype,20-Feb-17,15-May-17,20-Feb-17,Approve,BL,,,GEOL,,GEOLPHD,,,,zyawar,996,1080
+122,58336355,UGS.ExceptionMinor.Doctype,20-Feb-17,21-Feb-17,20-Feb-17,Approve,BL,Quantitative,,EDUCCEP,,INQMTHPHD,,,,weihuaan,1079,1080
+123,58371434,UGS.ExceptionWaiver.Doctype,21-Feb-17,21-Apr-17,21-Feb-17,Approve,BL,,,EDUCELPS,,HIEDPHD,,RELGMIN,,roblhugh,1020,1079
+126,58437926,UGS-MAAdvancedDegree.ParentDoctype,23-Feb-17,10-May-17,23-Feb-17,Approve,BL,Chinese Pedagogy,,EALC,,CHINMA,,,,UGS.BL.MAAdvDeg.EALC1,1001,1077
+127,58441536,UGS.CommitteeV2.Doctype,23-Feb-17,16-Oct-17,23-Feb-17,Approve,BL,,,LAW,,LAWDEMPHD,,Anthropology,,UGS.BL.Committee.LAW1,842,1077
+128,58444178,UGS.ExceptionWaiver.Doctype,23-Feb-17,07-Aug-17,23-Feb-17,Approve,BL,,,EDUCCEP,,SCPSYPHD,,CNSLGMIN,SPEDGMIN,hcflores,912,1077
+129,58448924,UGS-PhDCommencement.ParentDoctype,23-Feb-17,03-Mar-17,23-Feb-17,Approve,BL,,,SPH,,RLEIBEHPHD,,,,alfletch,1069,1077
+130,58513177,UGS-MAAdvancedDegree.ParentDoctype,24-Feb-17,18-Apr-17,24-Feb-17,Approve,BL,,,BIOL,,BIOTECMS,,,,UGS.BL.MAAdvDeg.BIOL.BIOTEC2,1023,1076
+131,58513177,UGS-MAAdvancedDegree.ParentDoctype,24-Feb-17,29-Aug-17,24-Feb-17,Approve,BL,,,BIOL,,BIOTECMS,,,,jtsiler,890,1076
+132,58551703,UGS-MAAdvancedDegree.ParentDoctype,25-Feb-17,25-Feb-17,25-Feb-17,Approve,BL,,,EALC,,EASTMA,,,,UGS.BL.MAAdvDeg.EALC1,1075,1075
+133,58633475,UGS.ExceptionWaiver.Doctype,28-Feb-17,07-Sep-17,28-Feb-17,Approve,BL,,,EDUCCEP,,SCPSYPHD,,CNSLGMIN, select,hcflores,881,1072
+134,58640018,UGS.CommitteeV2.Doctype,28-Feb-17,28-Feb-17,28-Feb-17,Approve,BL,,,CHEM,,CHEMPHD,,,,aflood,1072,1072
+135,58775004,UGS.CommitteeV2.Doctype,03-Mar-17,29-Aug-17,03-Mar-17,Approve,BL,,,GEOL,,GEOLPHD,,Individualized minor ,,jknjau,890,1069
+136,59201562,UGS-PhDCommencement.ParentDoctype,16-Mar-17,17-Mar-17,16-Mar-17,Approve,BL,,,SPH,,KYHPPHD,,,,achitale,1055,1056
+137,59280035,UGS.ExceptionWaiver.Doctype,20-Mar-17,20-Mar-17,20-Mar-17,Approve,BL,AMID/SOAD - MS in Apparel Merchandising,,,,,,,,rachrose,1052,1052
+139,59556532,UGS.CommitteeV2.Doctype,28-Mar-17,28-Mar-17,28-Mar-17,Approve,BL,,,SPH,,RLEIBEHPHD,,Social Science Approaches to Health and Healing Systems ,,sldawson,1044,1044
+140,59632573,UGS.ExceptionRevalidation.Doctype,30-Mar-17,26-Oct-17,30-Mar-17,Approve,BL,,,EDUCLCLE,,LCLNGPHD,,ISTGMIN,,gshoffma,832,1042
+141,59673038,UGS.ExceptionWaiver.Doctype,31-Mar-17,13-Apr-17,31-Mar-17,Approve,BL,Grad IR Certificate,,EDUCELPS,EDUCCEP,HIEDPHD,,INFOGMIN,,apeczals,1028,1041
+143,59978425,UGS.CommitteeV2.Doctype,11-Apr-17,12-Sep-17,29-Aug-17,Approve,BL,,,EDUCCEP,,COPSYPHD,,Health Behavior,,lw55,876,1030
+144,60085955,UGS-MAAdvancedDegree.ParentDoctype,13-Apr-17,10-Jun-19,13-Apr-17,Approve,IN,Public Relations,,JOPR,,PUBRELMA1,,,,UGS.IN.MAAdvDeg.JOPR1,240,1028
+145,60173122,UGS.CommitteeV2.Doctype,17-Apr-17,02-Jan-18,17-Apr-17,Approve,BL,,,CMLT,,CMLTPHD,,English and Germanic Philology minor,,UGS.BL.Committee.CMLT1,764,1024
+146,60175632,UGS.ExceptionWaiver.Doctype,17-Apr-17,08-May-17,17-Apr-17,Approve,BL,,,EDUCCEP,,LRNDEVPHD,,,,luccook,1003,1024
+147,60476185,UGS.ExceptionWaiver.Doctype,25-Apr-17,08-Jun-17,26-Apr-17,Approve,BL,,,BIOL,,EEBPHD,,CPEDGMIN,,savabenn,972,1016
+148,60542301,UGS-PhDDefense.ParentDoctype,27-Apr-17,03-May-17,27-Apr-17,Approve,BL,,,SPH,,KYHPPHD,,Sport Marketing,,colest,1008,1014
+149,60629748,UGS.ExceptionWaiver.Doctype,01-May-17,01-May-17,01-May-17,Approve,BL,,,SLAV,FINA,SLAVPHD,,FINAHGMIN,,natamats,1010,1010
+151,60702367,UGS.ExceptionWaiver.Doctype,02-May-17,02-May-17,02-May-17,Approve,BL,,,EDUCELPS,,HIEDPHD,,INQMTHGMIN,,haweiss,1009,1009
+152,60957869,UGS.Candidacy.Doctype,09-May-17,09-May-17,09-May-17,Approve,BL,,,SOC,,SOCPHD,,Individualized,,sbenard,1002,1002
+153,60960220,UGS.ExceptionWaiver.Doctype,09-May-17,10-May-17,09-May-17,Approve,BL,,,BIOL,,MICRPHD,,EEBGMIN,,rkfritts,1001,1002
+154,61109456,UGS-PhDDefense.ParentDoctype,14-May-17,15-May-17,14-May-17,Approve,BL,,,EDUCCI,,CRINPHD,,Math Education,,klooster,996,997
+155,61147492,UGS.ExceptionWaiver.Doctype,15-May-17,08-Sep-17,15-May-17,Approve,BL,,,BIOL,BIOL,MICRPHD,,BIOCGMIN,,roshiro,880,996
+156,61498366,UGS.Candidacy.Doctype,24-May-17,24-May-17,24-May-17,Approve,BL,,,BIOL,,MCDBPHD,,CHEBIOGMIN,,matan,987,987
+157,61588360,UGS.Candidacy.Doctype,26-May-17,03-Jul-17,26-May-17,Approve,BL,,,EDUCELPS,,HIEDPHD,,INQMTHGMIN,,nsaelua,947,985
+158,61790156,UGS.Candidacy.Doctype,03-Jun-17,06-Jun-17,03-Jun-17,Approve,BL,Cultural Anthropology,,ANTH,,ANTHPHD,,GNDRGMIN,HMRTSGMIN,revalenz,974,977
+159,61910898,UGS.Candidacy.Doctype,07-Jun-17,24-Jul-17,07-Jun-17,Approve,BL,Finance,,BUS,,BUSPHD,,BEPPGMIN,,cheongc,926,973
+160,61959523,UGS.Candidacy.Doctype,08-Jun-17,18-May-18,08-Jun-17,Approve,IN,,,SWK,,SWKPHD,,LIFSCGMIN,,UGS.IN.Candidacy.SWK1,628,972
+161,62090852,UGS.ExceptionWaiver.Doctype,13-Jun-17,26-Jun-17,13-Jun-17,Approve,BL,Ecology,,BIOL,,EEBPHD,,,,vkuo,954,967
+162,62100770,UGS.CommitteeV2.Doctype,13-Jun-17,14-Jun-17,13-Jun-17,Approve,IN,,,NURS,,NURSCPHD,,,,jhostutl,966,967
+163,62734904,UGS.Candidacy.Doctype,29-Jun-17,29-Sep-17,29-Jun-17,Approve,BL,Inorganic,,CHEM,,CHEMPHD,,CHEMGMIN,,erimetzg,859,951
+164,62861721,UGS.Candidacy.Doctype,04-Jul-17,05-Jul-17,04-Jul-17,Approve,BL,French and Francophone Studies,,FRIT,,FRENPHD,,CMLTGMIN,,jtindira,945,946
+174,63356245,UGS-MAAdvancedDegree.ParentDoctype,19-Jul-17,19-Jul-17,19-Jul-17,Approve,IN,,,GEOL,,GEOLMMS,,,,UGS.IN.MAAdvDeg.GEOL1,931,931
+175,63562404,UGS.ExceptionWaiver.Doctype,26-Jul-17,10-Aug-17,26-Jul-17,Approve,BL,Early Childhood Education,,EDUCCI,EDUCCEP,CRINPHD,INQMTHPHD,,,leemel,909,924
+176,63598956,UGS.ExceptionWaiver.Doctype,27-Jul-17,01-Sep-17,27-Jul-17,Approve,BL,,,BIOL,,BIOTECMS,,,,afeil,887,923
+177,63827832,UGS.CommitteeChange.Doctype,03-Aug-17,03-Aug-17,03-Aug-17,Approve,BL,,,PHYS,,PHYSPHD,,,,cl21,916,916
+178,64039346,UGS.Candidacy.Doctype,10-Aug-17,10-Aug-17,10-Aug-17,Approve,BL,,,CMLT,,CMLTPHD,,NELCGMIN,,UGS.BL.Candidacy.CMLT1,909,909
+179,64050500,UGS.Candidacy.Doctype,10-Aug-17,07-Sep-17,10-Aug-17,Approve,BL,,,PHYS,,PHYSPHD,,PHYSGMIN,,nlsherri,881,909
+180,64103887,UGS.Candidacy.Doctype,11-Aug-17,23-Aug-17,11-Aug-17,Approve,BL,,,EDUCLCLE,,LCLNGPHD,,INQMTHGMIN,,zalbulus,896,908
+181,64115590,UGS.Candidacy.Doctype,12-Aug-17,14-Aug-17,12-Aug-17,Approve,IN,,,EDUC,,UREDSTPHD,,SOCIOLMIN,,tcrayton,905,907
+182,64161259,UGS.ExceptionWaiver.Doctype,14-Aug-17,29-Aug-17,14-Aug-17,Approve,BL,Ecology,,BIOL,,EEBPHD,,ENVSCIGMIN,,kbeidler,890,905
+183,64246199,UGS.ExceptionMinor.Doctype,16-Aug-17,24-Aug-17,16-Aug-17,Approve,BL,Developmental,,PSY,,PSYPHD,,,,chenyu,895,903
+185,64354861,UGS.ExceptionWaiver.Doctype,19-Aug-17,22-Aug-17,19-Aug-17,Approve,BL,,,REEI,,REEIMA,,,,sadphil,897,900
+186,64384844,UGS.ExceptionWaiver.Doctype,21-Aug-17,24-Aug-17,21-Aug-17,Approve,BL,,,JOUR,,JOURMA,,,,jrozier,895,898
+187,64525730,UGS-MAAdvancedDegree.ParentDoctype,24-Aug-17,24-Aug-17,24-Aug-17,Approve,BL,,,EALC,,JAPAMA,,,,UGS.BL.MAAdvDeg.EALC1,895,895
+188,64592671,UGS.Candidacy.Doctype,25-Aug-17,14-Jan-20,25-Aug-17,Approve,BL,,,CSCI,COGS,CSCIPHD,COGSPHD,,,UGS.BL.Candidacy.CSCI1,22,894
+189,64667662,UGS.Candidacy.Doctype,29-Aug-17,29-Aug-17,29-Aug-17,Approve,BL,,,SPES,,ENSCIPHD2,,ENSTGMIN,,kprior,890,890
+190,64736543,UGS-MAAdvancedDegree.ParentDoctype,30-Aug-17,27-Nov-18,30-Aug-17,Approve,BL,,,CEUS,,CEUSMA,,,,jomishep,435,889
+191,64772391,UGS.ExceptionWaiver.Doctype,31-Aug-17,07-Oct-17,31-Aug-17,Approve,BL,HCI,,INFO,,INFOPHD,,EDINQGMIN,,ahunsuck,851,888
+192,64804024,COLLGRAD.AdvisoryCom.Doctype,01-Sep-17,26-Feb-18,01-Sep-17,Approve,BL,,,AST,,ASTPAPHD,,,,jukader,709,887
+193,64804024,COLLGRAD.AdvisoryCom.Doctype,01-Sep-17,26-Feb-18,01-Sep-17,FYI,BL,,,AST,,ASTPAPHD,,,,efriel,709,887
+194,64906536,UGS.ExceptionMinor.Doctype,06-Sep-17,06-Sep-17,06-Sep-17,Approve,BL,Qualitative,,EDUCCEP,,INQMTHPHD,,,,njacquar,882,882
+195,65014394,UGS.Candidacy.Doctype,08-Sep-17,08-Sep-17,08-Sep-17,Approve,BL,,,CMLT,,CMLTPHD,,AFRIGMIN,,UGS.BL.Candidacy.CMLT1,880,880
+196,65027782,UGS.CommitteeV2.Doctype,08-Sep-17,21-Feb-18,08-Sep-17,Approve,IN,,,INFO,,INFOPHD,,Health informatics (concentration)/ Bioinformatics (Minor),,lali,714,880
+197,65045176,UGS.ExceptionWaiver.Doctype,08-Sep-17,25-Apr-18,08-Sep-17,Approve,BL,Deaf and Hard of Hearing,,EDUCCI,,SPCEDPHD,,LNGEDGMIN,,jander2,651,880
+198,65293803,UGS.ExceptionMinor.Doctype,15-Sep-17,18-May-18,15-Sep-17,Approve,BL,Medieval Literature,,ENG,,ENGPHD,,,,UGS.BL.DGS.ENG,628,873
+199,65319705,COLLGRAD.AdvisoryCom.Doctype,15-Sep-17,18-Sep-17,15-Sep-17,Approve,BL,,,SLST,,SLSTPHD,,Computer-Mediated Communication,,herring,870,873
+200,65388040,UGS.CommitteeV2.Doctype,18-Sep-17,19-Sep-17,19-Sep-17,Approve,BL,,,EDUCLCLE,,LCLNGPHD,,African Studies,,diakitea,869,870
+201,65415501,UGS.ExceptionWaiver.Doctype,19-Sep-17,19-Sep-17,19-Sep-17,Approve,BL,,,ILS,,INFSCPHD1,,CMPLNGGMIN,,herring,869,869
+202,65465665,COLLGRAD.AdvisoryCom.Doctype,20-Sep-17,28-Sep-17,20-Sep-17,Approve,BL,,,COGS,,COGSPHD,,Mathematics,,jtownsen,860,868
+203,65465665,COLLGRAD.AdvisoryCom.Doctype,20-Sep-17,28-Sep-17,20-Sep-17,Approve,BL,,,COGS,,COGSPHD,,Mathematics,,pfinn,860,868
+204,65598675,UGS-MAAdvancedDegree.ParentDoctype,25-Sep-17,25-Apr-18,25-Sep-17,Approve,BL,Arabic,,NELC,,NELCMA,,,,UGS.BL.MAAdvDeg.NELC1,651,863
+205,65619917,UGS.Candidacy.Doctype,25-Sep-17,01-May-18,25-Sep-17,Approve,BL,,,CSCI,,CSCIPHD,,CMPLNGGMIN,,habahram,645,863
+207,65885561,UGS-MAAdvancedDegree.ParentDoctype,02-Oct-17,03-Oct-17,02-Oct-17,Approve,BL,,,MATH,,MATHMA,,,,park433,855,856
+208,65905800,UGS.CommitteeV2.Doctype,03-Oct-17,08-May-18,03-Oct-17,Approve,IN,,,BIST,,BISTPHD,,Computer Science,,fgsong,638,855
+209,65905800,UGS.CommitteeV2.Doctype,03-Oct-17,08-May-18,03-Oct-17,Approve,IN,,,BIST,,BISTPHD,,Computer Science,,slourens,638,855
+211,66244367,UGS.ExceptionWaiver.Doctype,12-Oct-17,12-Oct-17,12-Oct-17,Approve,BL,Higher Education and Student Affairs,,EDUCELPS,,HIEDPHD,,,,dlhutchi,846,846
+212,66264548,UGS.CommitteeV2.Doctype,12-Oct-17,27-Oct-17,12-Oct-17,Approve,BL,,,EDUCCI,,SPCEDPHD,,Educational Leadership MIN,,ohalhaje,831,846
+213,66290331,UGS.Candidacy.Doctype,13-Oct-17,14-Nov-17,13-Oct-17,Approve,BL,,,EDUCELPS,,HIEDPHD,,INQRSGMIN,NONPRGMIN,nathana,813,845
+216,66889287,UGS-MAAdvancedDegree.ParentDoctype,31-Oct-17,28-May-19,31-Oct-17,Approve,IN,Public History,,HIST,,HISTMA,,,,UGS.IN.MAAdvDeg.HIST1,253,827
+217,67176711,UGS.ExceptionWaiver.Doctype,08-Nov-17,09-Nov-17,08-Nov-17,Approve,BL,,,SPHS,,SPHSMA,,,,raanders,818,819
+218,67186421,UGS.ExceptionMinor.Doctype,08-Nov-17,16-Nov-17,09-Nov-17,Approve,BL,Higher Education,,EDUCELPS,,HPPEDPHD,,,,gholthau,811,819
+219,67186544,UGS.ExceptionWaiver.Doctype,08-Nov-17,09-Nov-17,09-Nov-17,Approve,BL,Higher Education,,EDUCELPS,,HPPEDPHD,,,,gholthau,818,819
+220,67186610,UGS.ExceptionMinor.Doctype,08-Nov-17,10-Nov-17,09-Nov-17,Approve,BL,Higher Education,,EDUCELPS,,HPPEDPHD,,,,gholthau,817,819
+221,67188908,UGS.ExceptionWaiver.Doctype,09-Nov-17,09-Nov-17,09-Nov-17,Approve,BL,Higher Education,,EDUCELPS,,HPPEDPHD,,,,gholthau,818,818
+222,67293037,UGS.Candidacy.Doctype,13-Nov-17,14-Nov-17,13-Nov-17,Approve,BL,Physical Chemistry,,CHEM,,CHEMPHD,,SCMPTGMIN,,tricard,813,814
+223,67329793,UGS.ExceptionWaiver.Doctype,13-Nov-17,14-Nov-17,13-Nov-17,Approve,BL,Speech-Language Pathology,,SPHS,,SPHSMA,,,,raanders,813,814
+224,67329898,UGS.ExceptionWaiver.Doctype,13-Nov-17,14-Nov-17,13-Nov-17,Approve,BL,Speech Language Pathology ,,SPHS,,SPHSMA,,,,raanders,813,814
+226,67669615,UGS.CommitteeV2.Doctype,23-Nov-17,23-Nov-17,23-Nov-17,Approve,BL,,,CMLT,,CMLTPHD,,Jewish Studies,,UGS.BL.Committee.CMLT1,804,804
+228,67732865,UGS.CommitteeV2.Doctype,28-Nov-17,28-Nov-17,28-Nov-17,Approve,BL,,,MATH,,MATHPHD,,,,,799,799
+229,67833021,UGS.ExceptionRevalidation.Doctype,30-Nov-17,04-Feb-19,30-Nov-17,Approve,BL,Mathematics Education ,,EDUCCI,,CRINPHD,,INQRSGMIN,,egalindo,366,797
+230,67844108,COLLGRAD.AdvisoryComChange.Doctype,30-Nov-17,30-Jan-18,30-Nov-17,Approve,BL,,,CHEM,,CHEMPHD,,Materials Chemistry,,trevdoug,736,797
+231,67847765,UGS.ExceptionWaiver.Doctype,30-Nov-17,01-Dec-17,30-Nov-17,Approve,BL,,,SPHS,,SPHSMA,,,,raanders,796,797
+232,67907991,UGS.ExceptionMinor.Doctype,01-Dec-17,01-Dec-17,01-Dec-17,Approve,IN,Bioinformatics,,INFO,,INFOPHD,,,,UGS.IN.SECREC.INFO,796,796
+233,67907991,UGS.ExceptionMinor.Doctype,01-Dec-17,01-Dec-17,01-Dec-17,FYI,IN,Bioinformatics,,INFO,,INFOPHD,,,,UGS.IN.SECREC.INFO,796,796
+234,67934161,UGS.ExceptionWaiver.Doctype,04-Dec-17,04-Dec-17,04-Dec-17,Approve,BL,,MPA,AADM,SPPA,ARTADMA,,,,xiagong,793,793
+235,67957472,UGS.Candidacy.Doctype,04-Dec-17,05-Dec-17,04-Dec-17,Approve,IN,,,MGEN,,MMGENTPHD,,CANBIOLMIN,,bpschnei,792,793
+236,67957472,UGS.Candidacy.Doctype,04-Dec-17,05-Dec-17,04-Dec-17,Approve,IN,,,MGEN,,MMGENTPHD,,CANBIOLMIN,,lali,792,793
+237,68151614,UGS-MAAdvancedDegree.ParentDoctype,11-Dec-17,08-May-18,11-Dec-17,Approve,BL,,,INTL,,INTLSTMA,,,,UGS.BL.MAAdvDeg.INTL1,638,786
+238,68161451,UGS.Candidacy.Doctype,11-Dec-17,21-Jan-20,06-Feb-18,Approve,BL,,,SPES,,ENSCIPHD2,,DATSCIGMIN,,UGS.Candidacy.UGS.BL,15,786
+239,68164853,UGS.ExceptionWaiver.Doctype,11-Dec-17,12-Dec-17,11-Dec-17,Approve,BL,Speech Language Pathology,,SPHS,,SPHSMA,,,,Raanders,785,786
+240,68214416,UGS.CommitteeV2.Doctype,12-Dec-17,13-Dec-17,12-Dec-17,Approve,IN,,,MGEN,,MMGENTPHD,,,,lali,784,785
+241,68214416,UGS.CommitteeV2.Doctype,12-Dec-17,13-Dec-17,12-Dec-17,Approve,IN,,,MGEN,,MMGENTPHD,,,,mradovic,784,785
+242,68248691,UGS.ExceptionWaiver.Doctype,13-Dec-17,15-Dec-17,13-Dec-17,Approve,BL,,,SPHS,,SPHSMA,,,,raanders,782,784
+243,68394375,UGS.Candidacy.Doctype,18-Dec-17,18-Dec-17,18-Dec-17,Approve,BL,Education Law and Policy,,EDUCELPS,,HPPEDPHD,,SPEDGMIN,,pdober,779,779
+244,68433109,UGS.CommitteeV2.Doctype,19-Dec-17,11-Jan-18,19-Dec-17,Approve,BL,,,EDUCELPS,,HPPEDPHD,,Curriculum Studies,,khengtge,755,778
+247,68476087,UGS.Candidacy.Doctype,20-Dec-17,20-Dec-17,20-Dec-17,FYI,IN,Human-Computer Interaction,,INFO,,INFOPHD,,SOCIOLMIN,,jofjones,777,777
+248,68476087,UGS.Candidacy.Doctype,20-Dec-17,24-Sep-18,20-Dec-17,Approve,IN,Human-Computer Interaction,,INFO,,INFOPHD,,SOCIOLMIN,,pseybold,499,777
+249,68488593,UGS.Candidacy.Doctype,20-Dec-17,02-Feb-18,20-Dec-17,Approve,BL,,,EDUCLCLE,,LCLNGPHD,,BUSGMIN,,chen437,733,777
+250,68541573,UGS.ExceptionRevalidation.Doctype,21-Dec-17,22-Dec-17,21-Dec-17,Approve,BL,,,SPH,,RLEIBEHPHD,,,,tmquash,775,776
+251,68633792,UGS.Candidacy.Doctype,28-Dec-17,28-Dec-17,28-Dec-17,Approve,BL,Graduate Area Certificate in Medieval Studies,,CMLT,,CMLTPHD,,ENGGMIN,,UGS.BL.Candidacy.CMLT1,769,769
+252,68831171,UGS.ExceptionMinor.Doctype,05-Jan-18,08-Jan-18,05-Jan-18,Approve,BL,,,CHEM,,CHEMPHD,,,,zz38,758,761
+253,68842487,UGS.CommitteeChangeV2.Doctype,05-Jan-18,05-Jan-18,05-Jan-18,Approve,IN,,,SHRS,,HREBSCPHD,,Functional Limitations,,rfuchs,761,761
+254,68879692,UGS.Candidacy.Doctype,08-Jan-18,16-Jan-18,08-Jan-18,Approve,BL,Artificial Intelligence,,CSCI,,CSCIPHD,,DATSCIGMIN,,mmaity,750,758
+255,68902733,UGS.ExceptionWaiver.Doctype,09-Jan-18,17-Apr-18,09-Jan-18,Approve,IN,BIOLOGY M.S. (PPNT),,GRAD,,TRNSCIMS,,,,rohpatel,659,757
+257,68995551,UGS.ExceptionWaiver.Doctype,11-Jan-18,11-Jan-18,11-Jan-18,Approve,BL,,,AADM,SPES,ARTADMA,,,,maholwag,755,755
+258,69066048,UGS.CommitteeV2.Doctype,14-Jan-18,19-Jan-18,14-Jan-18,Approve,BL,,,EDUCLCLE,,LCLNGPHD,,,,hajalsul,747,752
+260,69215480,UGS.Candidacy.Doctype,19-Jan-18,26-Jan-18,19-Jan-18,Approve,BL,Education Law and Policy,,EDUCELPS,,HPPEDPHD,,SPEDGMIN,,pdober,740,747
+261,69241363,UGS.Candidacy.Doctype,19-Jan-18,20-Dec-19,19-Jan-18,Approve,BL,Cultural,,ANTH,,ANTHPHD,,LATSGMIN,LTAMCGMIN,slepselt,47,747
+262,69248076,UGS.ExceptionWaiver.Doctype,21-Jan-18,23-Jan-18,21-Jan-18,Approve,BL,,,SPHS,,SPHSMA,,,,raanders,743,745
+263,69274424,UGS.ExceptionWaiver.Doctype,22-Jan-18,22-Jan-18,22-Jan-18,Approve,BL,PhD,,CMLT,,CMLTPHD,,,,eperetz,744,744
+264,69365145,UGS-MAAdvancedDegree.ParentDoctype,24-Jan-18,24-Jan-18,24-Jan-18,Approve,IN,,,JOPR,,SPRTJOUMA1,,,,UGS.IN.MAAdvDeg.JOPR1,742,742
+265,69377490,UGS.CommitteeChangeV2.Doctype,24-Jan-18,25-Jan-18,24-Jan-18,Approve,IN,,,SHRS,,HREBSCPHD,,,,Liu41,741,742
+266,69772686,UGS-MAAdvancedDegree.ParentDoctype,05-Feb-18,22-Apr-19,05-Feb-18,Approve,IN,Public History ,,HIST,,HISTMA,,,,UGS.MAAdvDeg.INFinal.UGS,289,730
+267,69861885,UGS-MAAdvancedDegree.ParentDoctype,07-Feb-18,06-Apr-18,07-Feb-18,Approve,BL,Sculpture,,SOAD,,FINASMFA1,,,,avolwile,670,728
+268,69961532,UGS.CommitteeV2.Doctype,09-Feb-18,25-Feb-19,09-Feb-18,Approve,BL,,,CSCI,,CSCIPHD,,Individualized minor,,quzhou,345,726
+269,69977269,UGS.Candidacy.Doctype,11-Feb-18,13-Feb-18,11-Feb-18,Approve,BL,Analytical Chemistry,,CHEM,,CHEMPHD,,Individualized,,songwo,722,724
+270,69977815,COLLGRAD.AdvisoryCom.Doctype,11-Feb-18,12-Feb-18,11-Feb-18,Approve,BL,,,MSCH,,MDARSCPHD,,Ethnomusicology,,rguins,723,724
+271,69989694,UGS.ExceptionRevalidation.Doctype,12-Feb-18,12-Feb-18,12-Feb-18,Approve,BL,,,EDUCCI,,SPCEDPHD,,CURRSTGMIN,,dflinder,723,723
+272,70118285,COLLGRAD.AdvisoryCom.Doctype,14-Feb-18,15-Feb-18,14-Feb-18,Approve,BL,,,MSCH,,MDARSCPHD,,French/Francophone Studies,,rguins,720,721
+273,70118285,COLLGRAD.AdvisoryCom.Doctype,14-Feb-18,15-Feb-18,14-Feb-18,Approve,BL,,,MSCH,,MDARSCPHD,,French/Francophone Studies,,sdeboer,720,721
+274,70154047,UGS-MAAdvancedDegree.ParentDoctype,15-Feb-18,15-Feb-18,15-Feb-18,Approve,BL,Media Design and Production,,MSCH,,MEDIAMS,,,,UGS.BL.MAAdvDeg.MSCH1,720,720
+275,70293158,UGS.CommitteeV2.Doctype,20-Feb-18,20-Feb-18,20-Feb-18,Approve,BL,,,EDUCCI,,CRINPHD,,Mathematics,,mdaiga,715,715
+276,70320168,UGS-MAAdvancedDegree.ParentDoctype,21-Feb-18,27-Nov-18,21-Feb-18,Approve,BL,Iranian Studies,,CEUS,,CEUSMA,,,,jermbutl,435,714
+277,70366104,UGS.Candidacy.Doctype,22-Feb-18,04-Dec-18,22-Feb-18,Approve,BL,,,LAW,,LAWDEMPHD,,POLSGMIN,,UGS.BL.Candidacy.LAW1,428,713
+278,70451901,UGS-MAAdvancedDegree.ParentDoctype,23-Feb-18,23-Feb-18,23-Feb-18,Approve,BL,Printmaking,,SOAD,,FINASMFA1,,,,nebakell,712,712
+279,70568793,UGS-PhDDefense.ParentDoctype,27-Feb-18,28-Feb-18,27-Feb-18,Approve,BL,,,EDUCELPS,,HIEDPHD,,,,johshuck,707,708
+280,70717194,UGS.CommitteeChangeV2.Doctype,05-Mar-18,05-Mar-18,05-Mar-18,Approve,BL,,,EDUCCEP,,INQMTHPHD,,Sociology,,lrutkows,702,702
+281,70831469,UGS.ExceptionRevalidation.Doctype,07-Mar-18,04-Feb-19,07-Mar-18,Approve,BL,Mathematics Education ,,EDUCCI,,CRINPHD,,INQRSGMIN,,egalindo,366,700
+282,70872689,COLLGRAD.AdvisoryCom.Doctype,08-Mar-18,08-Mar-18,08-Mar-18,Approve,BL,,,POLS,,POLSPHD,,Data Science,,cdesante,699,699
+283,71196260,UGS.Candidacy.Doctype,16-Mar-18,23-Mar-18,16-Mar-18,Approve,BL,International and Comparative Education,,EDUCELPS,,HPPEDPHD,,SOCGMIN,,takada,684,691
+284,71290005,UGS-PhDDefense.ParentDoctype,20-Mar-18,21-Mar-18,20-Mar-18,Approve,BL,,,EDUCLCLE,,LCLNGPHD,,,,fpawan,686,687
+285,71335783,UGS.CommitteeV2.Doctype,21-Mar-18,21-Mar-18,21-Mar-18,Approve,BL,,,CMLT,,CMLTPHD,,English (Medieval British Lit. & Langs.),,UGS.BL.Committee.CMLT1,686,686
+287,71788724,UGS.Candidacy.Doctype,04-Apr-18,18-Apr-18,04-Apr-18,Approve,IN,Human-Centered Computing,,INFO,,INFOPHD,,COMPSCIMIN,,vpcornet,658,672
+288,71970286,UGS-PhDDefense.ParentDoctype,10-Apr-18,12-Apr-18,10-Apr-18,Approve,BL,,,INFO,,INFOPHD,,Anthropology,,hsrawcli,664,666
+289,72137229,UGS.ExceptionWaiver.Doctype,16-Apr-18,16-Apr-18,16-Apr-18,Approve,BL,,,AAAD,,AAADSMA,,,,jakowill,660,660
+290,72159865,UGS.ExceptionMinor.Doctype,16-Apr-18,18-Apr-18,16-Apr-18,Approve,BL,Human Computer Interaction Design,,INFO,,INFOPHD,,,,stsher,658,660
+291,72192942,UGS.ExceptionRevalidation.Doctype,17-Apr-18,03-May-18,17-Apr-18,Approve,BL,,,EDUCIST,,INSYTPHD,,,,sloucks,643,659
+292,72301993,UGS-PhDDefense.ParentDoctype,19-Apr-18,25-Apr-18,19-Apr-18,Approve,BL,,,PHYS,,PHYSPHD,,Physics (minor),,zidulin,651,657
+305,72435579,UGS.CommitteeV2.Doctype,24-Apr-18,01-Feb-19,24-Apr-18,Approve,BL,,,GEOL,,GEOLPHD,,,,kajjohns,369,652
+307,72861852,UGS.ExceptionWaiver.Doctype,07-May-18,07-May-18,07-May-18,Approve,BL,,,EDUCCI,,SPCEDPHD,,,,kabixler,639,639
+308,72940504,UGS.Candidacy.Doctype,08-May-18,08-May-18,08-May-18,Approve,BL,Literature,,ENG,,ENGPHD,,Individualized,,UGS.BL.Candidacy.ENG1,638,638
+309,73000974,UGS.CommitteeV2.Doctype,09-May-18,30-Dec-19,07-Jul-19,Approve,BL,,,SPES,,ENSCIPHD2,,,,dhenshel,37,637
+310,73000974,UGS.CommitteeV2.Doctype,09-May-18,30-Dec-19,07-Jul-19,Approve,BL,,,SPES,,ENSCIPHD2,,,,djwild,37,637
+311,73038709,UGS-MAAdvancedDegree.ParentDoctype,10-May-18,27-Sep-19,10-May-18,Approve,IN,,,PHSL,,CELINPHMS,,,,UGS.IN.MAAdvDeg.PHSL1,131,636
+312,73095893,UGS.ExceptionWaiver.Doctype,12-May-18,14-May-18,12-May-18,Approve,BL,,,SPHS,,SPHSMA,,,,raanders,632,634
+313,73200040,UGS.CommitteeV2.Doctype,16-May-18,18-Jan-19,16-May-18,Approve,BL,,,COGS,INFO,COGSPHD,INFOPHD,Distributed Cognition,"Computing, Culture, and Society",dequeue,383,630
+314,73226017,UGS.CommitteeV2.Doctype,16-May-18,17-Dec-19,16-May-18,Approve,BL,,,EDUCELPS,,HPPEDPHD,,Education Policy Studies concentration / Law MIN,,pdober,50,630
+315,73380202,UGS.ExceptionRevalidation.Doctype,21-May-18,28-Jun-18,21-May-18,Approve,BL,Curriculum & Instruction ? Specialization in Mathematics Education,,EDUCCI,,CRINPHD,,INQRSGMIN,,pkbharaj,587,625
+316,73473524,UGS.CommitteeV2.Doctype,23-May-18,23-May-18,23-May-18,Approve,BL,,,GEOL,,GEOLPHD,,,,ckieu,623,623
+317,73883883,UGS-PhDDefense.ParentDoctype,05-Jun-18,06-Jun-18,05-Jun-18,Approve,BL,,,CHEM,,CHEMPHD,,,,beedrape,609,610
+318,73965524,UGS.CommitteeV2.Doctype,07-Jun-18,20-Jul-18,07-Jun-18,Approve,IN,,,INFO,INFO,INFOPHD,INFOPHD,Dental Informatics,,jsp2,565,608
+319,74160278,COLLGRAD.AdvisoryCom.Doctype,13-Jun-18,13-Jun-18,13-Jun-18,Approve,BL,,,CHEM,,CHEMPHD,,Organic,,aflood,602,602
+320,74160278,COLLGRAD.AdvisoryCom.Doctype,13-Jun-18,13-Jun-18,13-Jun-18,Approve,BL,,,CHEM,,CHEMPHD,,Organic,,xingye,602,602
+321,74449847,UGS.ExceptionWaiver.Doctype,20-Jun-18,01-Aug-18,20-Jun-18,Approve,BL,Dual MA REEI/MPA SPEA,Dual MA REEI/MPA SPEA,REEI,SPPP,REEIMA,,,,UGS.BL.DGS.SPPP,553,595
+322,74470231,UGS.Candidacy.Doctype,21-Jun-18,27-Jun-18,21-Jun-18,Approve,BL,,,BIOL,,MICRPHD,,GENGMIN,,mt52,588,594
+323,74871136,UGS-PhDDefense.ParentDoctype,02-Jul-18,02-Jul-18,02-Jul-18,Approve,BL,,,CHEM,,CHEMPHD,,Analytical,,akfriedm,583,583
+324,74871826,UGS.ExceptionWaiver.Doctype,02-Jul-18,05-Jul-18,02-Jul-18,Approve,BL,,,CHEM,,CHEMPHD,,CHEMGMIN,,aflood,580,583
+325,74881202,UGS-PhDDefense.ParentDoctype,02-Jul-18,02-Jul-18,02-Jul-18,Approve,BL,,,PHYS,,PHYSPHD,,Nuclear,,nbcallah,583,583
+326,74884472,UGS.CommitteeChangeV2.Doctype,02-Jul-18,03-Jul-18,02-Jul-18,Approve,IN,,,PBHL,,HLPMPHD1,,Medical Sociology,,nmodibo,582,583
+327,74955837,UGS-MAAdvancedDegree.ParentDoctype,04-Jul-18,26-Aug-19,04-Jul-18,Approve,IN,Sport Event,,TCEM,,EVTOURMS,,,,zachhall,163,581
+328,74978612,UGS-PhDDefense.ParentDoctype,05-Jul-18,16-Jul-18,05-Jul-18,Approve,BL,,,ILS,,INFSCPHD1,,Virtual Heritage,,hsrawcli,569,580
+355,75933668,UGS.CommitteeV2.Doctype,07-Aug-18,08-Aug-18,07-Aug-18,Approve,BL,,,PHIL,,PHILPHD,,History and Philosophy of Science and Medicine,,pshephar,546,547
+361,76081883,UGS.Candidacy.Doctype,10-Aug-18,12-Oct-18,10-Aug-18,Approve,IN,,,MNEU,,MNEURSPHD,,LIFSCGMIN,,,481,544
+362,76088299,UGS.CommitteeV2.Doctype,12-Aug-18,27-Aug-18,12-Aug-18,Approve,BL,,,EDUCIST,,INSYTPHD,,Human-Computer Interaction Design,,zkhlaif,527,542
+363,76147252,UGS.Candidacy.Doctype,14-Aug-18,07-Aug-19,14-Aug-18,Approve,IN,,,MAT,,MUTECHPHD,,Individualized,,cfoley,182,540
+364,76176964,UGS-MAAdvancedDegree.ParentDoctype,15-Aug-18,05-Nov-18,15-Aug-18,Approve,BL,Language Pedagogy,,EALC,,CHINMA,,,,UGS.BL.MAAdvDeg.EALC2,457,539
+365,76227828,UGS.Candidacy.Doctype,16-Aug-18,19-Dec-19,16-Aug-18,Approve,BL,Intelligent Systems,,CSCI,,CSCIPHD,,STATSCIMIN,,dmanriqu,48,538
+370,76265682,UGS.ExceptionWaiver.Doctype,17-Aug-18,17-Aug-18,17-Aug-18,Approve,BL,Mathematics Education,,EDUCCI,,CRINPHD,,,,etillema,537,537
+371,76269316,UGS-MAAdvancedDegree.ParentDoctype,17-Aug-18,17-Aug-18,17-Aug-18,Approve,IN,,,PHSL,,CELINPHMS,,,,UGS.IN.MAAdvDeg.PHSL1,537,537
+372,76326488,UGS.ExceptionWaiver.Doctype,20-Aug-18,20-Sep-18,20-Aug-18,Approve,BL,,,AADM,,ARTADMA,,,,jagideon,503,534
+373,76339721,UGS.Candidacy.Doctype,21-Aug-18,06-Sep-18,21-Aug-18,Approve,BL,,,STAT,,STATSCPHD,,CSCIGMIN,,dmanriqu,517,533
+374,76377539,UGS.ExceptionWaiver.Doctype,22-Aug-18,22-Aug-18,22-Aug-18,Approve,IN,HCI,,INFO,,INFOPHD,,,,UGS.IN.SECREC.INFO,532,532
+375,76377539,UGS.ExceptionWaiver.Doctype,22-Aug-18,22-Aug-18,22-Aug-18,FYI,IN,HCI,,INFO,,INFOPHD,,,,UGS.IN.SECREC.INFO,532,532
+378,76400595,UGS.ExceptionMinor.Doctype,22-Aug-18,08-Nov-19,22-Aug-18,Approve,BL,,,OPT,,VISSCPHD,,,,sumuru,89,532
+381,76448466,UGS.ExceptionWaiver.Doctype,23-Aug-18,23-Aug-18,23-Aug-18,Approve,IN,HCI,,INFO,,INFOPHD,,,,UGS.IN.SECREC.INFO,531,531
+382,76448466,UGS.ExceptionWaiver.Doctype,23-Aug-18,23-Aug-18,23-Aug-18,FYI,IN,HCI,,INFO,,INFOPHD,,,,UGS.IN.SECREC.INFO,531,531
+383,76505888,UGS.ExceptionWaiver.Doctype,24-Aug-18,27-Aug-18,24-Aug-18,Approve,BL,Complex Systems / Virtual Heritage,,INFO,,INFOPHD,,ARHSGMIN,,kemcclin,527,530
+384,76524354,UGS.Candidacy.Doctype,26-Aug-18,26-Aug-18,26-Aug-18,Approve,BL,Literature,,ENG,,ENGPHD,,CMLTGMIN,,UGS.BL.Candidacy.ENG1,528,528
+385,76623947,UGS.Candidacy.Doctype,29-Aug-18,26-Sep-18,29-Aug-18,Approve,BL,,,EDUCELPS,,HIEDPHD,,Individualized,,nbrehl,497,525
+400,76824002,UGS.Candidacy.Doctype,05-Sep-18,06-Sep-18,05-Sep-18,Approve,IN,,,EDUC,,UREDSTPHD,,SOCIOLMIN,,mncoomer,517,518
+401,76842720,UGS.Candidacy.Doctype,06-Sep-18,25-Jan-19,06-Sep-18,Approve,BL,,,EAS,,GEOLPHD,,ENSTGMIN,,chenzhu,376,517
+411,77065001,UGS.ExceptionRevalidation.Doctype,12-Sep-18,30-Apr-19,10-Apr-19,Approve,BL,,,EDUCELPS,,HIEDPHD,,INQMTHGMIN,,rmerckle,281,511
+414,77095446,UGS-MAAdvancedDegree.ParentDoctype,13-Sep-18,12-Dec-19,13-Sep-18,Approve,BL,,,SOC,,SOCMA,,,,kbeardal,55,510
+415,77108870,UGS.Candidacy.Doctype,14-Sep-18,17-Sep-18,14-Sep-18,Approve,IN,,,EDUC,,UREDSTPHD,,Individualized,,mcduff,506,509
+416,77153563,UGS.CommitteeV2.Doctype,17-Sep-18,19-Sep-18,17-Sep-18,Approve,BL,,,PHIL,,PHILPHD,,History of German thought,,JTURk,504,506
+417,77216851,COLLGRAD.AdvisoryCom.Doctype,18-Sep-18,18-Sep-18,18-Sep-18,Approve,BL,,,MSCH,,MDARSCPHD,,French,,francist,505,505
+419,77230431,COLLGRAD.AdvisoryCom.Doctype,18-Sep-18,19-Sep-18,18-Sep-18,Approve,BL,,,MSCH,,MDARSCPHD,,Social Informatics,,mailland,504,505
+423,77418658,UGS.ExceptionWaiver.Doctype,24-Sep-18,25-Sep-18,24-Sep-18,Approve,BL,Early Childhood Education,,EDUCCI,EDUCCEP,CRINPHD,INQMTHPHD,,,leemel,498,499
+424,77427475,UGS.Candidacy.Doctype,25-Sep-18,25-Sep-18,25-Sep-18,Approve,BL,Materials Chemistry,,CHEM,,CHEMPHD,,Individualized,,jds34,498,498
+426,77660007,UGS.CommitteeV2.Doctype,02-Oct-18,04-Oct-18,02-Oct-18,Approve,BL,,,MUS,,MSEDPHD,,Jazz and African American Soul Studies,,icalhoun,489,491
+427,77680245,COLLGRAD.AdvisoryCom.Doctype,03-Oct-18,04-Oct-18,03-Oct-18,Approve,BL,,,MSCH,,MDARSCPHD,,1. Cognitive Science 2. Human Computer Interaction (Design Emphasis),,gbingham,489,490
+430,77799139,UGS.Candidacy.Doctype,08-Oct-18,04-Dec-18,08-Oct-18,Approve,BL,Public Management and Policy Analysis,,SPPA,,PBAFFPHD2,,Individualized,,rabellog,428,485
+431,77847935,UGS.CommitteeChangeV2.Doctype,09-Oct-18,09-Oct-18,09-Oct-18,Approve,BL,,,EAS,,GEOLPHD,,Geochemistry,,dalkilic,484,484
+432,77861163,UGS.ExceptionMinor.Doctype,09-Oct-18,09-Oct-18,09-Oct-18,Approve,BL,Health,,INFO,,INFOPHD,,,,ckresnye,484,484
+433,77963506,UGS.CommitteeV2.Doctype,12-Oct-18,18-Apr-19,12-Oct-18,Approve,IN,,,DENT,,DNTPHPHD,,Life Science,,jfyepes,293,481
+435,78009587,COLLGRAD.AdvisoryCom.Doctype,15-Oct-18,16-Oct-18,15-Oct-18,Approve,BL,,,MSCH,,MDARSCPHD,,French,,francist,477,478
+436,78024493,UGS.CommitteeV2.Doctype,15-Oct-18,16-Oct-18,15-Oct-18,Approve,IN,,,MNEU,,MNEURSPHD,,Life Science,,dlahiri,477,478
+437,78024493,UGS.CommitteeV2.Doctype,15-Oct-18,16-Oct-18,15-Oct-18,Approve,IN,,,MNEU,,MNEURSPHD,,Life Science,,,477,478
+438,78026480,UGS.CommitteeV2.Doctype,15-Oct-18,25-Feb-19,16-Oct-18,Approve,IN,,,MNEU,,MNEURSPHD,,Biostatistics,,lapostol,345,478
+439,78104663,UGS.CommitteeV2.Doctype,17-Oct-18,23-Oct-18,17-Oct-18,Approve,BL,,,EDUCCEP,,INQMTHPHD,,Statistics,,jumpauls,470,476
+440,78107765,UGS.ExceptionWaiver.Doctype,17-Oct-18,18-Oct-18,17-Oct-18,Approve,BL,Phonology,,LING,,LINGPHD,,SPHSGMIN,,slulich,475,476
+441,78108076,UGS.CommitteeV2.Doctype,17-Oct-18,18-Oct-18,17-Oct-18,Approve,BL,,,CSCI,,CSCIPHD,,Computer Systems,,smash,475,476
+442,78187997,UGS.CommitteeV2.Doctype,19-Oct-18,23-Oct-18,19-Oct-18,Approve,IN,,,MNEU,,MNEURSPHD,,Life Sciences,,clasagna,470,474
+443,78187997,UGS.CommitteeV2.Doctype,19-Oct-18,23-Oct-18,19-Oct-18,Approve,IN,,,MNEU,,MNEURSPHD,,Life Sciences,,lapostol,470,474
+447,78228587,UGS.CommitteeV2.Doctype,22-Oct-18,17-Dec-18,22-Oct-18,Approve,IN,,,MAT,,MUTECHPHD,,,,deal,415,471
+448,78234006,COLLGRAD.AdvisoryCom.Doctype,22-Oct-18,22-Oct-18,22-Oct-18,Approve,BL,,,MSCH,,MDARSCPHD,,Informatics,,bfrische,471,471
+456,78364204,UGS.ExceptionMinor.Doctype,25-Oct-18,26-Oct-18,25-Oct-18,Approve,BL,,,EDUCLCLE,,LCLNGPHD,,,,hkahn,467,468
+457,78399743,UGS.Candidacy.Doctype,27-Oct-18,27-Oct-18,27-Oct-18,Approve,IN,,,PHST,,PHSTDPHD,,Individualized,,UGS.IN.Candidacy.PHST1,466,466
+458,78414255,UGS.ExceptionWaiver.Doctype,29-Oct-18,30-Oct-18,29-Oct-18,Approve,BL,,,SPH,,AHHBPHD,,EPIDMGMIN,HMSXLGMIN,kvanterp,463,464
+459,78446636,UGS.Candidacy.Doctype,30-Oct-18,09-Sep-19,30-Oct-18,Approve,IN,,,PHST,,PHSTDPHD,,Individualized,,hkahn,149,463
+460,78495734,UGS.Candidacy.Doctype,31-Oct-18,20-Nov-18,31-Oct-18,Approve,IN,,,EDUC,,UREDSTPHD,,Individualized,,sbangert,442,462
+461,78544424,UGS.Candidacy.Doctype,01-Nov-18,12-Dec-19,01-Nov-18,FYI,BL,,,JOUR,,MCOMJPHD,,INFSCGMIN,,mgrabe,55,461
+462,78544424,UGS.Candidacy.Doctype,01-Nov-18,16-Dec-19,01-Nov-18,Approve,BL,,,JOUR,,MCOMJPHD,,INFSCGMIN,,UGS.BL.Candidacy.JOUR1,51,461
+466,78681766,COLLGRAD.AdvisoryCom.Doctype,06-Nov-18,28-Nov-18,06-Nov-18,Approve,BL,,,SLST,,SLSTPHD,,Linguistics/Computational Linguistics,,shin36,434,456
+469,78738124,UGS.ExceptionWaiver.Doctype,07-Nov-18,15-Nov-18,07-Nov-18,Approve,BL,,Dual MA REEI/MPA SPEA (Energy concentration),REEI,SPES,REEIMA,ENERGYMSES,,,richmorg,447,455
+470,78773357,UGS.CommitteeV2.Doctype,08-Nov-18,09-Nov-18,08-Nov-18,Approve,BL,,,EDUCCEP,,COPSYPHD,,Human Sexuality,,eklann,453,454
+471,78810533,UGS.Candidacy.Doctype,09-Nov-18,30-Aug-19,09-Nov-18,Approve,BL,Children's and Young Adult Literature,,EDUCLCLE,,LNGEDPHD,,AAADGMIN,,hammonda,159,453
+474,78890251,UGS.ExceptionMinor.Doctype,13-Nov-18,13-Nov-18,13-Nov-18,Approve,BL,Biochemistry,,BIOC,,BIOCPHD,,,,fhuerta,449,449
+477,78938071,UGS.Candidacy.Doctype,14-Nov-18,02-Dec-19,14-Nov-18,Approve,BL,,,OPT,,VISSCPHD,,NEUSGMIN,,UGS.BL.Candidacy.OPT1,65,448
+478,78938791,UGS.CommitteeV2.Doctype,14-Nov-18,14-Nov-18,14-Nov-18,Approve,BL,,,OPT,,VISSCPHD,,Neuroscience,,UGS.BL.Committee.OPT1,448,448
+483,79030971,COLLGRAD.AdvisoryCom.Doctype,16-Nov-18,26-Nov-18,16-Nov-18,Approve,BL,,,GEOG,ENG,GEOGPHD,ENGPHD,,,iashutos,436,446
+486,79044293,UGS.ExceptionMinor.Doctype,16-Nov-18,15-Oct-19,16-Nov-18,Approve,BL,,,JOUR,,MCOMJPHD,,,,herring,113,446
+487,79053528,UGS.CommitteeV2.Doctype,17-Nov-18,28-Nov-18,17-Nov-18,Approve,IN,,,BIST,,BISTPHD,,Epidemiology,,chashen,434,445
+490,79074412,UGS.CommitteeV2.Doctype,19-Nov-18,14-Nov-19,14-Nov-19,Approve,IN,,,MNEU,,MNEURSPHD,,Life Sciences,,lapostol,83,443
+495,79223557,UGS.Candidacy.Doctype,27-Nov-18,19-Dec-18,27-Nov-18,Approve,BL,,,EDUCELPS,,HIEDPHD,,LRNDVGMIN,,skinnerc,413,435
+496,79234715,UGS.ExceptionWaiver.Doctype,27-Nov-18,28-Nov-18,27-Nov-18,Approve,BL,Slavic Linguistics,,SLAV,,SLAVPHD,,,,UGS.BL.DGS.SLAV,434,435
+497,79241053,UGS.ExceptionWaiver.Doctype,27-Nov-18,29-Nov-18,27-Nov-18,Approve,BL,,,BIOL,,MICRPHD,,GENGMIN,,UGS.BL.DGS.BIOL,433,435
+501,79359547,UGS.ExceptionWaiver.Doctype,30-Nov-18,04-Feb-19,30-Nov-18,Approve,BL,Quantitative Track,,EDUCCEP,,INQMTHPHD,,EPIDMGMIN,,stepunde,366,432
+504,79386013,UGS-MAAdvancedDegree.ParentDoctype,03-Dec-18,03-Dec-18,03-Dec-18,Approve,BL,,,GRAD,,CYSRMGDEMS,,,,UGS.BL.MAAdvDeg.GRAD1,429,429
+505,79449007,UGS.CommitteeV2.Doctype,04-Dec-18,04-Dec-18,04-Dec-18,Approve,IN,,,INFO,,INFOPHD,,,,jsp2,428,428
+506,79464808,UGS.CommitteeChangeV2.Doctype,05-Dec-18,05-Dec-18,05-Dec-18,Approve,BL,,,GEOG,,GEOGPHD,,food studies minor,,UGS.BL.Committee.GEOG1,427,427
+512,79690189,UGS-MAAdvancedDegree.ParentDoctype,13-Dec-18,03-Jan-19,13-Dec-18,Approve,BL,History,,CEUS,,CEUSMA,,,,jonrmccl,398,419
+513,79779789,UGS.Candidacy.Doctype,16-Dec-18,17-Dec-18,16-Dec-18,Approve,BL,XIX-XX Century Literature - Prose,,HISP,,PORTPHD,,LTAMCGMIN,,UGS.BL.Candidacy.HISP1,415,416
+514,79846070,UGS.Candidacy.Doctype,18-Dec-18,20-Feb-19,18-Dec-18,Approve,IN,,,PHSL,,CELINPHPHD,,CLINRSHMIN,,kkroenke,350,414
+515,79848144,UGS.Candidacy.Doctype,18-Dec-18,18-Dec-18,18-Dec-18,Approve,BL,,,LAW,,LAWDEMPHD,,ANTHGMIN,,UGS.BL.Candidacy.LAW1,414,414
+516,79849842,UGS.Candidacy.Doctype,18-Dec-18,18-Dec-18,18-Dec-18,Approve,BL,,,HISP,,PORTPHD,,HPSCGMIN,,mcguimar,414,414
+517,79853333,UGS.CommitteeV2.Doctype,18-Dec-18,20-Feb-19,18-Dec-18,Approve,IN,,,PHSL,,CELINPHPHD,,,,dpbasile,350,414
+518,79898047,UGS-MAAdvancedDegree.ParentDoctype,19-Dec-18,19-Dec-18,19-Dec-18,Approve,IN,Medical Sociology,,SOC,,SOCMA,,,,UGS.IN.MAAdvDeg.SOC1,413,413
+519,79911198,UGS.CommitteeV2.Doctype,20-Dec-18,20-Dec-18,20-Dec-18,Approve,BL,,,OPT,,VISSCPHD,,Individualized,,UGS.BL.Committee.OPT1,412,412
+520,79958162,UGS-MAAdvancedDegree.ParentDoctype,21-Dec-18,15-Oct-19,21-Dec-18,Approve,IN,,,MICR,,MIIMMS,,,,UGS.MAAdvDeg.INFinal.UGS,113,411
+521,80083091,UGS.Candidacy.Doctype,28-Dec-18,08-Jan-19,28-Dec-18,Approve,BL,,,EDUCELPS,,HIEDPHD,,INQMTHGMIN,,nsaelua,393,404
+522,80149645,UGS.ExceptionWaiver.Doctype,03-Jan-19,07-Jan-19,03-Jan-19,Approve,BL,,,BIOC,,BIOCPHD,,BIOCGMIN,,bgstritt,394,398
+523,80186084,UGS.Candidacy.Doctype,04-Jan-19,28-May-19,04-Jan-19,Approve,BL,Inorganic,,CHEM,,CHEMPHD,,PHYCHEGMIN,,dbeagan,253,397
+524,80186463,UGS.CommitteeV2.Doctype,04-Jan-19,06-Dec-19,04-Jan-19,Approve,BL,,,CHEM,,CHEMPHD,,Physical Chemistry,,kraghava,61,397
+527,80213012,UGS.Candidacy.Doctype,07-Jan-19,08-Jan-19,07-Jan-19,Approve,BL,,,MATH,,MPHYSMPHD,,MATHGMIN,,lahiria,393,394
+532,80298735,UGS-MAAdvancedDegree.ParentDoctype,09-Jan-19,01-Nov-19,09-Jan-19,Approve,BL,,,CEUS,,CEUSMA,,,,smubarak,96,392
+533,80301046,UGS.Candidacy.Doctype,09-Jan-19,09-Jan-19,09-Jan-19,Approve,BL,Public Relations,,JOUR,,MCOMJPHD,,Individualized,,UGS.BL.Candidacy.JOUR1,392,392
+540,80455799,UGS.Candidacy.Doctype,14-Jan-19,18-Jan-19,14-Jan-19,Approve,IN,Bio-Informatics,,INFO,,INFOPHD,,Individualized,,UGS.Candidacy.UGS.IN,383,387
+543,80573616,UGS.CommitteeV2.Doctype,17-Jan-19,17-Jan-19,17-Jan-19,Approve,BL,,,CMLT,,CMLTPHD,,French,,UGS.BL.Committee.CMLT1,384,384
+546,80604653,UGS.Candidacy.Doctype,18-Jan-19,18-Jan-19,18-Jan-19,Approve,BL,,,CMLT,,CMLTPHD,,GERGMIN,,UGS.BL.Candidacy.CMLT1,383,383
+547,80610180,UGS.Candidacy.Doctype,18-Jan-19,18-Jan-19,18-Jan-19,Approve,IN,Human-Computer Interaction,,INFO,,INFOPHD,,Individualized,,ykaranam,383,383
+548,80610180,UGS.Candidacy.Doctype,18-Jan-19,18-Jan-19,18-Jan-19,FYI,IN,Human-Computer Interaction,,INFO,,INFOPHD,,Individualized,,jofjones,383,383
+551,80641175,UGS.CommitteeV2.Doctype,21-Jan-19,25-Jan-19,21-Jan-19,Approve,BL,,,EDUCCI,,CRINPHD,,Educational Leadership,,euebler,376,380
+554,80663977,UGS.CommitteeV2.Doctype,22-Jan-19,22-Jan-19,22-Jan-19,Approve,BL,,,CMLT,REL,CMLTPHD,RELPHD,Jewish Studies,,UGS.BL.Committee.CMLT1,379,379
+564,80811058,UGS.ExceptionWaiver.Doctype,25-Jan-19,28-Jan-19,25-Jan-19,Approve,BL,History ,,PHIL,,PHILPHD,,HPSCGMIN,,lloyd,373,376
+565,80838404,UGS.CommitteeV2.Doctype,28-Jan-19,30-Jan-19,28-Jan-19,Approve,IN,,,INFO,,INFOPHD,,Biostatistics,,enzeliu,371,373
+566,80842811,UGS.ExceptionWaiver.Doctype,28-Jan-19,30-Jan-19,28-Jan-19,Approve,BL,,,PHIL,,PHILPHD,,HPSCGMIN,,abelson,371,373
+567,80843279,UGS.Candidacy.Doctype,28-Jan-19,28-Jan-19,28-Jan-19,Approve,IN,Bioinformatics,,INFO,,INFOPHD,,BIOSTATMIN,,enzeliu,373,373
+572,80965021,UGS.Candidacy.Doctype,31-Jan-19,12-Dec-19,31-Jan-19,Approve,BL,,,ILS,,INFSCPHD1,,Individualized,,,55,370
+573,81013847,UGS-MAAdvancedDegree.ParentDoctype,03-Feb-19,10-Apr-19,03-Feb-19,Approve,BL,,,EAS,,GEOLMS,,,,anhvu,301,367
+578,81091122,UGS.Candidacy.Doctype,06-Feb-19,06-Feb-19,06-Feb-19,Approve,IN,Bioinformatics,,INFO,,INFOPHD,,BIOSTATMIN,,bpaisley,364,364
+579,81106176,UGS-PhDDefense.ParentDoctype,06-Feb-19,06-Feb-19,06-Feb-19,Approve,BL,,,EDUCCEP,,SCPSYPHD,,Counseling Psychology,,ntw,364,364
+582,81119473,UGS-PhDCommencement.ParentDoctype,06-Feb-19,27-Feb-19,06-Feb-19,Approve,BL,,,CEUS,,CEUSPHD,,,,ttsepak,343,364
+583,81217534,UGS.CommitteeChangeV2.Doctype,11-Feb-19,20-Mar-19,11-Feb-19,Approve,IN,,,EDUC,,UREDSTPHD,,Individualized/Adult Education,,lkazembe,322,359
+584,81244772,UGS-PhDCommencement.ParentDoctype,11-Feb-19,13-Feb-19,11-Feb-19,Approve,BL,,,EDUC,,LRNDEVPHD,,,,anphonet,357,359
+585,81247956,UGS-MAAdvancedDegree.ParentDoctype,11-Feb-19,11-Feb-19,11-Feb-19,Approve,BL,Russian and Eastern European Area Studies,,REEI,,REEIMA,,,,UGS.BL.MAAdvDeg.REEI1,359,359
+586,81306183,UGS-MAAdvancedDegree.ParentDoctype,13-Feb-19,13-Feb-19,13-Feb-19,Approve,BL,,,GRAD,,CYSRMGMTMS,,,,UGS.BL.MAAdvDeg.GRAD1,357,357
+605,81384935,UGS-MAAdvancedDegree.ParentDoctype,15-Feb-19,15-Feb-19,15-Feb-19,Approve,BL,,,REEI,,REEIMA,,,,UGS.BL.MAAdvDeg.REEI1,355,355
+606,81402834,UGS-MAAdvancedDegree.ParentDoctype,16-Feb-19,16-Feb-19,16-Feb-19,Approve,IN,,,PHST,,PHLSTMA,,,,UGS.IN.MAAdvDeg.PHST1,354,354
+607,81404734,UGS-MAAdvancedDegree.ParentDoctype,16-Feb-19,29-Apr-19,16-Feb-19,Approve,BL,,,SLST,,SLSTMA,,,,UGS.BL.MAAdvDeg.SLST1,282,354
+608,81405412,UGS-MAAdvancedDegree.ParentDoctype,17-Feb-19,17-Feb-19,17-Feb-19,Approve,IN,,,ENG,,ENGMA,,,,UGS.IN.MAAdvDeg.ENG1,353,353
+610,81435195,UGS.Candidacy.Doctype,18-Feb-19,18-Feb-19,18-Feb-19,Approve,BL,,,BIOC,,BIOCPHD,,INDVGMIN,,UGS.BL.Candidacy.BIOC1,352,352
+615,81549149,UGS.ExceptionRevalidation.Doctype,21-Feb-19,26-Mar-19,21-Feb-19,Approve,BL,Early Childhood Education,,EDUCCI,,CRINPHD,,,,milcosta,316,349
+616,81612979,UGS-MAAdvancedDegree.ParentDoctype,22-Feb-19,22-Feb-19,22-Feb-19,Approve,BL,,,THTR,,THTRMFA,,,,UGS.BL.MAAdvDeg.THTR1,348,348
+617,81616583,UGS-MAAdvancedDegree.ParentDoctype,22-Feb-19,22-Feb-19,22-Feb-19,Approve,BL,,,PSY,,PSYMA,,,,UGS.BL.MAAdvDeg.PSY1,348,348
+620,81656005,UGS-MAAdvancedDegree.ParentDoctype,25-Feb-19,25-Feb-19,25-Feb-19,Approve,BL,Organic,,CHEM,,CHEMMS,,,,UGS.BL.MAAdvDeg.CHEM1,345,345
+621,81656554,UGS-MAAdvancedDegree.ParentDoctype,25-Feb-19,25-Feb-19,25-Feb-19,Approve,BL,Chemical Biology,,CHEM,,CHEMMS,,,,UGS.BL.MAAdvDeg.CHEM1,345,345
+624,81670750,UGS-MAAdvancedDegree.ParentDoctype,25-Feb-19,25-Feb-19,25-Feb-19,Approve,BL,,,STAT,,STATSCMS,,,,UGS.BL.MAAdvDeg.STAT1,345,345
+625,81671907,UGS-MAAdvancedDegree.ParentDoctype,25-Feb-19,25-Feb-19,25-Feb-19,Approve,BL,Lighting Design,,THTR,,THTRMFA,,,,UGS.BL.MAAdvDeg.THTR1,345,345
+626,81730031,COLLGRAD.AdvisoryCom.Doctype,27-Feb-19,28-Feb-19,27-Feb-19,Approve,BL,,,LING,,LINGPHD,,,,dlegg,342,343
+629,81816520,UGS.ExceptionMinor.Doctype,01-Mar-19,29-Mar-19,01-Mar-19,Approve,BL,Islamic Art,,,,,,,,etuggle,313,341
+636,81893910,UGS-MAAdvancedDegree.ParentDoctype,05-Mar-19,05-Mar-19,05-Mar-19,Approve,BL,,,AFRI,,AFRIMA,,,,UGS.BL.MAAdvDeg.AFRI1,337,337
+637,81915010,UGS.Candidacy.Doctype,05-Mar-19,27-Mar-19,05-Mar-19,Approve,IN,Preventive Dentistry,,DENT,,DNTPHPHD,,LIFSCIMIN,,cyiannou,315,337
+640,82020077,UGS.ExceptionMinor.Doctype,08-Mar-19,13-Jan-20,08-Mar-19,Approve,BL,,,EDUCELPS,,HIEDPHD,,,,salebeau,23,334
+643,82068652,UGS.CommitteeChangeV2.Doctype,11-Mar-19,21-Mar-19,11-Mar-19,FYI,BL,,,BUS,,BUSPHD,,Psychology Minor / Marketing Concentration,,INITIATOR,321,331
+644,82173688,UGS.CommitteeV2.Doctype,14-Mar-19,18-Mar-19,14-Mar-19,Approve,BL,,,CHEM,,CHEMPHD,,,,fcparks,324,328
+655,82360139,UGS.Candidacy.Doctype,21-Mar-19,15-Oct-19,21-Mar-19,Approve,BL,,,TEL,,MTELPHD,,COGSGMIN,,kenarose,113,321
+656,82426549,UGS.Candidacy.Doctype,22-Mar-19,29-Mar-19,22-Mar-19,Approve,IN,,,PHST,,PHSTDPHD,,Individualized,,goodwinj,313,320
+657,82430530,UGS-PhDDefense.ParentDoctype,23-Mar-19,25-Mar-19,23-Mar-19,Approve,BL,,,SPPA,SPPA,PBAFFPHD2,PBAFFPHD2,Public Management,Policy Analysis,miruali,317,319
+658,82483560,UGS.CommitteeV2.Doctype,26-Mar-19,01-Apr-19,26-Mar-19,Approve,IN,,,MNEU,,MNEURSPHD,,,,btruitt,310,316
+659,82483560,UGS.CommitteeV2.Doctype,26-Mar-19,01-Apr-19,26-Mar-19,Approve,IN,,,MNEU,,MNEURSPHD,,,,jwitkin,310,316
+664,82567059,UGS.Candidacy.Doctype,28-Mar-19,28-Mar-19,28-Mar-19,Approve,BL,Literature,,HISP,,SPANPHD,,ANTHGMIN,,UGS.BL.Candidacy.HISP1,314,314
+669,82600026,UGS-MAAdvancedDegree.ParentDoctype,29-Mar-19,29-Mar-19,29-Mar-19,Approve,BL,Ethnomusicology,,FOLK,,FOLKMA,,,,UGS.BL.MAAdvDeg.FOLK1,313,313
+670,82601315,UGS.ExceptionWaiver.Doctype,29-Mar-19,04-Apr-19,29-Mar-19,Approve,BL,,,MED,,CMCBIOPHD,,GENGMIN,,hahundle,307,313
+673,82675852,UGS.Candidacy.Doctype,02-Apr-19,24-Jan-20,02-Apr-19,Approve,BL,Developmental,,PSY,,PSYPHD,,Individualized,,chenyu,12,309
+676,82722036,UGS-MAAdvancedDegree.ParentDoctype,03-Apr-19,03-Apr-19,03-Apr-19,Approve,BL,,,FINA,,FINAHMA,,,,UGS.BL.MAAdvDeg.FINA.MA1,308,308
+677,82731036,UGS.ExceptionWaiver.Doctype,03-Apr-19,03-Apr-19,03-Apr-19,Approve,BL,,Nonprofit Management,AADM,SPPA,ARTADMA,PBAFFPHD2,,,zy8,308,308
+678,82751074,UGS.Candidacy.Doctype,04-Apr-19,04-Dec-19,04-Apr-19,Approve,BL,,,MED,,CMCBIOPHD,,GENGMIN,,bmgreuli,63,307
+679,82753432,UGS.Candidacy.Doctype,04-Apr-19,08-Apr-19,04-Apr-19,Approve,BL,Developmental Psychology,,PSY,,PSYPHD,,Individualized,,chenyu,303,307
+680,82865399,UGS-MAAdvancedDegree.ParentDoctype,08-Apr-19,27-Jan-20,08-Apr-19,Approve,IN,Public History,,HIST,,HISTMA,,,,UGS.MAAdvDeg.INFinal.UGS,9,303
+681,82889365,UGS.Candidacy.Doctype,09-Apr-19,29-Aug-19,09-Apr-19,Approve,BL,,,LAW,,LAWDEMPHD,,ANTHGMIN,,dacwilli,160,302
+682,82889365,UGS.Candidacy.Doctype,09-Apr-19,29-Aug-19,09-Apr-19,Approve,BL,,,LAW,,LAWDEMPHD,,ANTHGMIN,,tiwaters,160,302
+683,82889365,UGS.Candidacy.Doctype,09-Apr-19,29-Aug-19,09-Apr-19,FYI,BL,,,LAW,,LAWDEMPHD,,ANTHGMIN,,dacwilli,160,302
+684,82889365,UGS.Candidacy.Doctype,09-Apr-19,29-Aug-19,09-Apr-19,FYI,BL,,,LAW,,LAWDEMPHD,,ANTHGMIN,,tiwaters,160,302
+685,82889974,COLLGRAD.AdvisoryComChange.Doctype,09-Apr-19,09-Apr-19,09-Apr-19,Approve,BL,,,ANTH,CEUS,ANTHPHD,CEUSPHD,Sociocultural Anthropology,Mongolian Studies,COLLGRAD.AdvisoryCom.BL.DGS.ANTH,302,302
+686,82892530,UGS.Candidacy.Doctype,09-Apr-19,10-Sep-19,09-Apr-19,Approve,BL,Chemical biology,,CHEM,,CHEMPHD,,PHYCHEGMIN,,UGS.BL.Candidacy.CHEM1,148,302
+691,83008007,COLLGRAD.AdvisoryCom.Doctype,12-Apr-19,28-Jan-20,12-Apr-19,FYI,BL,,,MSCH,,MDARSCPHD,,Cultural Studies,,COLLGRAD.AdvisoryCom.BL.MSCH1,8,299
+692,83008007,COLLGRAD.AdvisoryCom.Doctype,12-Apr-19,30-Jan-20,12-Apr-19,Approve,BL,,,MSCH,,MDARSCPHD,,Cultural Studies,,COLLGRAD.AdvisoryCom.COLLGRAD,6,299
+693,83022706,COLLGRAD.AdvisoryCom.Doctype,12-Apr-19,15-Apr-19,12-Apr-19,Approve,BL,,,BIOL,,EEBPHD,,Animal Behavior ,,ketterso,296,299
+694,83028796,UGS.CommitteeV2.Doctype,13-Apr-19,13-Apr-19,13-Apr-19,Approve,BL,,,SLST,,SLSTPHD,,Inquiry Methodology,,UGS.BL.Committee.SLST1,298,298
+695,83028900,UGS-MAAdvancedDegree.ParentDoctype,13-Apr-19,13-May-19,13-Apr-19,Approve,BL,Ethnomusicology,,FOLK,,FOLKMA,,,,UGS.BL.MAAdvDeg.FOLK1,268,298
+698,83090026,UGS.CommitteeChangeV2.Doctype,16-Apr-19,16-Apr-19,16-Apr-19,Approve,IN,,,MGEN,,MMGENTPHD,,Life Sciences ,,rwek,295,295
+701,83098601,UGS.Candidacy.Doctype,16-Apr-19,10-May-19,16-Apr-19,Approve,BL,,,EDUCLCLE,,LCLNGPHD,,EACHEDGMIN,,aaguler,271,295
+702,83102040,UGS.Candidacy.Doctype,16-Apr-19,31-Oct-19,16-Apr-19,Approve,BL,Analytical,,CHEM,,CHEMPHD,,CHEBIOGMIN,,UGS.BL.Candidacy.CHEM1,97,295
+703,83102041,UGS.CommitteeV2.Doctype,16-Apr-19,16-Apr-19,16-Apr-19,Approve,BL,,,CHEM,,CHEMPHD,,Chemical Biology,,UGS.BL.Committee.CHEM1,295,295
+704,83107070,UGS.CommitteeV2.Doctype,16-Apr-19,16-Sep-19,16-Apr-19,Approve,BL,,,PHIL,,PHILPHD,,Geography,,UGS.BL.Committee.PHIL2,142,295
+705,83131731,UGS.Candidacy.Doctype,17-Apr-19,15-May-19,17-Apr-19,Approve,BL,Mathematics Education,,EDUCCI,,CRINPHD,,INQMTHGMIN,,robijone,266,294
+710,83247703,UGS-MAAdvancedDegree.ParentDoctype,19-Apr-19,19-Apr-19,19-Apr-19,Approve,IN,Writing and Literacy,,ENG,,ENGMA,,,,UGS.IN.MAAdvDeg.ENG1,292,292
+711,83254286,UGS.Candidacy.Doctype,21-Apr-19,16-May-19,21-Apr-19,Approve,BL,,,EDUCIST,,INSYTPHD,,EDPSYGMIN,,basdogan,265,290
+712,83271219,UGS.ExceptionWaiver.Doctype,22-Apr-19,22-Apr-19,22-Apr-19,Approve,BL,,,CEUS,SPPA,CEUSMA,,,,UGS.BL.DGS.SPPA,289,289
+713,83279961,UGS.ExceptionMinor.Doctype,22-Apr-19,21-May-19,22-Apr-19,Approve,BL,,,EDUCELPS,,HIEDPHD,,,,dlpalmer,260,289
+714,83281715,UGS.ExceptionWaiver.Doctype,22-Apr-19,22-Apr-19,22-Apr-19,Approve,IN,Creative Nonfiction,,ENG,,ENGMA,,,,UGS.IN.SECREC.ENG,289,289
+719,83349937,COLLGRAD.AdvisoryCom.Doctype,24-Apr-19,24-Apr-19,24-Apr-19,Approve,BL,,,BIOL,,MCDBPHD,,,,suressl,287,287
+724,83411708,COLLGRAD.AdvisoryCom.Doctype,25-Apr-19,26-Apr-19,25-Apr-19,Approve,BL,,,CEUS,,CEUSPHD,,History,,shahrani,285,286
+725,83427392,UGS.CommitteeV2.Doctype,26-Apr-19,26-Apr-19,26-Apr-19,Approve,BL,,,GER,,GERPHD,,"English and Germanic Philology, Linguistics",,gade,285,285
+728,83457452,UGS.Candidacy.Doctype,27-Apr-19,28-May-19,27-Apr-19,Approve,BL,,,EDUCCEP,,COPSYPHD,,SPPRFPGMIN,,jehyman,253,284
+729,83457465,UGS.Candidacy.Doctype,27-Apr-19,29-May-19,27-Apr-19,Approve,BL,,,EDUCCEP,,COPSYPHD,,HUMDEVGMIN,,pdgonzal,252,284
+730,83458898,UGS-MAAdvancedDegree.ParentDoctype,28-Apr-19,28-Apr-19,28-Apr-19,Approve,BL,Analytical,,CHEM,,CHEMMS,,,,UGS.BL.MAAdvDeg.CHEM1,283,283
+733,83485373,UGS.Candidacy.Doctype,29-Apr-19,30-Jan-20,29-Apr-19,Approve,BL,,,COGS,,COGSPHD,,SAXG,,dughof,6,282
+734,83485373,UGS.Candidacy.Doctype,29-Apr-19,30-Jan-20,29-Apr-19,Approve,BL,,,COGS,,COGSPHD,,SAXG,,edizquie,6,282
+735,83485373,UGS.Candidacy.Doctype,29-Apr-19,30-Jan-20,29-Apr-19,Approve,BL,,,COGS,,COGSPHD,,SAXG,,minje,6,282
+736,83490803,UGS.Candidacy.Doctype,29-Apr-19,29-Apr-19,29-Apr-19,Approve,IN,,,BIOC,,BIOCMBPHD,,LIFSCGMIN,,UGS.IN.Candidacy.BIOC1,282,282
+737,83512023,UGS.ExceptionWaiver.Doctype,30-Apr-19,07-Oct-19,30-Apr-19,Approve,BL,Materials,,CHEM,,CHEMPHD,,INORCHGMIN,,yinminy,121,281
+738,83521346,UGS-MAAdvancedDegree.ParentDoctype,30-Apr-19,17-Dec-19,30-Apr-19,Approve,IN,,,ENG,,ENGMA,,,,UGS.MAAdvDeg.INFinal.UGS,50,281
+739,83526318,UGS.CommitteeChangeV2.Doctype,30-Apr-19,01-May-19,30-Apr-19,Approve,BL,,,EDUCELPS,,HPPEDPHD,,Education Policy Studies concentration / Individualized minor,,deckerjr,280,281
+740,83526318,UGS.CommitteeChangeV2.Doctype,30-Apr-19,01-May-19,30-Apr-19,Approve,BL,,,EDUCELPS,,HPPEDPHD,,Education Policy Studies concentration / Individualized minor,,mcbyrnej,280,281
+741,83564786,UGS.CommitteeV2.Doctype,01-May-19,08-May-19,01-May-19,Approve,BL,,,BUS,,BUSPHD,,Economics Minor/Finance Concentration,,riharbau,273,280
+742,83565359,UGS.ExceptionWaiver.Doctype,01-May-19,02-May-19,01-May-19,Approve,BL,English Literature in C19,,ENG,,ENGPHD,,DGAHGMIN,,jelmer,279,280
+743,83582294,UGS-MAAdvancedDegree.ParentDoctype,01-May-19,01-May-19,01-May-19,Approve,BL,Hispanic Linguistics,,HISP,,SPANMA,,,,UGS.BL.MAAdvDeg.HISP1,280,280
+744,83582890,UGS.ExceptionRevalidation.Doctype,01-May-19,24-Jan-20,01-May-19,Approve,BL,Public Relations,,JOUR,,MCOMJPHD,,,,UGS.BL.SECREC.JOUR,12,280
+745,83666655,UGS-MAAdvancedDegree.ParentDoctype,03-May-19,03-May-19,03-May-19,Approve,BL,,,AADM,,ARTADMA,,,,UGS.BL.MAAdvDeg.AADM1,278,278
+746,83714790,UGS.Candidacy.Doctype,06-May-19,14-Oct-19,06-May-19,Approve,BL,Education Policy Studies,,EDUCELPS,,HPPEDPHD,,SPEDGMIN,,pdober,114,275
+749,83770869,COLLGRAD.AdvisoryCom.Doctype,08-May-19,13-May-19,08-May-19,Approve,BL,,,CHEM,,CPHYSCPHD,,Analytical,,pmollaei,268,273
+752,83795955,UGS.Candidacy.Doctype,08-May-19,09-May-19,08-May-19,Approve,IN,Health Informatics,,INFO,,INFOPHD,,Eclectic,,UGS.IN.Candidacy.INFO1,272,273
+753,83795955,UGS.Candidacy.Doctype,08-May-19,09-May-19,08-May-19,FYI,IN,Health Informatics,,INFO,,INFOPHD,,Eclectic,,jofjones,272,273
+754,83800938,COLLGRAD.AdvisoryCom.Doctype,08-May-19,13-May-19,08-May-19,Approve,BL,,,CHEM,,CHEMPHD,,Chemical Biology,,oakley,268,273
+757,83896728,UGS.Candidacy.Doctype,13-May-19,01-Jul-19,13-May-19,Approve,BL,Science Education,,EDUCCI,,CRINPHD,,ENVSCIGMIN,,amaltese,219,268
+758,83904557,UGS.Candidacy.Doctype,13-May-19,31-Jan-20,01-Aug-19,Approve,BL,,,EDUCCEP,,LRNDEVPHD,,INQMTHGMIN,,UGS.BL.Candidacy.EDUCCEP1,5,268
+759,83907403,COLLGRAD.AdvisoryCom.Doctype,13-May-19,22-May-19,13-May-19,Approve,BL,,,COGS,,COGSPHD,,Psychological and Brain Sciences,,edizquie,259,268
+760,83912948,COLLGRAD.AdvisoryComChange.Doctype,13-May-19,13-May-19,13-May-19,Approve,BL,,,SPHS,,SPHSPHD,,Counseling Psychology,,kforrest,268,268
+761,83937724,COLLGRAD.AdvisoryCom.Doctype,14-May-19,14-May-19,14-May-19,Approve,BL,,,POLS,,POLSPHD,,Sociology,,COLLGRAD.AdvisoryCom.BL.POLS1,267,267
+764,83958349,UGS-MAAdvancedDegree.ParentDoctype,14-May-19,14-May-19,14-May-19,Approve,IN,TESOL,,ENG,,ENGMA,,,,UGS.IN.MAAdvDeg.ENG1,267,267
+765,83987068,UGS.CommitteeV2.Doctype,15-May-19,15-May-19,15-May-19,Approve,IN,,,INFO,,INFOPHD,,,,daizh,266,266
+768,83996743,UGS-MAAdvancedDegree.ParentDoctype,15-May-19,18-Sep-19,15-May-19,Approve,IN,N/A,,PBHL,,BIOSTATMS,,,,UGS.MAAdvDeg.INFinal.UGS,140,266
+769,84018009,UGS.Candidacy.Doctype,16-May-19,24-Jun-19,16-May-19,Approve,BL,Educational Leadership,,EDUCELPS,,HPPEDPHD,,LAWGMIN,,illinder,226,265
+774,84324587,UGS.ExceptionWaiver.Doctype,28-May-19,29-May-19,28-May-19,Approve,BL,,,EDUCCEP,,COPSYPHD,,SPPRFPGMIN,,jehyman,252,253
+775,84324619,UGS.CommitteeV2.Doctype,28-May-19,18-Jun-19,28-May-19,Approve,BL,,,EDUCCEP,,COPSYPHD,,Sport and Performance Psychology,,jehyman,232,253
+776,84351869,UGS.Candidacy.Doctype,29-May-19,22-Jan-20,29-May-19,Approve,IN,,,PBHL,,HLPMPHD1,,BIOSTATMIN,,UGS.Candidacy.UGS.IN,14,252
+777,84402963,UGS.Candidacy.Doctype,30-May-19,31-May-19,30-May-19,Approve,BL,,,PHYS,,PHYSPHD,,PHYSGMIN,PHYSGMIN,jinlcao,250,251
+780,84452596,UGS.Candidacy.Doctype,31-May-19,31-May-19,31-May-19,Approve,BL,,,JOUR,,MCOMJPHD,,INFOGMIN,,UGS.BL.Candidacy.JOUR1,250,250
+781,84466329,UGS.ExceptionWaiver.Doctype,31-May-19,05-Jun-19,31-May-19,Approve,BL,Speech Language Pathology,,SPHS,,SPHSMA,,,,arjulian,245,250
+784,84552829,UGS.ExceptionMinor.Doctype,04-Jun-19,02-Aug-19,04-Jun-19,Approve,BL,,,EDUCELPS,,HIEDPHD,,,,erhunter,187,246
+785,84561410,UGS.Candidacy.Doctype,05-Jun-19,05-Jun-19,05-Jun-19,Approve,IN,Bioinformatics,,INFO,,INFOPHD,,BIOSTATMIN,,UGS.IN.Candidacy.INFO1,245,245
+786,84561410,UGS.Candidacy.Doctype,05-Jun-19,05-Jun-19,05-Jun-19,FYI,IN,Bioinformatics,,INFO,,INFOPHD,,BIOSTATMIN,,jofjones,245,245
+791,84573083,UGS.CommitteeChangeV2.Doctype,05-Jun-19,07-Jun-19,05-Jun-19,Approve,IN,,,PBHL,,EPIDEMPHD1,,Health Informatics,,jmalyea,243,245
+792,84575793,UGS.Candidacy.Doctype,05-Jun-19,18-Dec-19,18-Dec-19,Approve,BL,Curriculum Studies,,EDUCCI,,CRINPHD,,Individualized,,UGS.BL.Candidacy.EDUCCI1,49,245
+793,84581880,UGS.CommitteeV2.Doctype,05-Jun-19,05-Jun-19,05-Jun-19,Approve,BL,,,SPH,,RLEIBEHPHD,,Psychological & Brain Sciences,,rzwart,245,245
+794,84619888,UGS.ExceptionWaiver.Doctype,06-Jun-19,06-Jun-19,06-Jun-19,Approve,BL,Clinical Science,,PSY,,PSYPHD,,INDVGMIN,,finnp,244,244
+795,84627998,UGS.CommitteeV2.Doctype,06-Jun-19,06-Jun-19,06-Jun-19,Approve,BL,,,LAW,,LAWDEMPHD,,,,dacwilli,244,244
+796,84627998,UGS.CommitteeV2.Doctype,06-Jun-19,06-Jun-19,06-Jun-19,Approve,BL,,,LAW,,LAWDEMPHD,,,,dwidiss,244,244
+797,84650203,UGS.Candidacy.Doctype,07-Jun-19,21-Jun-19,07-Jun-19,Approve,IN,,,EDUC,,UREDSTPHD,,Individualized,,esanborn,229,243
+800,84695728,UGS.CommitteeV2.Doctype,10-Jun-19,17-Jun-19,10-Jun-19,Approve,BL,,,HIST,,HISTPHD,,Jewish Studies,,eklof,233,240
+803,84769088,UGS.ExceptionWaiver.Doctype,12-Jun-19,20-Jun-19,12-Jun-19,Approve,BL,,,EDUCCEP,,COPSYPHD,,SPPRFPGMIN,,jehyman,230,238
+806,84872418,UGS.CommitteeV2.Doctype,14-Jun-19,16-Dec-19,14-Jun-19,Approve,BL,,,HPSC,COGS,HPSCPHD,COGSPHD,Philosophy (min) / Philosophy of Science (conc),,abarwich,51,236
+807,84883242,UGS.Candidacy.Doctype,16-Jun-19,18-Jun-19,16-Jun-19,Approve,IN,Clinical,,SWK,,SWKPHD,,Individualized,,UGS.Candidacy.UGS.IN,232,234
+808,84883444,UGS.ExceptionMinor.Doctype,16-Jun-19,10-Jul-19,16-Jun-19,Approve,BL,,,EDUCELPS,,HIEDPHD,,,,dlpalmer,210,234
+809,84892316,UGS.Candidacy.Doctype,17-Jun-19,18-Jun-19,17-Jun-19,Approve,BL,,,SPH,,EPIDPHD,,Individualized,,luetke,232,233
+810,84917876,UGS-PhDDefense.ParentDoctype,17-Jun-19,18-Jun-19,17-Jun-19,Approve,BL,,,CHEM,,CHEMPHD,,Organic,,wardsa,232,233
+811,84981724,UGS.Candidacy.Doctype,19-Jun-19,15-Jan-20,19-Jun-19,Approve,IN,,,BIOC,,BIOCMBPHD,,LIFSCGMIN,,mgeorgia,21,231
+812,84981855,UGS.Candidacy.Doctype,19-Jun-19,30-Oct-19,19-Jun-19,Approve,IN,Dental Material,,DENT,,DNTPHPHD,,LIFSCIMIN,,ljwindso,98,231
+813,84992387,UGS.Candidacy.Doctype,19-Jun-19,27-Jun-19,19-Jun-19,Approve,BL,,,MUS,,MSEDPHD,,Individualized,,icalhoun,223,231
+814,84993022,UGS.CommitteeChangeV2.Doctype,19-Jun-19,20-Jun-19,19-Jun-19,Approve,BL,,,SPH,,EPIDPHD,,Individualized (Physical Activity),,bhensche,230,231
+820,85067474,UGS.CommitteeV2.Doctype,22-Jun-19,28-Jun-19,22-Jun-19,Approve,BL,,,CSCI,,CSCIPHD,,Computer Science,,izaman,222,228
+825,85102179,UGS.CommitteeV2.Doctype,24-Jun-19,11-Oct-19,24-Jun-19,Approve,BL,,,HISP,,SPANPHD,,,,clements,117,226
+865,85319695,UGS.ExceptionMinor.Doctype,03-Jul-19,28-Jan-20,03-Jul-19,Approve,BL,,,EDUCELPS,,HIEDPHD,,,,UGS.Exception.UGS2.BL,8,217
+870,85366434,UGS.ExceptionWaiver.Doctype,08-Jul-19,08-Jul-19,08-Jul-19,Approve,BL,Education Doctorate,,EDUCLCLE,,LCLNGPHD,,,,Stecarte,212,212
+877,85377545,COLLGRAD.AdvisoryCom.Doctype,09-Jul-19,11-Jul-19,09-Jul-19,Approve,BL,,,MSCH,,MDARSCPHD,,Marketing/Consumer Behavior,,,209,211
+912,85499268,UGS.ExceptionWaiver.Doctype,22-Jul-19,24-Jul-19,22-Jul-19,Approve,BL,Phonology,,LING,,LINGPHD,,,,jacwarne,196,198
+913,85499355,UGS-MAAdvancedDegree.ParentDoctype,22-Jul-19,16-Oct-19,22-Jul-19,Approve,BL,Mineralogy,,GEOL,,GEOLMS,,,,UGS.BL.MAAdvDeg.GEOL1,112,198
+914,85499459,UGS.Candidacy.Doctype,22-Jul-19,21-Jan-20,22-Jul-19,Approve,BL,,,ENGR,,INSENGRPHD,,MATHGMIN,,UGS.BL.Candidacy.ENGR1,15,198
+915,85499459,UGS.Candidacy.Doctype,22-Jul-19,21-Jan-20,22-Jul-19,FYI,BL,,,ENGR,,INSENGRPHD,,MATHGMIN,,lucgill,15,198
+916,85509045,UGS.Candidacy.Doctype,23-Jul-19,12-Aug-19,23-Jul-19,Approve,BL,,,CSCI,,CSCIPHD,,BIOINGMIN,,,177,197
+921,85520009,UGS.CommitteeV2.Doctype,25-Jul-19,26-Jul-19,25-Jul-19,Approve,BL,,,EDUCCEP,,EDPSYPHD,,,,djoneill,194,195
+932,85565353,UGS.Candidacy.Doctype,29-Jul-19,16-Aug-19,29-Jul-19,Approve,IN,,,MNEU,,MNEURSPHD,,LIFSCGMIN,,jk123,173,191
+933,85565874,UGS.ExceptionWaiver.Doctype,29-Jul-19,04-Aug-19,30-Jul-19,Approve,BL,Social Robotics,Intelligent Interactive Systems,COGS,INFO,COGSPHD,INFOPHD,,,kjig,185,191
+934,85570116,UGS.Candidacy.Doctype,30-Jul-19,21-Aug-19,30-Jul-19,Approve,BL,Policy Studies,,EDUCELPS,,HPPEDPHD,,PHLNTGMIN,,qstroud,168,190
+935,85570338,UGS.CommitteeChangeV2.Doctype,30-Jul-19,30-Jul-19,30-Jul-19,Approve,IN,,,MNEU,,MNEURSPHD,,Life Sciences,,rbrodger,190,190
+938,85572824,UGS.Candidacy.Doctype,30-Jul-19,08-Jan-20,30-Jul-19,Approve,BL,Molecular and Nanoscale Engineering,,ENGR,,INSENGRPHD,,PHYSGMIN,,UGS.Candidacy.UGS.BL,28,190
+941,85575797,UGS.CommitteeV2.Doctype,31-Jul-19,31-Jul-19,31-Jul-19,Approve,IN,,,MNEU,,MNEURSPHD,,Life Science,,clasagna,189,189
+942,85587110,UGS.ExceptionWaiver.Doctype,01-Aug-19,02-Aug-19,01-Aug-19,Approve,BL,,,EDUCCEP,,LRNDEVPHD,,,,dthickey,187,188
+947,85599081,UGS-PhDDefense.ParentDoctype,03-Aug-19,03-Aug-19,03-Aug-19,Approve,IN,,,EDUC,,UREDSTPHD,,Educational Leadership,,UGS.IN.PhDDefense.EDUC1,186,186
+950,85607276,UGS.Candidacy.Doctype,05-Aug-19,30-Dec-19,05-Aug-19,Approve,IN,,,BIOC,,BIOCMBPHD,,BIOINFOMIN,,jturchi,37,184
+951,85607276,UGS.Candidacy.Doctype,05-Aug-19,30-Dec-19,05-Aug-19,Approve,IN,,,BIOC,,BIOCMBPHD,,BIOINFOMIN,,mgeorgia,37,184
+952,85607276,UGS.Candidacy.Doctype,05-Aug-19,30-Dec-19,05-Aug-19,Approve,IN,,,BIOC,,BIOCMBPHD,,BIOINFOMIN,,rwek,37,184
+953,85612997,UGS.ExceptionRevalidation.Doctype,06-Aug-19,09-Aug-19,06-Aug-19,Approve,BL,,,EDUCLCLE,,LCLNGPHD,,,,jillscot,180,183
+954,85615621,UGS.ExceptionWaiver.Doctype,06-Aug-19,07-Aug-19,06-Aug-19,Approve,BL,,,BIOL,,MCDBPHD,,GENGMIN,,suressl,182,183
+955,85662390,UGS-MAAdvancedDegree.ParentDoctype,12-Aug-19,30-Aug-19,12-Aug-19,Approve,IN,Public History,,HIST,,HISTMA,,,,UGS.MAAdvDeg.INFinal.UGS,159,177
+960,85668406,UGS-MAAdvancedDegree.ParentDoctype,13-Aug-19,28-Jan-20,13-Aug-19,Approve,IN,,,JOPR,,PUBRELMA1,,,,UGS.MAAdvDeg.INFinal.UGS,8,176
+971,85679298,UGS.ExceptionWaiver.Doctype,14-Aug-19,02-Oct-19,14-Aug-19,Approve,BL,,,EDUCELPS,,HIEDPHD,,HPPEDGMIN,,wefergus,126,175
+972,85680842,UGS.Candidacy.Doctype,14-Aug-19,03-Jan-20,14-Aug-19,Approve,BL,Literature,,ENG,,ENGPHD,,CRITHRYMIN,,rsheldon,33,175
+973,85771784,UGS.CommitteeV2.Doctype,15-Aug-19,15-Aug-19,15-Aug-19,Approve,BL,,,CHEM,,CHEMPHD,,,,UGS.BL.Committee.CHEM1,174,174
+996,85868343,UGS.CommitteeV2.Doctype,16-Aug-19,23-Oct-19,16-Aug-19,Approve,BL,,,PHIL,,PHILPHD,,Metaphysics and Epistemology,,UGS.BL.Committee.PHIL2,105,173
+997,85868361,UGS-MAAdvancedDegree.ParentDoctype,16-Aug-19,20-Aug-19,16-Aug-19,Approve,BL,Metaphysics and Epistemology,,PHIL,,PHILMA,,,,UGS.BL.MAAdvDeg.PHIL2,169,173
+1000,85873178,UGS.ExceptionWaiver.Doctype,19-Aug-19,04-Sep-19,19-Aug-19,Approve,BL,,,EDUCCEP,,COPSYPHD,,SPPRFPGMIN,,pmcfadde,154,170
+1003,85874284,UGS.Candidacy.Doctype,19-Aug-19,03-Sep-19,20-Aug-19,Approve,BL,,,CSCI,,CSCIPHD,,CMPLXSGMIN,,wc23,155,170
+1004,85874534,UGS.Candidacy.Doctype,19-Aug-19,31-Jan-20,19-Aug-19,Approve,BL,,,NEUS,SPH,NEUSPHD,KYHPPHD,,,stagerj,5,170
+1005,85879637,UGS.Candidacy.Doctype,20-Aug-19,17-Sep-19,21-Aug-19,Approve,BL,,,EDUCELPS,,HPPEDPHD,,Individualized,,adtandon,141,169
+1006,85884991,COLLGRAD.AdvisoryCom.Doctype,21-Aug-19,21-Aug-19,21-Aug-19,Approve,BL,,,AST,,ASTYPHD,,Physics,,rtayloe,168,168
+1007,85885848,COLLGRAD.AdvisoryCom.Doctype,21-Aug-19,21-Aug-19,21-Aug-19,Approve,BL,,,AST,,ASTYPHD,,Physics,,rtayloe,168,168
+1012,85889376,UGS.Candidacy.Doctype,21-Aug-19,30-Jan-20,15-Jan-20,Approve,IN,,,MNEU,,MNEURSPHD,,CLINRSHMIN,,,6,168
+1013,85889508,UGS-MAAdvancedDegree.ParentDoctype,21-Aug-19,21-Aug-19,21-Aug-19,Approve,IN,,,PHSL,,CELINPHMS,,,,UGS.IN.MAAdvDeg.PHSL1,168,168
+1014,85889599,UGS-MAAdvancedDegree.ParentDoctype,21-Aug-19,21-Aug-19,21-Aug-19,Approve,IN,,,PHSL,,CELINPHMS,,,,UGS.IN.MAAdvDeg.PHSL1,168,168
+1015,85893503,COLLGRAD.AdvisoryCom.Doctype,22-Aug-19,22-Aug-19,22-Aug-19,Approve,BL,,,AST,,ASTYPHD,,Physics,,rtayloe,167,167
+1016,85895517,UGS.CommitteeV2.Doctype,22-Aug-19,22-Aug-19,22-Aug-19,Approve,IN,,,SWK,,SWKPHD,,Translational Science for Social Science Researchers,,UGS.IN.Committee.SWK1,167,167
+1017,85896365,UGS.ExceptionWaiver.Doctype,22-Aug-19,30-Sep-19,22-Aug-19,Approve,BL,,,STAT,,STATSCMS,,,,dmanriqu,128,167
+1020,85929664,UGS.Candidacy.Doctype,26-Aug-19,22-Jan-20,26-Aug-19,Approve,BL,,,CSCI,,CSCIPHD,,DATSCIGMIN,,UGS.BL.Candidacy.CSCI1,14,163
+1021,85933059,UGS-MAAdvancedDegree.ParentDoctype,26-Aug-19,26-Aug-19,26-Aug-19,Approve,IN,,,PHSL,,CELINPHMS,,,,UGS.IN.MAAdvDeg.PHSL1,163,163
+1022,85933091,UGS-MAAdvancedDegree.ParentDoctype,26-Aug-19,26-Aug-19,26-Aug-19,Approve,IN,Research,,PHSL,,CELINPHMS,,,,UGS.IN.MAAdvDeg.PHSL1,163,163
+1023,85933189,UGS-MAAdvancedDegree.ParentDoctype,26-Aug-19,26-Aug-19,26-Aug-19,Approve,IN,,,PHSL,,CELINPHMS,,,,UGS.IN.MAAdvDeg.PHSL1,163,163
+1024,85936206,UGS-MAAdvancedDegree.ParentDoctype,27-Aug-19,27-Aug-19,27-Aug-19,Approve,IN,,,PHSL,,CELINPHMS,,,,UGS.IN.MAAdvDeg.PHSL1,162,162
+1025,85940452,UGS-MAAdvancedDegree.ParentDoctype,27-Aug-19,27-Aug-19,27-Aug-19,Approve,IN,,,PHSL,,CELINPHMS,,,,UGS.IN.MAAdvDeg.PHSL1,162,162
+1026,85942162,UGS.Candidacy.Doctype,28-Aug-19,19-Sep-19,28-Aug-19,Approve,BL,,,EDUCCEP,,COPSYPHD,,ADBEHGMIN,,natjstev,139,161
+1032,85954207,UGS-MAAdvancedDegree.ParentDoctype,29-Aug-19,29-Aug-19,29-Aug-19,Approve,IN,,,PHSL,,CELINPHMS,,,,UGS.IN.MAAdvDeg.PHSL1,160,160
+1033,85955562,UGS-MAAdvancedDegree.ParentDoctype,30-Aug-19,30-Aug-19,30-Aug-19,Approve,IN,,,PHSL,,CELINPHMS,,,,UGS.IN.MAAdvDeg.PHSL1,159,159
+1034,85955577,UGS-MAAdvancedDegree.ParentDoctype,30-Aug-19,30-Aug-19,30-Aug-19,Approve,IN,,,PHSL,,CELINPHMS,,,,UGS.IN.MAAdvDeg.PHSL1,159,159
+1035,85955579,UGS-MAAdvancedDegree.ParentDoctype,30-Aug-19,30-Aug-19,30-Aug-19,Approve,IN,,,PHSL,,CELINPHMS,,,,UGS.IN.MAAdvDeg.PHSL1,159,159
+1036,85955610,UGS-MAAdvancedDegree.ParentDoctype,30-Aug-19,30-Aug-19,30-Aug-19,Approve,IN,,,PHSL,,CELINPHMS,,,,UGS.IN.MAAdvDeg.PHSL1,159,159
+1037,85955652,UGS-MAAdvancedDegree.ParentDoctype,30-Aug-19,30-Aug-19,30-Aug-19,Approve,IN,,,PHSL,,CELINPHMS,,,,UGS.IN.MAAdvDeg.PHSL1,159,159
+1038,85955731,UGS.ExceptionRevalidation.Doctype,30-Aug-19,06-Sep-19,30-Aug-19,Approve,BL,,,SLST,,SLSTPHD,,INQMTHGMIN,,jeanchun,152,159
+1041,85957481,UGS.ExceptionWaiver.Doctype,30-Aug-19,18-Sep-19,30-Aug-19,Approve,BL,,,STAT,,STATSCMS,,,,UGS.BL.DGS.STAT,140,159
+1042,85959268,UGS.Candidacy.Doctype,30-Aug-19,30-Aug-19,30-Aug-19,Approve,BL,Organizational Behavior and Human Resource Management,,BUS,,BUSPHD,,INDVGMIN,,UGS.BL.Candidacy.BUS1,159,159
+1043,85961900,UGS-MAAdvancedDegree.ParentDoctype,31-Aug-19,31-Aug-19,31-Aug-19,Approve,BL,,,MUS,,MSCLOGYMA,,,,UGS.BL.MAAdvDeg.MUS1,158,158
+1044,85961900,UGS-MAAdvancedDegree.ParentDoctype,31-Aug-19,31-Aug-19,31-Aug-19,FYI,BL,,,MUS,,MSCLOGYMA,,,,UGS.MAAdvDeg.BL.UGS,158,158
+1045,85961937,UGS.ExceptionWaiver.Doctype,31-Aug-19,11-Sep-19,31-Aug-19,Approve,BL,,,LING,,COMPLINGMS,,,,kyabe,147,158
+1048,85964976,UGS.CommitteeV2.Doctype,03-Sep-19,03-Sep-19,03-Sep-19,Approve,BL,,,FOLK,,FOLKPHD,,Folklore,,UGS.BL.Committee.FOLK1,155,155
+1049,85967706,UGS-PhDCommencement.ParentDoctype,03-Sep-19,03-Sep-19,03-Sep-19,Approve,BL,,,PSY,NEUS,PSYPHD,NEUSPHD,,,alberts,155,155
+1052,85976446,COLLGRAD.AdvisoryCom.Doctype,04-Sep-19,05-Sep-19,04-Sep-19,Approve,BL,,,BIOC,,BIOCPHD,,Supramolecular Structures ,,suressl,153,154
+1053,85977303,COLLGRAD.AdvisoryCom.Doctype,04-Sep-19,12-Nov-19,04-Sep-19,Approve,BL,,,HPSC,,HPSCPHD,,,,COLLGRAD.AdvisoryCom.BL.DGS.HPSC,85,154
+1054,85977822,UGS.Candidacy.Doctype,04-Sep-19,04-Sep-19,04-Sep-19,Approve,BL,,,SOC,,SOCPHD,,STATSCIMIN,,aerussia,154,154
+1055,85981723,UGS.Candidacy.Doctype,04-Sep-19,04-Sep-19,04-Sep-19,Approve,BL,,,SOC,,SOCPHD,,STATSCIMIN,,mtrosset,154,154
+1056,85982032,UGS-MAAdvancedDegree.ParentDoctype,04-Sep-19,04-Sep-19,04-Sep-19,Approve,IN,,,ANAT,,ANTCBMS,,,,UGS.IN.MAAdvDeg.ANAT1,154,154
+1057,85988609,UGS.ExceptionWaiver.Doctype,05-Sep-19,25-Sep-19,05-Sep-19,Approve,BL,,,STAT,,STATSCMS,,,,UGS.BL.DGS.STAT,133,153
+1060,86022835,UGS.CommitteeChangeV2.Doctype,07-Sep-19,24-Sep-19,07-Sep-19,Approve,BL,,,CSCI,,CSCIPHD,,HCI/Education,,lums,134,151
+1061,86022905,UGS.Candidacy.Doctype,07-Sep-19,09-Dec-19,07-Sep-19,Approve,BL,Curriculum Studies,,EDUCCI,,CRINPHD,,LCLNGGMIN,,UGS.BL.Candidacy.EDUCCI1,58,151
+1062,86024029,COLLGRAD.AdvisoryCom.Doctype,08-Sep-19,13-Sep-19,08-Sep-19,Approve,BL,,,HISP,,SPANPHD,,Renaissance Studies,,COLLGRAD.AdvisoryCom.BL.HISP2,145,150
+1063,86031626,UGS.Candidacy.Doctype,09-Sep-19,30-Jan-20,09-Sep-19,Approve,BL,,,CSCI,,CSCIPHD,,COGSGMIN,,bbertent,6,149
+1068,86052679,UGS.CommitteeV2.Doctype,12-Sep-19,13-Sep-19,12-Sep-19,Approve,IN,,,EDUC,,UREDSTPHD,,Sociology,,santamac,145,146
+1071,86058666,UGS.Candidacy.Doctype,13-Sep-19,05-Dec-19,13-Sep-19,Approve,BL,,,CSCI,,CSCIPHD,,COGSGMIN,,UGS.BL.Candidacy.CSCI1,62,145
+1074,86064567,UGS-MAAdvancedDegree.ParentDoctype,14-Sep-19,14-Sep-19,14-Sep-19,Approve,IN,,,PHSL,,CELINPHMS,,,,UGS.IN.MAAdvDeg.PHSL1,144,144
+1075,86065494,UGS-MAAdvancedDegree.ParentDoctype,16-Sep-19,24-Sep-19,16-Sep-19,Approve,IN,,,JOPR,,SPRTJOUMA1,,,,UGS.MAAdvDeg.INFinal.UGS,134,142
+1076,86070359,UGS-PhDCommencement.ParentDoctype,16-Sep-19,16-Sep-19,16-Sep-19,Approve,BL,,,GEOG,,GEOGPHD,,,,UGS.BL.PhDComm.GEOG1,142,142
+1077,86076712,UGS.ExceptionRevalidation.Doctype,17-Sep-19,17-Sep-19,17-Sep-19,Approve,BL,Mathematics Education,,EDUCCI,,CRINPHD,,MATHGMIN,,matweber,141,141
+1078,86078944,UGS.ExceptionRevalidation.Doctype,17-Sep-19,18-Sep-19,17-Sep-19,Approve,BL,,,JOUR,,MCOMJPHD,,INFSCGMIN,,herring,140,141
+1079,86079024,UGS.ExceptionRevalidation.Doctype,17-Sep-19,04-Feb-20,17-Sep-19,Approve,BL,,,JOUR,,MCOMJPHD,,INFSCGMIN,,UGS.Exception.AssistantDean,1,141
+1080,86081937,UGS.Candidacy.Doctype,18-Sep-19,27-Dec-19,18-Sep-19,Approve,BL,Mathematics Education,,EDUCCI,,CRINPHD,,INQMTHGMIN,,UGS.BL.Candidacy.EDUCCI1,40,140
+1081,86087414,UGS.Candidacy.Doctype,18-Sep-19,14-Jan-20,18-Sep-19,Approve,BL,Inorganic,,CHEM,,CHEMPHD,,INORCHGMIN,,kraghava,22,140
+1082,86087426,UGS.CommitteeV2.Doctype,18-Sep-19,18-Sep-19,18-Sep-19,Approve,BL,,,CHEM,,CHEMPHD,,,,UGS.BL.Committee.CHEM1,140,140
+1083,86090971,UGS.CommitteeV2.Doctype,19-Sep-19,01-Oct-19,19-Sep-19,Approve,BL,,,EDUCIST,,INSYTPHD,,Educational Psychology,,cjbonk,127,139
+1084,86090971,UGS.CommitteeV2.Doctype,19-Sep-19,01-Oct-19,19-Sep-19,Approve,BL,,,EDUCIST,,INSYTPHD,,Educational Psychology,,dflinder,127,139
+1085,86093890,UGS.CommitteeV2.Doctype,19-Sep-19,20-Sep-19,19-Sep-19,Approve,BL,,,LING,,LINGPHD,,Chinese,,chiclin,138,139
+1086,86121102,UGS.Candidacy.Doctype,20-Sep-19,20-Sep-19,20-Sep-19,Approve,BL,,,EDUCCEP,,COPSYPHD,,SPPRFPGMIN,,pmcfadde,138,138
+1087,86126481,UGS.CommitteeV2.Doctype,23-Sep-19,16-Jan-20,23-Sep-19,Approve,BL,,,CHEM,,CHEMPHD,,inorganic,,williamd,20,135
+1088,86129206,COLLGRAD.AdvisoryCom.Doctype,23-Sep-19,23-Sep-19,23-Sep-19,Approve,BL,,,BIOC,,BIOCPHD,,Supramolecular Structures,,dragnea,135,135
+1089,86130572,UGS-MAAdvancedDegree.ParentDoctype,23-Sep-19,24-Sep-19,23-Sep-19,Approve,BL,MASTER OF INFORMATION SCIENCE,,GRAD,,CYSRMGDEMS,,,,natgalla,134,135
+1090,86132305,UGS-MAAdvancedDegree.ParentDoctype,23-Sep-19,23-Sep-19,23-Sep-19,Approve,IN,Research ,,PHSL,,CELINPHMS,,,,UGS.IN.MAAdvDeg.PHSL1,135,135
+1091,86132932,UGS-PhDCommencement.ParentDoctype,24-Sep-19,24-Sep-19,24-Sep-19,Approve,BL,,,EAS,,GEOLPHD,,,,Claudia,134,134
+1092,86133377,COLLGRAD.AdvisoryCom.Doctype,24-Sep-19,01-Oct-19,24-Sep-19,Approve,BL,,,COGS,,COGSPHD,,,,dughof,127,134
+1095,86143989,UGS-MAAdvancedDegree.ParentDoctype,25-Sep-19,25-Sep-19,25-Sep-19,Approve,BL,,,GRAD,,CYSRMGDEMS,,,,UGS.BL.MAAdvDeg.GRAD1,133,133
+1096,86144174,UGS.ExceptionWaiver.Doctype,25-Sep-19,03-Oct-19,25-Sep-19,Approve,BL,,,PHIL,,PHILPHD,,,,maelkenn,125,133
+1097,86150145,UGS.Candidacy.Doctype,26-Sep-19,26-Sep-19,26-Sep-19,Approve,BL,,,CHEM,,CHEMPHD,,CHEMGMIN,,UGS.BL.Candidacy.CHEM1,132,132
+1098,86150201,UGS.CommitteeV2.Doctype,26-Sep-19,26-Sep-19,26-Sep-19,Approve,BL,,,CHEM,,CHEMPHD,,chemical biology,,UGS.BL.Committee.CHEM1,132,132
+1099,86151639,UGS.Candidacy.Doctype,26-Sep-19,26-Sep-19,26-Sep-19,Approve,BL,Chemical biology,,CHEM,,CHEMPHD,,ANACHEGMIN,,UGS.BL.Candidacy.CHEM1,132,132
+1100,86151667,UGS.CommitteeV2.Doctype,26-Sep-19,26-Sep-19,26-Sep-19,Approve,BL,,,CHEM,,CHEMPHD,,Chemical Biology,,UGS.BL.Committee.CHEM1,132,132
+1101,86153941,UGS.ExceptionWaiver.Doctype,27-Sep-19,04-Feb-20,01-Oct-19,Approve,BL,,,AADM,,ARTADMA,,,,UGS.Exception.AssistantDean,1,131
+1106,86157282,UGS.ExceptionWaiver.Doctype,27-Sep-19,20-Nov-19,27-Sep-19,Approve,BL,,,STAT,,STATSCMS,,,,UGS.BL.DGS.STAT,77,131
+1107,86157282,UGS.ExceptionWaiver.Doctype,27-Sep-19,20-Nov-19,27-Sep-19,FYI,BL,,,STAT,,STATSCMS,,,,UGS.BL.DGS.STAT,77,131
+1108,86157297,UGS-MAAdvancedDegree.ParentDoctype,27-Sep-19,27-Sep-19,27-Sep-19,Approve,BL,,,STAT,,STATSCMS,,,,UGS.BL.MAAdvDeg.STAT1,131,131
+1109,86162338,UGS.Candidacy.Doctype,30-Sep-19,23-Jan-20,30-Sep-19,Approve,BL,,,CHEM,,CHEMPHD,,INDVGMIN,,xingye,13,128
+1110,86162486,UGS.CommitteeV2.Doctype,30-Sep-19,30-Sep-19,30-Sep-19,Approve,BL,,,CHEM,,CHEMPHD,,Analytical Chemistry,,UGS.BL.Committee.CHEM1,128,128
+1111,86163097,UGS.Candidacy.Doctype,30-Sep-19,30-Sep-19,30-Sep-19,Approve,IN,,,NURS,,NURSCPHD,,EPIDEMMIN,,UGS.IN.Candidacy.NURS1,128,128
+1112,86163242,UGS.Candidacy.Doctype,30-Sep-19,04-Oct-19,30-Sep-19,Approve,IN,,,NURS,,NURSCPHD,,EPIDEMMIN,,UGS.Candidacy.UGS.IN,124,128
+1113,86169857,UGS.CommitteeV2.Doctype,01-Oct-19,09-Oct-19,09-Oct-19,Approve,BL,,,BIOC,,BIOCPHD,,Microbiology,,cfuqua,119,127
+1114,86170551,UGS.ExceptionRevalidation.Doctype,01-Oct-19,04-Feb-20,01-Oct-19,Approve,BL,,,JOUR,,MCOMJPHD,,,,UGS.Exception.AssistantDean,1,127
+1115,86175371,UGS.Candidacy.Doctype,02-Oct-19,12-Jan-20,02-Oct-19,Approve,BL,,,EDUCELPS,,HIEDPHD,,INQMTHGMIN,,UGS.BL.Candidacy.EDUCELPS1,24,126
+1116,86182308,UGS.Candidacy.Doctype,03-Oct-19,14-Jan-20,03-Oct-19,Approve,BL,Materials,,CHEM,,CHEMPHD,,ANACHEGMIN,,thielges,22,125
+1117,86185713,UGS.CommitteeV2.Doctype,03-Oct-19,04-Oct-19,03-Oct-19,Approve,IN,,,MICR,,MIIMPHD,,Diabetes and Obesity,,xy14,124,125
+1118,86186167,UGS.Candidacy.Doctype,03-Oct-19,10-Jan-20,03-Oct-19,Approve,BL,,,EDUCCEP,,INQMTHPHD,,PSYGMIN,,UGS.BL.Candidacy.EDUCCEP1,26,125
+1119,86212638,UGS-MAAdvancedDegree.ParentDoctype,04-Oct-19,06-Dec-19,04-Oct-19,Approve,IN,American Philosophy,,PHIL,,PHILMA,,,,UGS.IN.MAAdvDeg.PHIL1,61,124
+1120,86219258,UGS.CommitteeV2.Doctype,07-Oct-19,03-Feb-20,07-Oct-19,Approve,BL,,,CHEM,,CHEMPHD,,Chemical biology,,jcl3,2,121
+1121,86222948,UGS.ExceptionRevalidation.Doctype,07-Oct-19,04-Nov-19,07-Oct-19,Approve,BL,,,EDUCIST,,INSYTPHD,,EDPSYGMIN,,katemart,93,121
+1122,86226524,UGS.CommitteeV2.Doctype,08-Oct-19,16-Oct-19,08-Oct-19,Approve,BL,,,SPHS,,SPHSPHD,,Gerontology,,kforrest,112,120
+1123,86229825,COLLGRAD.AdvisoryCom.Doctype,08-Oct-19,04-Dec-19,08-Oct-19,Approve,BL,,,NELC,,NELCPHD,,Religious Studies,,COLLGRAD.AdvisoryCom.COLLGRAD,63,120
+1124,86231609,UGS-MAAdvancedDegree.ParentDoctype,09-Oct-19,30-Oct-19,09-Oct-19,Approve,IN,,,PHIL,,PHILMA,,,,UGS.MAAdvDeg.INFinal.UGS,98,119
+1125,86236487,COLLGRAD.AdvisoryCom.Doctype,10-Oct-19,06-Nov-19,10-Oct-19,Approve,BL,,,BIOC,,BIOCPHD,,,,COLLGRAD.AdvisoryCom.COLLGRAD,91,118
+1126,86240875,COLLGRAD.AdvisoryCom.Doctype,10-Oct-19,11-Oct-19,10-Oct-19,Approve,BL,,,NELC,,NELCPHD,,Linguistics,,COLLGRAD.AdvisoryCom.COLLGRAD,117,118
+1129,86244723,UGS-MAAdvancedDegree.ParentDoctype,11-Oct-19,14-Oct-19,11-Oct-19,Approve,IN,,,PHST,,PHLSTEXCMA,,,,UGS.MAAdvDeg.INFinal.UGS,114,117
+1130,86249380,COLLGRAD.AdvisoryCom.Doctype,14-Oct-19,31-Oct-19,14-Oct-19,Approve,BL,,,NELC,,NELCPHD,,Religious Studies,,COLLGRAD.AdvisoryCom.COLLGRAD,97,114
+1133,86251742,COLLGRAD.AdvisoryCom.Doctype,14-Oct-19,22-Oct-19,14-Oct-19,Approve,BL,,,NELC,,NELCPHD,,Jewish Studies,,COLLGRAD.AdvisoryCom.COLLGRAD,106,114
+1134,86251743,UGS.Candidacy.Doctype,14-Oct-19,22-Jan-20,14-Oct-19,Approve,BL,Analytical Chemistry,,CHEM,,CHEMPHD,,CHEBIOGMIN,,giedroc,14,114
+1135,86255366,UGS.CommitteeV2.Doctype,15-Oct-19,15-Oct-19,15-Oct-19,Approve,BL,,,CHEM,,CHEMPHD,,inorganic,,UGS.BL.Committee.CHEM1,113,113
+1136,86255378,UGS.ExceptionMinor.Doctype,15-Oct-19,03-Dec-19,15-Oct-19,Approve,BL,,,SPES,,ENSCIPHD2,,,,UGS.BL.DGS.SPES,64,113
+1137,86256717,UGS-MAAdvancedDegree.ParentDoctype,15-Oct-19,16-Oct-19,15-Oct-19,Approve,IN,Public History,,HIST,,HISTMA,,,,UGS.MAAdvDeg.INFinal.UGS,112,113
+1138,86258548,UGS.ExceptionMinor.Doctype,15-Oct-19,29-Jan-20,15-Oct-19,Approve,BL,,,JOUR,,MCOMJPHD,,,,herring,7,113
+1139,86258644,COLLGRAD.AdvisoryCom.Doctype,15-Oct-19,08-Jan-20,15-Oct-19,Approve,BL,,,PSY,COGS,PSYPHD,COGSPHD,,,COLLGRAD.AdvisoryCom.COLLGRAD,28,113
+1142,86263448,UGS.ExceptionWaiver.Doctype,16-Oct-19,16-Oct-19,16-Oct-19,Approve,BL,,,STAT,,STATSCPHD,,,,UGS.BL.SECREC.STAT,112,112
+1143,86267190,COLLGRAD.AdvisoryCom.Doctype,17-Oct-19,21-Oct-19,17-Oct-19,Approve,BL,,,NELC,ANTH,NELCPHD,ANTHPHD,History and Philosophy of Science and Medicine,Bioanthropology,COLLGRAD.AdvisoryCom.COLLGRAD,107,111
+1144,86295518,UGS.Candidacy.Doctype,18-Oct-19,18-Oct-19,18-Oct-19,Approve,IN,,,MICR,,MIIMPHD,,BIOINFOMIN,,fahsyed,110,110
+1145,86295594,UGS.CommitteeV2.Doctype,18-Oct-19,18-Oct-19,18-Oct-19,Approve,IN,,,MICR,,MIIMPHD,,,,fahsyed,110,110
+1146,86298928,UGS-MAAdvancedDegree.ParentDoctype,19-Oct-19,22-Nov-19,19-Oct-19,Approve,IN,,,ANTH,,APLANTHMA,,,,UGS.MAAdvDeg.INFinal.UGS,75,109
+1147,86299878,UGS.ExceptionWaiver.Doctype,20-Oct-19,10-Dec-19,20-Oct-19,Approve,BL,Substance Use,,EDUCCEP,,COPSYPHD,,PUHLTHGMIN,,adamsle,57,108
+1148,86299919,UGS-MAAdvancedDegree.ParentDoctype,21-Oct-19,21-Oct-19,21-Oct-19,Approve,IN,,,PHST,,PHLSTMA,,,,UGS.IN.MAAdvDeg.PHST1,107,107
+1149,86301944,UGS-PhDDefense.ParentDoctype,21-Oct-19,21-Oct-19,21-Oct-19,Approve,BL,,,THTR,,THTRPHD,,,,jgoodlan,107,107
+1150,86303099,UGS-MAAdvancedDegree.ParentDoctype,21-Oct-19,21-Oct-19,21-Oct-19,Approve,IN,,,PHSL,,CELINPHMS,,,,UGS.IN.MAAdvDeg.PHSL1,107,107
+1151,86307599,UGS-MAAdvancedDegree.ParentDoctype,22-Oct-19,12-Nov-19,22-Oct-19,Approve,IN,,,GEOG,,GISMS,,,,UGS.MAAdvDeg.INFinal.UGS,85,106
+1152,86309046,COLLGRAD.AdvisoryCom.Doctype,22-Oct-19,22-Oct-19,22-Oct-19,Approve,BL,,,NELC,,NELCPHD,,Computational Linguistics,,COLLGRAD.AdvisoryCom.COLLGRAD,106,106
+1155,86309632,UGS.Candidacy.Doctype,22-Oct-19,22-Oct-19,22-Oct-19,Approve,BL,Morality in media,,MSCH,,MDARSCPHD,,CULSGMIN,,UGS.BL.Candidacy.MSCH1,106,106
+1156,86309933,UGS.Candidacy.Doctype,22-Oct-19,15-Nov-19,22-Oct-19,Approve,BL,,,EDUCCEP,,COPSYPHD,,SPPRFPGMIN,,raglinj,82,106
+1161,86313652,UGS.CommitteeChangeV2.Doctype,23-Oct-19,01-Nov-19,23-Oct-19,Approve,BL,,,EDUCLCLE,,LCLNGPHD,,Inquiry Methodology,,UGS.BL.Committee.EDUCLCLE2,96,105
+1162,86314544,UGS.Candidacy.Doctype,23-Oct-19,04-Feb-20,23-Oct-19,Approve,BL,Modern German Literature & Culture,,GER,,GERPHD,,CMLTGMIN,,UGS.Candidacy.UGS.BL,1,105
+1163,86315234,COLLGRAD.AdvisoryCom.Doctype,23-Oct-19,29-Oct-19,23-Oct-19,Approve,BL,,,EDUCELPS,NELC,HPPEDPHD,NELCPHD,,,COLLGRAD.AdvisoryCom.COLLGRAD,99,105
+1164,86318726,COLLGRAD.AdvisoryCom.Doctype,24-Oct-19,26-Nov-19,24-Oct-19,Approve,BL,,,NELC,,NELCPHD,,Computational Linguistics,,COLLGRAD.AdvisoryCom.COLLGRAD,71,104
+1165,86318790,COLLGRAD.AdvisoryCom.Doctype,24-Oct-19,26-Nov-19,24-Oct-19,Approve,BL,,,NELC,,NELCPHD,,Linguistics,,COLLGRAD.AdvisoryCom.COLLGRAD,71,104
+1166,86319195,UGS-MAAdvancedDegree.ParentDoctype,24-Oct-19,13-Jan-20,24-Oct-19,Approve,IN,,,ENG,,TESOLMA,,,,UGS.MAAdvDeg.INFinal.UGS,23,104
+1167,86319371,COLLGRAD.AdvisoryCom.Doctype,24-Oct-19,26-Nov-19,24-Oct-19,Approve,BL,,,NELC,,NELCPHD,,Linguistics,,COLLGRAD.AdvisoryCom.COLLGRAD,71,104
+1168,86319953,COLLGRAD.AdvisoryCom.Doctype,24-Oct-19,02-Dec-19,24-Oct-19,Approve,BL,,,NELC,,NELCPHD,,Linguistics,,COLLGRAD.AdvisoryCom.COLLGRAD,65,104
+1169,86319953,COLLGRAD.AdvisoryCom.Doctype,24-Oct-19,22-Nov-19,24-Oct-19,FYI,BL,,,NELC,,NELCPHD,,Linguistics,,Alain,75,104
+1170,86320884,UGS.Candidacy.Doctype,24-Oct-19,30-Jan-20,02-Nov-19,Approve,BL,Materials,,CHEM,,CHEMPHD,,INORCHGMIN,,UGS.BL.Candidacy.CHEM1,6,104
+1171,86321322,COLLGRAD.AdvisoryComChange.Doctype,25-Oct-19,04-Dec-19,25-Oct-19,Approve,BL,,,INFO,COGS,INFOPHD,COGSPHD,Complex Networks and Systems,,COLLGRAD.AdvisoryCom.COLLGRAD,63,103
+1172,86327609,UGS.Candidacy.Doctype,27-Oct-19,27-Oct-19,27-Oct-19,Approve,BL,,,CHEM,,CHEMPHD,,SCMPTGMIN,,UGS.BL.Candidacy.CHEM1,101,101
+1175,86329407,UGS.ExceptionWaiver.Doctype,28-Oct-19,29-Oct-19,28-Oct-19,Approve,BL,Security,,INFO,,INFOPHD,,CYSRMGGMIN,,ljcamp,99,100
+1180,86335440,UGS.Candidacy.Doctype,29-Oct-19,29-Oct-19,29-Oct-19,Approve,IN,,,PHST,,PHSTDPHD,,SOCIOLMIN,,UGS.IN.Candidacy.PHST1,99,99
+1181,86336564,UGS.CommitteeV2.Doctype,29-Oct-19,29-Oct-19,29-Oct-19,Approve,BL,,,REL,,RELPHD,,,,browncg,99,99
+1182,86336852,COLLGRAD.AdvisoryCom.Doctype,29-Oct-19,05-Nov-19,29-Oct-19,Approve,BL,,,CEUS,,CEUSPHD,,EALC,,COLLGRAD.AdvisoryCom.COLLGRAD,92,99
+1183,86340072,UGS.Candidacy.Doctype,30-Oct-19,27-Nov-19,30-Oct-19,Approve,BL,Modern Arabic Literature in Translation ,,NELC,,NELCPHD,,CMLTGMIN,Eclectic,alani,70,98
+1184,86342745,UGS-MAAdvancedDegree.ParentDoctype,30-Oct-19,30-Oct-19,30-Oct-19,Approve,IN,,,PHSL,,CELINPHMS,,,,UGS.IN.MAAdvDeg.PHSL1,98,98
+1185,86345724,UGS.ExceptionRevalidation.Doctype,31-Oct-19,19-Nov-19,31-Oct-19,Approve,BL,social studies ,,EDUCCI,,CRINPHD,,,,kcbarton,78,97
+1186,86346267,UGS.Candidacy.Doctype,31-Oct-19,06-Nov-19,31-Oct-19,Approve,IN,,,EDUC,,UREDSTPHD,,NPRFMGTMIN,,mwmckay,91,97
+1188,86347166,UGS.Candidacy.Doctype,31-Oct-19,30-Jan-20,31-Oct-19,Approve,IN,Biomedical Research Track PhD,,,,ANTCBPHD,,Individualized,,UGS.IN.Candidacy.ANAT2.ANTCBPHD,6,97
+1189,86347166,UGS.Candidacy.Doctype,31-Oct-19,30-Jan-20,31-Oct-19,Approve,IN,Biomedical Research Track PhD,,,,ANTCBPHD,,Individualized,,UGS.IN.Candidacy.MED.CustomApproval,6,97
+1190,86347166,UGS.Candidacy.Doctype,31-Oct-19,30-Jan-20,31-Oct-19,FYI,IN,Biomedical Research Track PhD,,,,ANTCBPHD,,Individualized,,UGS.IN.Candidacy.MED.SpecialFYI,6,97
+1193,86374822,COLLGRAD.AdvisoryCom.Doctype,01-Nov-19,26-Nov-19,01-Nov-19,Approve,BL,,,NELC,,NELCPHD,,Linguistics,,COLLGRAD.AdvisoryCom.COLLGRAD,71,96
+1194,86378060,UGS.CommitteeV2.Doctype,01-Nov-19,08-Nov-19,01-Nov-19,Approve,BL,,,BIOL,,EEBPHD,,Animal Behavior,,sprhall,89,96
+1197,86379708,UGS-MAAdvancedDegree.ParentDoctype,02-Nov-19,02-Nov-19,02-Nov-19,Approve,BL,,,GRAD,,CYSRMGDEMS,,,,UGS.BL.MAAdvDeg.GRAD1,95,95
+1198,86379819,UGS.CommitteeV2.Doctype,02-Nov-19,02-Nov-19,02-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Inorganic Chemistry,,UGS.BL.Committee.CHEM1,95,95
+1201,86386991,UGS-MAAdvancedDegree.ParentDoctype,05-Nov-19,05-Nov-19,05-Nov-19,Approve,BL,,,AADM,,ARTADMA,,,,UGS.BL.MAAdvDeg.AADM1,92,92
+1204,86388706,UGS-MAAdvancedDegree.ParentDoctype,05-Nov-19,05-Nov-19,05-Nov-19,Approve,BL,,,AADM,,ARTADMA,,,,UGS.BL.MAAdvDeg.AADM1,92,92
+1205,86388863,UGS.ExceptionMinor.Doctype,05-Nov-19,05-Nov-19,05-Nov-19,Approve,IN,,,SWK,,SWKMSW,,,,UGS.IN.SECREC.SWK,92,92
+1206,86389418,COLLGRAD.AdvisoryCom.Doctype,05-Nov-19,14-Nov-19,14-Nov-19,Approve,BL,,,FOLK,HIST,FOLKPHD,HISTPHD,Ethnomusicology,United States,jonesall,83,92
+1207,86389857,UGS.CommitteeV2.Doctype,05-Nov-19,05-Nov-19,05-Nov-19,Approve,BL,,,REL,,RELPHD,,Critical Theory,,UGS.BL.Committee.REL1,92,92
+1208,86390041,UGS.CommitteeV2.Doctype,05-Nov-19,05-Nov-19,05-Nov-19,Approve,BL,,,OPT,,VISSCPHD,,Neuroscience,,UGS.BL.Committee.OPT1,92,92
+1209,86390651,UGS-MAAdvancedDegree.ParentDoctype,05-Nov-19,05-Nov-19,05-Nov-19,Approve,BL,,,AADM,,ARTADMA,,,,UGS.BL.MAAdvDeg.AADM1,92,92
+1210,86392565,UGS.CommitteeV2.Doctype,06-Nov-19,06-Nov-19,06-Nov-19,Approve,BL,,,PHIL,,PHILPHD,,History of German Thought ,,sshapsha,91,91
+1211,86394314,COLLGRAD.AdvisoryCom.Doctype,06-Nov-19,14-Nov-19,06-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Chemical Biology,,COLLGRAD.AdvisoryCom.COLLGRAD,83,91
+1212,86394332,COLLGRAD.AdvisoryCom.Doctype,06-Nov-19,14-Nov-19,06-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Chemical Biology,,COLLGRAD.AdvisoryCom.COLLGRAD,83,91
+1213,86394440,COLLGRAD.AdvisoryCom.Doctype,06-Nov-19,20-Nov-19,06-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Chemical Biology,,COLLGRAD.AdvisoryCom.COLLGRAD,77,91
+1214,86394875,COLLGRAD.AdvisoryCom.Doctype,06-Nov-19,20-Nov-19,06-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Chemical Biology,,COLLGRAD.AdvisoryCom.COLLGRAD,77,91
+1215,86394947,COLLGRAD.AdvisoryCom.Doctype,06-Nov-19,20-Nov-19,06-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Chemical Biology,,COLLGRAD.AdvisoryCom.COLLGRAD,77,91
+1216,86394990,COLLGRAD.AdvisoryCom.Doctype,06-Nov-19,13-Nov-19,06-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Sustainable Energy,,COLLGRAD.AdvisoryCom.COLLGRAD,84,91
+1217,86395126,COLLGRAD.AdvisoryCom.Doctype,06-Nov-19,13-Nov-19,06-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Chemical Biology ,,COLLGRAD.AdvisoryCom.COLLGRAD,84,91
+1218,86395164,UGS-MAAdvancedDegree.ParentDoctype,06-Nov-19,06-Nov-19,06-Nov-19,Approve,BL,,,AADM,,ARTADMA,,,,UGS.BL.MAAdvDeg.AADM1,91,91
+1219,86395330,COLLGRAD.AdvisoryCom.Doctype,06-Nov-19,23-Jan-20,06-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Materials,,COLLGRAD.AdvisoryCom.COLLGRAD,13,91
+1220,86395536,COLLGRAD.AdvisoryCom.Doctype,06-Nov-19,25-Nov-19,06-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Chemical Biology,,COLLGRAD.AdvisoryCom.COLLGRAD,72,91
+1221,86395865,COLLGRAD.AdvisoryCom.Doctype,06-Nov-19,13-Nov-19,06-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Chemical Biology,,COLLGRAD.AdvisoryCom.COLLGRAD,84,91
+1222,86396156,COLLGRAD.AdvisoryCom.Doctype,06-Nov-19,14-Nov-19,06-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Materials,,COLLGRAD.AdvisoryCom.COLLGRAD,83,91
+1223,86396204,COLLGRAD.AdvisoryCom.Doctype,06-Nov-19,20-Nov-19,06-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Materials,,COLLGRAD.AdvisoryCom.COLLGRAD,77,91
+1224,86396394,COLLGRAD.AdvisoryCom.Doctype,06-Nov-19,10-Jan-20,06-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Physical ,,COLLGRAD.AdvisoryCom.COLLGRAD,26,91
+1225,86396495,UGS-MAAdvancedDegree.ParentDoctype,06-Nov-19,06-Nov-19,06-Nov-19,Approve,BL,,,AADM,,ARTADMA,,,,UGS.BL.MAAdvDeg.AADM1,91,91
+1229,86398799,COLLGRAD.AdvisoryCom.Doctype,07-Nov-19,13-Nov-19,07-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Materials,,COLLGRAD.AdvisoryCom.COLLGRAD,84,90
+1230,86399371,UGS.Candidacy.Doctype,07-Nov-19,07-Nov-19,07-Nov-19,Approve,BL,Organic,,CHEM,,CHEMPHD,,CHEBIOGMIN,,UGS.BL.Candidacy.CHEM1,90,90
+1231,86399430,UGS.CommitteeV2.Doctype,07-Nov-19,07-Nov-19,07-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Organic,,UGS.BL.Committee.CHEM1,90,90
+1232,86400434,UGS.ExceptionWaiver.Doctype,07-Nov-19,02-Dec-19,07-Nov-19,Approve,BL,Chemical Biology,N/A,CHEM,,CHEMPHD,CHEMPHD,,,UGS.BL.SECREC.CHEM,65,90
+1233,86400450,UGS.Candidacy.Doctype,07-Nov-19,14-Jan-20,07-Nov-19,Approve,BL,Inorganic,,CHEM,,CHEMPHD,,CHEMGMIN,,kraghava,22,90
+1234,86400708,UGS.CommitteeV2.Doctype,07-Nov-19,07-Nov-19,07-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,,,UGS.BL.Committee.CHEM1,90,90
+1235,86401469,COLLGRAD.AdvisoryCom.Doctype,07-Nov-19,07-Nov-19,07-Nov-19,Approve,BL,,,NELC,,NELCPHD,,Linguistics,,COLLGRAD.AdvisoryCom.COLLGRAD,90,90
+1236,86402182,COLLGRAD.AdvisoryCom.Doctype,07-Nov-19,08-Nov-19,07-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Inorganic,,COLLGRAD.AdvisoryCom.COLLGRAD,89,90
+1237,86402434,UGS-MAAdvancedDegree.ParentDoctype,07-Nov-19,07-Nov-19,07-Nov-19,Approve,BL,,,AADM,,ARTADMA,,,,UGS.BL.MAAdvDeg.AADM1,90,90
+1238,86402883,UGS-MAAdvancedDegree.ParentDoctype,08-Nov-19,02-Jan-20,08-Nov-19,Approve,IN,,,ANTH,,APLANTHMA,,,,UGS.MAAdvDeg.INFinal.UGS,34,89
+1239,86405190,UGS-MAAdvancedDegree.ParentDoctype,08-Nov-19,11-Nov-19,08-Nov-19,Approve,IN,,,PHST,,PHLSTEXCMA,,,,UGS.MAAdvDeg.INFinal.UGS,86,89
+1240,86406104,COLLGRAD.AdvisoryCom.Doctype,08-Nov-19,20-Nov-19,08-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Materials,,COLLGRAD.AdvisoryCom.COLLGRAD,77,89
+1241,86408563,COLLGRAD.AdvisoryCom.Doctype,11-Nov-19,20-Nov-19,11-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,chemical biology ,,COLLGRAD.AdvisoryCom.COLLGRAD,77,86
+1242,86410286,UGS.CommitteeChangeV2.Doctype,11-Nov-19,11-Nov-19,11-Nov-19,Approve,IN,,,MNEU,,MNEURSPHD,,Life Sciences,,skhizroe,86,86
+1243,86410818,COLLGRAD.AdvisoryCom.Doctype,11-Nov-19,12-Nov-19,11-Nov-19,Approve,BL,,,NELC,NELC,NELCPHD,NELCPHD,Linguistics,,COLLGRAD.AdvisoryCom.COLLGRAD,85,86
+1244,86410924,UGS.ExceptionWaiver.Doctype,11-Nov-19,25-Nov-19,11-Nov-19,Approve,BL,Organic,,CHEM,,CHEMPHD,,CHEBIOGMIN,,npohl,72,86
+1245,86412332,UGS.CommitteeV2.Doctype,11-Nov-19,26-Dec-19,11-Nov-19,Approve,BL,,,MSCH,,MDARSCPHD,,French,,UGS.BL.Committee.MSCH1,41,86
+1246,86413004,UGS-MAAdvancedDegree.ParentDoctype,11-Nov-19,11-Nov-19,11-Nov-19,Approve,BL,Gender and Sexuality Studies,,HIST,,HISTMA,,,,UGS.BL.MAAdvDeg.HIST1,86,86
+1247,86413004,UGS-MAAdvancedDegree.ParentDoctype,11-Nov-19,11-Nov-19,11-Nov-19,FYI,BL,Gender and Sexuality Studies,,HIST,,HISTMA,,,,UGS.MAAdvDeg.BL.UGS,86,86
+1248,86413568,COLLGRAD.AdvisoryComChange.Doctype,11-Nov-19,12-Dec-19,11-Nov-19,Approve,BL,,,MSCH,,MDARSCPHD,,Political Science,,COLLGRAD.AdvisoryCom.COLLGRAD,55,86
+1249,86415544,COLLGRAD.AdvisoryCom.Doctype,12-Nov-19,20-Nov-19,12-Nov-19,Approve,BL,,,ANTH,,ANTHPHD,,Conc: Archaeology; Minor: Geography,,COLLGRAD.AdvisoryCom.COLLGRAD,77,85
+1250,86416028,UGS.CommitteeV2.Doctype,12-Nov-19,14-Nov-19,12-Nov-19,Approve,BL,,,PHYS,,PHYSPHD,,,,jackjenk,83,85
+1251,86416650,UGS.CommitteeV2.Doctype,12-Nov-19,03-Feb-20,12-Nov-19,Approve,BL,,,NELC,,NELCPHD,,Comparative Literature (min),,UGS.BL.Committee.NELC1,2,85
+1252,86417058,UGS-MAAdvancedDegree.ParentDoctype,12-Nov-19,12-Nov-19,12-Nov-19,Approve,BL,,,AADM,,ARTADMA,,,,UGS.BL.MAAdvDeg.AADM1,85,85
+1253,86417505,COLLGRAD.AdvisoryCom.Doctype,12-Nov-19,12-Nov-19,12-Nov-19,Approve,BL,,,GEOG,,GEOGPHD,,Human Dimensions of Global Environmental Change,,COLLGRAD.AdvisoryCom.COLLGRAD,85,85
+1254,86418191,UGS-MAAdvancedDegree.ParentDoctype,12-Nov-19,12-Nov-19,12-Nov-19,Approve,IN,,,ECON,,ECONMA,,,,UGS.IN.MAAdvDeg.ECON1,85,85
+1255,86418901,UGS-MAAdvancedDegree.ParentDoctype,12-Nov-19,26-Nov-19,12-Nov-19,Approve,IN,,,CLRES,,CLRESMSCR,,,,UGS.MAAdvDeg.INFinal.UGS,71,85
+1256,86421041,COLLGRAD.AdvisoryCom.Doctype,13-Nov-19,04-Dec-19,13-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Inorganic,,COLLGRAD.AdvisoryCom.COLLGRAD,63,84
+1257,86421564,UGS-MAAdvancedDegree.ParentDoctype,13-Nov-19,14-Nov-19,13-Nov-19,Approve,IN,,,COMM,,APLCMMA,,,,UGS.MAAdvDeg.INFinal.UGS,83,84
+1258,86423126,UGS.CommitteeV2.Doctype,13-Nov-19,03-Feb-20,13-Nov-19,FYI,BL,,,NELC,,NELCPHD,,,,tomlewis,2,84
+1259,86423126,UGS.CommitteeV2.Doctype,13-Nov-19,04-Feb-20,13-Nov-19,Approve,BL,,,NELC,,NELCPHD,,,,alani,1,84
+1260,86423842,UGS-MAAdvancedDegree.ParentDoctype,13-Nov-19,13-Nov-19,13-Nov-19,Approve,BL,,,GRAD,,CYSRMGDEMS,,,,UGS.BL.MAAdvDeg.GRAD1,84,84
+1261,86423966,UGS-MAAdvancedDegree.ParentDoctype,13-Nov-19,13-Nov-19,13-Nov-19,Approve,BL,,,GRAD,,CYSRMGDEMS,,,,UGS.BL.MAAdvDeg.GRAD1,84,84
+1262,86424143,UGS-MAAdvancedDegree.ParentDoctype,13-Nov-19,13-Nov-19,13-Nov-19,Approve,BL,,,GRAD,,CYSRMGMTMS,,,,UGS.BL.MAAdvDeg.GRAD1,84,84
+1263,86424784,COLLGRAD.AdvisoryCom.Doctype,13-Nov-19,15-Nov-19,13-Nov-19,Approve,BL,,,LING,,LINGPHD,,Computational Linguistics,,COLLGRAD.AdvisoryCom.COLLGRAD,82,84
+1264,86424800,COLLGRAD.AdvisoryCom.Doctype,13-Nov-19,13-Nov-19,13-Nov-19,Approve,BL,,,LING,,LINGPHD,,Informatics,,COLLGRAD.AdvisoryCom.COLLGRAD,84,84
+1265,86425029,COLLGRAD.AdvisoryComChange.Doctype,13-Nov-19,14-Nov-19,13-Nov-19,Approve,BL,,,ANTH,,ANTHPHD,,Minor: Geography/Conc: Archaeology,,COLLGRAD.AdvisoryCom.COLLGRAD,83,84
+1266,86425913,UGS.ExceptionRevalidation.Doctype,13-Nov-19,13-Nov-19,13-Nov-19,Approve,IN,,,ENG,BIOP,,,,,UGS.IN.SECREC.BIOP,84,84
+1267,86425913,UGS.ExceptionRevalidation.Doctype,13-Nov-19,13-Nov-19,13-Nov-19,Approve,IN,,,ENG,BIOP,,,,,UGS.IN.SECREC.ENG,84,84
+1268,86425964,UGS.ExceptionWaiver.Doctype,13-Nov-19,20-Dec-19,13-Nov-19,Approve,BL,,,EDUCELPS,,HIEDPHD,,,,UGS.BL.DGS.EDUCELPS,47,84
+1269,86426086,UGS.Candidacy.Doctype,13-Nov-19,05-Dec-19,13-Nov-19,Approve,BL,Bioinformatics,,CSCI,,CSCIPHD,,BIOINGMIN,,fsharifi,62,84
+1270,86426087,UGS.ExceptionMinor.Doctype,13-Nov-19,30-Jan-20,13-Nov-19,Approve,BL,Mathematics Education,,EDUCCI,,CRINPHD,,,,UGS.Exception.AssistantDean,6,84
+1271,86428488,COLLGRAD.AdvisoryCom.Doctype,14-Nov-19,13-Dec-19,14-Nov-19,Approve,BL,,,COGS,INFO,COGSPHD,INFOPHD,,,COLLGRAD.AdvisoryCom.COLLGRAD,54,83
+1272,86428981,COLLGRAD.AdvisoryCom.Doctype,14-Nov-19,14-Nov-19,14-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Inorganic Chemistry,,kraghava,83,83
+1273,86429254,COLLGRAD.AdvisoryCom.Doctype,14-Nov-19,14-Nov-19,14-Nov-19,Approve,BL,,,HIST,,HISTPHD,,Gender Studies Minor / United States & Cultural History Concentrations,,COLLGRAD.AdvisoryCom.COLLGRAD,83,83
+1274,86429479,UGS.CommitteeV2.Doctype,14-Nov-19,22-Nov-19,14-Nov-19,Approve,BL,,,BIOC,,BIOCPHD,,Chemistry,,gjcoffma,75,83
+1275,86430918,UGS.CommitteeV2.Doctype,14-Nov-19,14-Nov-19,14-Nov-19,Approve,BL,,,CSCI,,CSCIPHD,,Cognitive Science,,UGS.BL.Committee.CSCI1,83,83
+1276,86432020,COLLGRAD.AdvisoryCom.Doctype,14-Nov-19,06-Jan-20,14-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,inorganic,,COLLGRAD.AdvisoryCom.COLLGRAD,30,83
+1277,86432403,COLLGRAD.AdvisoryCom.Doctype,14-Nov-19,16-Nov-19,14-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Biophysical Chemistry,,reilly,81,83
+1278,86432523,COLLGRAD.AdvisoryCom.Doctype,14-Nov-19,18-Nov-19,14-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Materials,,COLLGRAD.AdvisoryCom.COLLGRAD,79,83
+1279,86432843,UGS.Candidacy.Doctype,14-Nov-19,15-Nov-19,14-Nov-19,Approve,BL,,,SPH,,KYHPPHD,,HMPRFGMIN,,nabiyuni,82,83
+1284,86463357,COLLGRAD.AdvisoryCom.Doctype,17-Nov-19,26-Nov-19,17-Nov-19,Approve,BL,,,NELC,,NELCPHD,,Applied Linguistics,,COLLGRAD.AdvisoryCom.COLLGRAD,71,80
+1285,86463437,UGS.Candidacy.Doctype,17-Nov-19,17-Nov-19,17-Nov-19,Approve,BL,Literature,,ENG,,ENGPHD,,MESTGMIN,,UGS.BL.Candidacy.ENG1,80,80
+1286,86463469,COLLGRAD.AdvisoryCom.Doctype,17-Nov-19,26-Nov-19,17-Nov-19,Approve,BL,,,NELC,,NELCPHD,,Linguistics,,COLLGRAD.AdvisoryCom.COLLGRAD,71,80
+1289,86464880,UGS.CommitteeV2.Doctype,18-Nov-19,03-Feb-20,18-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,chemical biology,,tsnaddon,2,79
+1290,86465363,UGS.ExceptionWaiver.Doctype,18-Nov-19,18-Nov-19,18-Nov-19,Approve,BL,PhD,,CHEM,,CHEMPHD,, select,,emwasim,79,79
+1291,86465367,UGS.Candidacy.Doctype,18-Nov-19,21-Nov-19,18-Nov-19,Approve,BL,Cinema and Media Studies,,MSCH,,MDARSCPHD,,FRENGMIN,,francist,76,79
+1292,86468049,UGS.CommitteeV2.Doctype,18-Nov-19,19-Nov-19,18-Nov-19,Approve,BL,,,BUS,BUS,BUSPHD,BUSPHD,Operations and Supply Chain Management,Decision Sciences,cch3,78,79
+1293,86468635,COLLGRAD.AdvisoryCom.Doctype,18-Nov-19,19-Nov-19,18-Nov-19,Approve,BL,,,NELC,,NELCPHD,,Religious Studies,,COLLGRAD.AdvisoryCom.COLLGRAD,78,79
+1294,86468780,UGS-MAAdvancedDegree.ParentDoctype,18-Nov-19,18-Nov-19,18-Nov-19,Approve,BL,,,GRAD,,CYSRMGDEMS,,,,UGS.BL.MAAdvDeg.GRAD1,79,79
+1295,86471271,UGS.Candidacy.Doctype,19-Nov-19,09-Jan-20,19-Nov-19,Approve,BL,,,EDUCLCLE,,LCLNGPHD,,EDPSYGMIN,STATSCIMIN,wrsmith,27,78
+1296,86472077,COLLGRAD.AdvisoryCom.Doctype,19-Nov-19,19-Nov-19,19-Nov-19,Approve,BL,,,BIOL,,MCDBPHD,,Genetics,,jtenness,78,78
+1297,86472891,UGS.Candidacy.Doctype,19-Nov-19,19-Nov-19,19-Nov-19,Approve,BL,,,CSCI,,CSCIPHD,,LOGICGMIN,,UGS.BL.Candidacy.CSCI1,78,78
+1298,86473503,UGS.Candidacy.Doctype,19-Nov-19,17-Dec-19,19-Nov-19,Approve,BL,,,SOC,,SOCPHD,,SSRMGMIN,,cha5,50,78
+1299,86475058,COLLGRAD.AdvisoryCom.Doctype,19-Nov-19,04-Dec-19,19-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Inorganic,,COLLGRAD.AdvisoryCom.COLLGRAD,63,78
+1300,86477434,UGS.CommitteeV2.Doctype,20-Nov-19,22-Jan-20,20-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Materials,,tsnaddon,14,77
+1301,86477517,UGS.Candidacy.Doctype,20-Nov-19,26-Nov-19,20-Nov-19,Approve,IN,Bioinformatics,,INFO,,INFOPHD,,BIOSTATMIN,,UGS.IN.Candidacy.INFO1,71,77
+1302,86477517,UGS.Candidacy.Doctype,20-Nov-19,26-Nov-19,20-Nov-19,FYI,IN,Bioinformatics,,INFO,,INFOPHD,,BIOSTATMIN,,jofjones,71,77
+1307,86479048,COLLGRAD.AdvisoryCom.Doctype,20-Nov-19,21-Nov-19,20-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Scientific Computing,,kraghava,76,77
+1308,86479120,COLLGRAD.AdvisoryCom.Doctype,20-Nov-19,10-Jan-20,20-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Biophysics,,COLLGRAD.AdvisoryCom.COLLGRAD,26,77
+1309,86479365,COLLGRAD.AdvisoryCom.Doctype,20-Nov-19,21-Nov-19,20-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,scientific computing ,,kraghava,76,77
+1310,86479468,COLLGRAD.AdvisoryCom.Doctype,20-Nov-19,24-Jan-20,20-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Physical,,COLLGRAD.AdvisoryCom.COLLGRAD,12,77
+1311,86479540,COLLGRAD.AdvisoryCom.Doctype,20-Nov-19,24-Jan-20,20-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Chemical and Physical Biology,,COLLGRAD.AdvisoryCom.COLLGRAD,12,77
+1312,86479842,UGS.ExceptionWaiver.Doctype,20-Nov-19,30-Jan-20,20-Nov-19,Approve,BL,Bioengineering,Complex and Network Systems,ENGR,INFO,INSENGRPHD,INFOPHD,,,rocha,6,77
+1313,86480553,UGS.ExceptionWaiver.Doctype,20-Nov-19,20-Nov-19,20-Nov-19,Approve,BL,,,ENGR,,INSENGRPHD,,,,UGS.BL.SECREC.ENGR,77,77
+1314,86480857,COLLGRAD.AdvisoryCom.Doctype,20-Nov-19,04-Dec-19,20-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Bio-Materials Chemistry ,,COLLGRAD.AdvisoryCom.COLLGRAD,63,77
+1315,86480866,COLLGRAD.AdvisoryCom.Doctype,20-Nov-19,04-Dec-19,20-Nov-19,Approve,BL,,,CHEM,,CHEMPHD,,Bio-Materials Chemistry,,COLLGRAD.AdvisoryCom.COLLGRAD,63,77
+1316,86481887,UGS-MAAdvancedDegree.ParentDoctype,21-Nov-19,10-Dec-19,21-Nov-19,Approve,IN,,,ECON,,ECONMA,,,,UGS.MAAdvDeg.INFinal.UGS,57,76
+1317,86483092,UGS-MAAdvancedDegree.ParentDoctype,21-Nov-19,11-Dec-19,21-Nov-19,Approve,BL,Greek,,CLAS,,CLSTMA,,,,UGS.BL.MAAdvDeg.CLAS1,56,76
+1318,86483104,UGS.Candidacy.Doctype,21-Nov-19,21-Nov-19,21-Nov-19,Approve,BL,,,MSCH,,MDARSCPHD,,SOCINFGMIN,,UGS.BL.Candidacy.MSCH1,76,76
+1319,86484306,UGS-MAAdvancedDegree.ParentDoctype,21-Nov-19,21-Nov-19,21-Nov-19,Approve,BL,,,AADM,,ARTADMA,,,,UGS.BL.MAAdvDeg.AADM1,76,76
+1320,86485691,COLLGRAD.AdvisoryCom.Doctype,21-Nov-19,26-Nov-19,21-Nov-19,Approve,BL,,,NELC,,NELCPHD,,Religious Studies,,COLLGRAD.AdvisoryCom.COLLGRAD,71,76
+1321,86491838,UGS.ExceptionWaiver.Doctype,23-Nov-19,03-Dec-19,23-Nov-19,Approve,BL,,,,,,,,,jamepayn,64,74
+1322,86494073,COLLGRAD.AdvisoryCom.Doctype,25-Nov-19,16-Jan-20,25-Nov-19,Approve,BL,,,HPSC,,HPSCPHD,,,,COLLGRAD.AdvisoryCom.COLLGRAD,20,72
+1323,86497397,UGS-MAAdvancedDegree.ParentDoctype,26-Nov-19,26-Nov-19,26-Nov-19,Approve,IN,,,POLS,,POLSMA,,,,UGS.IN.MAAdvDeg.POLS1,71,71
+1324,86501593,UGS.Candidacy.Doctype,26-Nov-19,20-Dec-19,26-Nov-19,Approve,IN,,,BIST,,BISTPHD,,COMPSCIMIN,,UGS.Candidacy.UGS.IN,47,71
+1325,86530430,UGS-MAAdvancedDegree.ParentDoctype,01-Dec-19,01-Dec-19,01-Dec-19,Approve,BL,,,AADM,,ARTADMA,,,,UGS.BL.MAAdvDeg.AADM1,66,66
+1326,86530438,COLLGRAD.AdvisoryCom.Doctype,01-Dec-19,23-Jan-20,01-Dec-19,Approve,BL,,,LING,,LINGPHD,,EALC-Chinese,,COLLGRAD.AdvisoryCom.COLLGRAD,13,66
+1327,86531978,UGS-MAAdvancedDegree.ParentDoctype,02-Dec-19,02-Dec-19,02-Dec-19,Approve,BL,,,AADM,,ARTADMA,,,,UGS.BL.MAAdvDeg.AADM1,65,65
+1330,86535904,UGS.Candidacy.Doctype,02-Dec-19,02-Dec-19,02-Dec-19,Approve,BL,Analytical,,CHEM,,CHEMPHD,,Individualized,,UGS.BL.Candidacy.CHEM1,65,65
+1331,86536164,COLLGRAD.AdvisoryCom.Doctype,02-Dec-19,03-Dec-19,02-Dec-19,Approve,BL,,,HIST,,HISTPHD,,Germanic St. / African & Modern Europe History,,COLLGRAD.AdvisoryCom.COLLGRAD,64,65
+1332,86537688,UGS.Candidacy.Doctype,02-Dec-19,02-Dec-19,02-Dec-19,Approve,BL,,,EDUCELPS,,HIEDPHD,,DATSCIGMIN,,UGS.BL.Candidacy.EDUCELPS1,65,65
+1333,86537723,COLLGRAD.AdvisoryCom.Doctype,02-Dec-19,05-Dec-19,02-Dec-19,Approve,BL,,,NELC,,NELCPHD,,Religious Studies,,COLLGRAD.AdvisoryCom.COLLGRAD,62,65
+1334,86537723,COLLGRAD.AdvisoryCom.Doctype,02-Dec-19,05-Dec-19,02-Dec-19,FYI,BL,,,NELC,,NELCPHD,,Religious Studies,,COLLGRAD.AdvisoryCom.BL.NELC1,62,65
+1335,86537725,COLLGRAD.AdvisoryCom.Doctype,02-Dec-19,31-Jan-20,02-Dec-19,Approve,BL,,,NELC,,NELCPHD,,,,COLLGRAD.AdvisoryCom.COLLGRAD,5,65
+1336,86537741,UGS.ExceptionWaiver.Doctype,02-Dec-19,06-Dec-19,02-Dec-19,Approve,BL,"Masters of Science in Education (literacy, culture, language education) and EFL/ESL Teacher Training Certificate ",,EDUCLCLE,,LCLNGPHD,,,,Fpawan,61,65
+1337,86541986,UGS.Candidacy.Doctype,03-Dec-19,16-Dec-19,03-Dec-19,Approve,BL,Complex Systems,,INFO,,INFOPHD,,Individualized,,bfrische,51,64
+1338,86548791,UGS-MAAdvancedDegree.ParentDoctype,05-Dec-19,05-Dec-19,05-Dec-19,Approve,IN,,,GEOG,,GISMS,,,,UGS.IN.MAAdvDeg.GEOG1,62,62
+1339,86549095,UGS.Candidacy.Doctype,05-Dec-19,17-Dec-19,05-Dec-19,Approve,BL,,,PHIL,,PHILPHD,,MESTGMIN,,UGS.BL.Candidacy.PHIL2.PHILPHD,50,62
+1340,86549359,UGS-MAAdvancedDegree.ParentDoctype,05-Dec-19,05-Dec-19,05-Dec-19,Approve,BL,,,AADM,,ARTADMA,,,,UGS.BL.MAAdvDeg.AADM1,62,62
+1341,86550131,UGS.CommitteeV2.Doctype,05-Dec-19,06-Dec-19,05-Dec-19,Approve,BL,,,HISP,,SPANPHD,,Latin American & Caribbean Studies | Hispanic Literatures,,abirkenm,61,62
+1342,86553160,UGS.Candidacy.Doctype,05-Dec-19,05-Dec-19,05-Dec-19,Approve,BL,,,ANTH,,ANTHPHD,,ENVSCIGMIN,,UGS.BL.Candidacy.ANTH1,62,62
+1345,86555992,UGS-MAAdvancedDegree.ParentDoctype,06-Dec-19,17-Dec-19,06-Dec-19,Approve,IN,,,PSY,,ASOPMS,,,,UGS.MAAdvDeg.INFinal.UGS,50,61
+1346,86556427,UGS.ExceptionRevalidation.Doctype,06-Dec-19,22-Jan-20,06-Dec-19,Approve,BL,,,EDUCELPS,,HIEDPHD,,INDVGMIN,,salebeau,14,61
+1347,86556545,UGS-MAAdvancedDegree.ParentDoctype,06-Dec-19,06-Dec-19,06-Dec-19,Approve,BL,,,AADM,,ARTADMA,,,,UGS.BL.MAAdvDeg.AADM1,61,61
+1348,86556612,UGS.ExceptionRevalidation.Doctype,06-Dec-19,06-Dec-19,06-Dec-19,Approve,BL,,,EDUCELPS,,HIEDPHD,,INDVGMIN,,uconnor,61,61
+1349,86556630,UGS.ExceptionRevalidation.Doctype,06-Dec-19,22-Jan-20,06-Dec-19,Approve,BL,,,EDUCELPS,,HIEDPHD,,INDVGMIN,,salebeau,14,61
+1350,86556842,UGS.ExceptionRevalidation.Doctype,06-Dec-19,06-Dec-19,06-Dec-19,Approve,BL,European Studies,,INTL,,INTLSTMA,,,,flhess,61,61
+1351,86557015,COLLGRAD.AdvisoryCom.Doctype,06-Dec-19,11-Dec-19,06-Dec-19,Approve,BL,,,ECON,,ECONPHD,,,,COLLGRAD.AdvisoryCom.COLLGRAD,56,61
+1352,86557515,UGS.Candidacy.Doctype,06-Dec-19,23-Jan-20,06-Dec-19,Approve,BL,,,COGS,,COGSPHD,,STATSCIMIN,PSYGMIN,dmanriqu,13,61
+1353,86557888,COLLGRAD.AdvisoryCom.Doctype,07-Dec-19,11-Dec-19,07-Dec-19,Approve,BL,,,ECON,,ECONPHD,,,,COLLGRAD.AdvisoryCom.COLLGRAD,56,60
+1354,86558096,UGS.Candidacy.Doctype,07-Dec-19,03-Feb-20,08-Dec-19,Approve,BL,Cyberphysical Systems,,ENGR,,INSENGRPHD,,CSCIGMIN,,mryoo,2,60
+1355,86558096,UGS.Candidacy.Doctype,07-Dec-19,21-Jan-20,08-Dec-19,FYI,BL,Cyberphysical Systems,,ENGR,,INSENGRPHD,,CSCIGMIN,,lucgill,15,60
+1356,86558344,UGS-MAAdvancedDegree.ParentDoctype,08-Dec-19,08-Dec-19,08-Dec-19,Approve,BL,,,AADM,,ARTADMA,,,,UGS.BL.MAAdvDeg.AADM1,59,59
+1357,86558440,COLLGRAD.AdvisoryCom.Doctype,09-Dec-19,10-Dec-19,09-Dec-19,Approve,BL,,,ECON,,ECONPHD,,,,caixiao,57,58
+1358,86558721,COLLGRAD.AdvisoryCom.Doctype,09-Dec-19,10-Dec-19,09-Dec-19,Approve,BL,,,ECON,,ECONPHD,,,,walkerj,57,58
+1359,86560127,UGS.Candidacy.Doctype,09-Dec-19,09-Dec-19,09-Dec-19,Approve,BL,,,SOC,,SOCPHD,,SSRMGMIN,,blperry,58,58
+1360,86560230,UGS.CommitteeV2.Doctype,09-Dec-19,12-Dec-19,09-Dec-19,Approve,BL,,,COGS,,COGSPHD,,Music,,dughof,55,58
+1361,86560623,COLLGRAD.AdvisoryCom.Doctype,09-Dec-19,11-Dec-19,09-Dec-19,Approve,BL,,,ECON,,ECONPHD,,,,COLLGRAD.AdvisoryCom.COLLGRAD,56,58
+1362,86560862,COLLGRAD.AdvisoryCom.Doctype,09-Dec-19,18-Dec-19,09-Dec-19,Approve,BL,,,ECON,,ECONPHD,,,,COLLGRAD.AdvisoryCom.COLLGRAD,49,58
+1363,86560976,COLLGRAD.AdvisoryCom.Doctype,09-Dec-19,18-Dec-19,09-Dec-19,Approve,BL,,,ECON,,ECONPHD,,,,COLLGRAD.AdvisoryCom.COLLGRAD,49,58
+1364,86561058,UGS-MAAdvancedDegree.ParentDoctype,09-Dec-19,09-Dec-19,09-Dec-19,Approve,BL,,,AADM,,ARTADMA,,,,UGS.BL.MAAdvDeg.AADM1,58,58
+1365,86561208,UGS.ExceptionWaiver.Doctype,09-Dec-19,30-Jan-20,09-Dec-19,Approve,BL,Bioengineering,,ENGR,,INSENGRPHD,,MNENGRGMIN,,UGS.BL.DGS.ENGR,6,58
+1366,86561402,COLLGRAD.AdvisoryCom.Doctype,09-Dec-19,18-Dec-19,09-Dec-19,Approve,BL,,,ECON,,ECONPHD,,,,COLLGRAD.AdvisoryCom.COLLGRAD,49,58
+1367,86562022,COLLGRAD.AdvisoryCom.Doctype,09-Dec-19,10-Dec-19,09-Dec-19,Approve,BL,,,ECON,,ECONPHD,,,,COLLGRAD.AdvisoryCom.COLLGRAD,57,58
+1368,86562333,UGS.CommitteeV2.Doctype,09-Dec-19,09-Dec-19,09-Dec-19,Approve,BL,,,PHYS,,PHYSPHD,,,,jackjenk,58,58
+1369,86562697,UGS.ExceptionRevalidation.Doctype,09-Dec-19,10-Dec-19,09-Dec-19,Approve,BL,Instructional Systems Technology Ed.D.,,EDUCIST,,,,CNSLGMIN,,stocktor,57,58
+1370,86562722,COLLGRAD.AdvisoryCom.Doctype,09-Dec-19,11-Dec-19,09-Dec-19,Approve,BL,,,ECON,,ECONPHD,,Econometrics,,COLLGRAD.AdvisoryCom.COLLGRAD,56,58
+1371,86563111,COLLGRAD.AdvisoryCom.Doctype,09-Dec-19,11-Dec-19,09-Dec-19,Approve,BL,,,ECON,,ECONPHD,,,,COLLGRAD.AdvisoryCom.COLLGRAD,56,58
+1372,86563399,UGS.Candidacy.Doctype,09-Dec-19,03-Feb-20,09-Dec-19,Approve,BL,,,SPHS,,SPHSPHD,,COGSGMIN,,kdejong,2,58
+1373,86565531,UGS-MAAdvancedDegree.ParentDoctype,10-Dec-19,10-Dec-19,10-Dec-19,Approve,BL,,,AADM,,ARTADMA,,,,UGS.BL.MAAdvDeg.AADM1,57,57
+1374,86565550,UGS.CommitteeV2.Doctype,10-Dec-19,10-Dec-19,10-Dec-19,Approve,BL,,,BUS,,BUSPHD,,Customized Minor - Strategic Analytics,,gmallapr,57,57
+1375,86567978,COLLGRAD.AdvisoryCom.Doctype,10-Dec-19,31-Jan-20,11-Jan-20,Approve,BL,,,NELC,,NELCPHD,,History and Philosophy of Science and Medicine,,COLLGRAD.AdvisoryCom.COLLGRAD,5,57
+1376,86568166,UGS.Candidacy.Doctype,10-Dec-19,10-Dec-19,10-Dec-19,Approve,BL,,,FOLK,,FOLKPHD,,HLTBEHGMIN,,UGS.BL.Candidacy.FOLK1,57,57
+1377,86568567,COLLGRAD.AdvisoryCom.Doctype,10-Dec-19,18-Dec-19,10-Dec-19,Approve,BL,,,ECON,,ECONPHD,,,,COLLGRAD.AdvisoryCom.COLLGRAD,49,57
+1378,86569067,UGS.ExceptionRevalidation.Doctype,10-Dec-19,16-Dec-19,10-Dec-19,Approve,BL,,,EDUCELPS,,HIEDPHD,,,,UGS.BL.DGS.EDUCELPS,51,57
+1379,86572152,UGS-MAAdvancedDegree.ParentDoctype,11-Dec-19,13-Dec-19,11-Dec-19,Approve,IN,,,MICR,,MIIMMS,,,,UGS.MAAdvDeg.INFinal.UGS,54,56
+1380,86573693,UGS.CommitteeV2.Doctype,11-Dec-19,11-Dec-19,11-Dec-19,Approve,BL,,,CSCI,,CSCIPHD,,,,UGS.BL.Committee.CSCI1,56,56
+1381,86573898,UGS-MAAdvancedDegree.ParentDoctype,11-Dec-19,11-Dec-19,11-Dec-19,Approve,BL,,,AADM,,ARTADMA,,,,UGS.BL.MAAdvDeg.AADM1,56,56
+1382,86577389,UGS.CommitteeV2.Doctype,12-Dec-19,12-Dec-19,12-Dec-19,Approve,IN,,,SWK,,SWKPHD,,Translational Research for Social Scientists,,maott,55,55
+1383,86577854,UGS.Candidacy.Doctype,12-Dec-19,10-Jan-20,12-Dec-19,Approve,IN,Anatomy Education,,,,ANTCBPHD,,Individualized,,UGS.Candidacy.UGS.IN,26,55
+1386,86605850,UGS.Candidacy.Doctype,13-Dec-19,13-Dec-19,13-Dec-19,Approve,BL,,,OPT,,VISSCPHD,,NEUSGMIN,,UGS.BL.Candidacy.OPT1,54,54
+1387,86606694,UGS.CommitteeV2.Doctype,14-Dec-19,16-Dec-19,14-Dec-19,Approve,BL,,,FRIT,LING,FRENPHD,LINGPHD,Second Language Studies,,ldekydts,51,53
+1388,86606975,UGS.CommitteeV2.Doctype,15-Dec-19,20-Dec-19,15-Dec-19,Approve,BL,,,HIST,,HISTPHD,,Latin American and Caribbean Studies / Latin American History,,dajames,47,52
+1389,86607016,UGS.CommitteeV2.Doctype,15-Dec-19,31-Jan-20,15-Dec-19,Approve,BL,,,CEUS,,CEUSPHD,,History,,UGS.Committee.UGS.BL,5,52
+1390,86607020,UGS-MAAdvancedDegree.ParentDoctype,15-Dec-19,15-Dec-19,15-Dec-19,Approve,IN,,,ENG,,ENGDEMA,,,,UGS.IN.MAAdvDeg.ENG1,52,52
+1395,86608344,UGS-MAAdvancedDegree.ParentDoctype,16-Dec-19,16-Dec-19,16-Dec-19,Approve,IN,Creative Nonfiction Writing,,ENG,,ENGMA,,,,UGS.IN.MAAdvDeg.ENG1,51,51
+1396,86609011,UGS.ExceptionWaiver.Doctype,16-Dec-19,04-Feb-20,16-Dec-19,Approve,BL,,,OPT,,VISSCPHD,,,,UGS.BL.DGS.OPT,1,51
+1397,86609013,UGS-PhDDefense.ParentDoctype,16-Dec-19,16-Dec-19,16-Dec-19,Approve,BL,,,CHEM,,CHEMPHD,,Physical Biology,,mfj,51,51
+1398,86609015,UGS.Candidacy.Doctype,16-Dec-19,04-Feb-20,16-Dec-19,Approve,BL,2 concs: Pol. Thry & Mtdgy / Comp Pol,,POLS,,POLSPHD,,REEIGMIN,,rsmyth,1,51
+1399,86609045,UGS.Candidacy.Doctype,16-Dec-19,14-Jan-20,16-Dec-19,Approve,BL,,,EDUCLCLE,,LCLNGPHD,,INQMTHGMIN,,subose,22,51
+1400,86609809,COLLGRAD.AdvisoryCom.Doctype,16-Dec-19,02-Jan-20,16-Dec-19,Approve,BL,,,CHEM,,CHEMPHD,,Chemical Biology,,COLLGRAD.AdvisoryCom.COLLGRAD,34,51
+1401,86610301,UGS.Candidacy.Doctype,16-Dec-19,16-Dec-19,16-Dec-19,Approve,BL,,,EDUCLCLE,,LCLNGPHD,,ISTGMIN,,UGS.BL.Candidacy.EDUCLCLE1,51,51
+1402,86610319,UGS-MAAdvancedDegree.ParentDoctype,16-Dec-19,16-Dec-19,16-Dec-19,Approve,IN,,,HIST,,HISTMA,,,,UGS.IN.MAAdvDeg.HIST1,51,51
+1403,86610342,UGS.Candidacy.Doctype,16-Dec-19,13-Jan-20,16-Dec-19,Approve,BL,Archaeology,,ANTH,,ANTHPHD,,LTAMCGMIN,,UGS.BL.Candidacy.ANTH1,23,51
+1404,86614636,COLLGRAD.AdvisoryCom.Doctype,17-Dec-19,17-Dec-19,17-Dec-19,Approve,BL,,,AST,,ASTPAPHD,,,,COLLGRAD.AdvisoryCom.COLLGRAD,50,50
+1405,86616195,UGS.ExceptionWaiver.Doctype,17-Dec-19,18-Dec-19,17-Dec-19,Approve,BL,HCI,,INFO,,INFOPHD,,,,jbardzel,49,50
+1406,86618396,COLLGRAD.AdvisoryCom.Doctype,18-Dec-19,19-Dec-19,18-Dec-19,Approve,BL,,,CHEM,,CHEMPHD,,Physical Materials Chemistry ,,COLLGRAD.AdvisoryCom.COLLGRAD,48,49
+1407,86623020,UGS.Candidacy.Doctype,19-Dec-19,19-Dec-19,19-Dec-19,Approve,BL,Science Education,,EDUCCI,,CRINPHD,,ABEHGMIN,,UGS.BL.Candidacy.EDUCCI1,48,48
+1408,86625105,COLLGRAD.AdvisoryComChange.Doctype,19-Dec-19,20-Dec-19,19-Dec-19,Approve,BL,,,NEUS,,NEUSPHD,,,,COLLGRAD.AdvisoryCom.COLLGRAD,47,48
+1411,86625516,UGS.Candidacy.Doctype,19-Dec-19,20-Dec-19,19-Dec-19,FYI,BL,,,CJUS,,CJUSPHD,,LINGGMIN,,jonforr,47,48
+1412,86625516,UGS.Candidacy.Doctype,19-Dec-19,29-Jan-20,19-Dec-19,Approve,BL,,,CJUS,,CJUSPHD,,LINGGMIN,,UGS.BL.Candidacy.CJUS1,7,48
+1413,86627937,COLLGRAD.AdvisoryCom.Doctype,20-Dec-19,20-Dec-19,20-Dec-19,Approve,BL,,,NELC,,NELCPHD,,Religious Studies,,zistraba,47,47
+1414,86628536,COLLGRAD.AdvisoryCom.Doctype,20-Dec-19,20-Dec-19,20-Dec-19,Approve,BL,,,ECON,,ECONPHD,,,,kelixu,47,47
+1415,86628536,COLLGRAD.AdvisoryCom.Doctype,20-Dec-19,20-Dec-19,20-Dec-19,Approve,BL,,,ECON,,ECONPHD,,,,rulixiao,47,47
+1417,86629877,UGS-PhDCommencement.ParentDoctype,20-Dec-19,20-Dec-19,20-Dec-19,Approve,BL,,,EDUC,,LCLNGPHD,,,,UGS.BL.PhDComm.EDUC1,47,47
+1418,86629886,COLLGRAD.AdvisoryCom.Doctype,20-Dec-19,08-Jan-20,20-Dec-19,Approve,BL,,,HISP,,PORTPHD,,Comparative Literature,,COLLGRAD.AdvisoryCom.COLLGRAD,28,47
+1419,86629965,COLLGRAD.AdvisoryComChange.Doctype,20-Dec-19,27-Jan-20,20-Dec-19,Approve,BL,,,GEOG,,GEOGPHD,,"Evolution, Ecology, and Behavior",,COLLGRAD.AdvisoryCom.COLLGRAD,9,47
+1420,86630692,UGS.Candidacy.Doctype,22-Dec-19,22-Dec-19,22-Dec-19,Approve,BL,,,CSCI,,CSCIPHD,,SECURGMIN,,UGS.BL.Candidacy.CSCI1,45,45
+1421,86630712,UGS.ExceptionWaiver.Doctype,22-Dec-19,23-Dec-19,22-Dec-19,Approve,BL,,,EDUCIST,,INSYTPHD,,HUCPTGMIN,,jbardzel,44,45
+1422,86632424,UGS-PhDCommencement.ParentDoctype,23-Dec-19,23-Dec-19,23-Dec-19,Approve,BL,,,MUS,,MSEDPHD,,,,UGS.BL.PhDComm.MUS1,44,44
+1423,86633743,UGS.Candidacy.Doctype,23-Dec-19,03-Feb-20,23-Dec-19,Approve,BL,,,STAT,,STATSCPHD,,CMPLXSGMIN,,UGS.BL.Candidacy.STAT1,2,44
+1424,86633743,UGS.Candidacy.Doctype,23-Dec-19,03-Feb-20,23-Dec-19,FYI,BL,,,STAT,,STATSCPHD,,CMPLXSGMIN,,dmanriqu,2,44
+1425,86635084,UGS.Candidacy.Doctype,24-Dec-19,21-Jan-20,24-Dec-19,Approve,BL,Intelligent and Interactive Systems,,INFO,,INFOPHD,,Individualized,,UGS.BL.Candidacy.INFO1,15,43
+1426,86635084,UGS.Candidacy.Doctype,24-Dec-19,21-Jan-20,24-Dec-19,FYI,BL,Intelligent and Interactive Systems,,INFO,,INFOPHD,,Individualized,,lucgill,15,43
+1427,86635856,UGS.CommitteeV2.Doctype,25-Dec-19,26-Dec-19,25-Dec-19,Approve,BL,,,LAW,,LAWDEMPHD,,,,dacwilli,41,42
+1428,86635856,UGS.CommitteeV2.Doctype,25-Dec-19,26-Dec-19,25-Dec-19,Approve,BL,,,LAW,,LAWDEMPHD,,,,sk84,41,42
+1429,86635894,UGS-MAAdvancedDegree.ParentDoctype,26-Dec-19,06-Jan-20,26-Dec-19,Approve,IN,,,COMM,,APLCMMA,,,,UGS.MAAdvDeg.INFinal.UGS,30,41
+1430,86636562,UGS.CommitteeV2.Doctype,26-Dec-19,22-Jan-20,06-Jan-20,Approve,BL,,,OPT,,VISSCPHD,,Biostatistics,,UGS.BL.Committee.OPT1,14,41
+1431,86662217,UGS-MAAdvancedDegree.ParentDoctype,28-Dec-19,03-Feb-20,28-Dec-19,Approve,BL,General Linguistics,,LING,,LINGMA,,,,UGS.BL.MAAdvDeg.LING1,2,39
+1436,86663628,COLLGRAD.AdvisoryCom.Doctype,30-Dec-19,04-Feb-20,30-Dec-19,Approve,BL,,,GEOG,,GEOGPHD,,Anthropology,,COLLGRAD.AdvisoryCom.COLLGRAD,1,37
+1437,86664120,COLLGRAD.AdvisoryCom.Doctype,30-Dec-19,24-Jan-20,30-Dec-19,Approve,BL,,,PSY,,PSYPHD,,Developmental ,,COLLGRAD.AdvisoryCom.COLLGRAD,12,37
+1438,86664895,COLLGRAD.AdvisoryCom.Doctype,30-Dec-19,10-Jan-20,30-Dec-19,Approve,BL,,,LING,,LINGPHD,,Informatics,,COLLGRAD.AdvisoryCom.COLLGRAD,26,37
+1439,86666934,UGS.CommitteeV2.Doctype,31-Dec-19,02-Jan-20,31-Dec-19,Approve,BL,,,BIOC,,BIOCPHD,,Chromosome biology,,hniu,34,36
+1440,86667818,UGS-PhDCommencement.ParentDoctype,02-Jan-20,02-Jan-20,02-Jan-20,Approve,BL,,,EDUC,,LCLNGPHD,,,,UGS.BL.PhDComm.EDUC1,34,34
+1441,86670477,UGS-MAAdvancedDegree.ParentDoctype,02-Jan-20,02-Jan-20,02-Jan-20,Approve,IN,,,MUSE,,MUSSTMA,,,,UGS.IN.MAAdvDeg.MUSE1,34,34
+1442,86672613,UGS-PhDCommencement.ParentDoctype,02-Jan-20,02-Jan-20,02-Jan-20,Approve,BL,,,EDUC,,SCPSYPHD,,,,UGS.BL.PhDComm.EDUC1,34,34
+1443,86677141,UGS-MAAdvancedDegree.ParentDoctype,04-Jan-20,06-Jan-20,04-Jan-20,Approve,IN,,,SHHS,,NUTRNMS2,,,,lcklenk,30,32
+1444,86677358,UGS-MAAdvancedDegree.ParentDoctype,05-Jan-20,05-Jan-20,05-Jan-20,Approve,BL,,,ECON,,ECONMA,,,,UGS.BL.MAAdvDeg.ECON1,31,31
+1445,86677420,UGS.Candidacy.Doctype,05-Jan-20,23-Jan-20,05-Jan-20,Approve,BL,Social,,PSY,,PSYPHD,,Individualized,,abdiekma,13,31
+1446,86678731,UGS.Candidacy.Doctype,06-Jan-20,24-Jan-20,06-Jan-20,Approve,IN,,,MNEU,,MNEURSPHD,,LIFSCGMIN,,dclapp,12,30
+1448,86680531,UGS-MAAdvancedDegree.ParentDoctype,06-Jan-20,31-Jan-20,06-Jan-20,Approve,IN,,,GEOL,,GEOLMMS,,,,UGS.MAAdvDeg.INFinal.UGS,5,30
+1449,86680546,UGS.Candidacy.Doctype,06-Jan-20,04-Feb-20,06-Jan-20,Approve,BL,,,NELC,,NELCPHD,,CMLTGMIN,,plosensk,1,30
+1450,86680733,UGS.Candidacy.Doctype,06-Jan-20,08-Jan-20,06-Jan-20,Approve,BL,Literature,,HISP,,SPANPHD,,RENSTGMIN,,swagscha,28,30
+1451,86680805,UGS-MAAdvancedDegree.ParentDoctype,06-Jan-20,03-Feb-20,06-Jan-20,Approve,IN,,,GEOL,,GEOLMMS,,,,UGS.MAAdvDeg.INFinal.UGS,2,30
+1452,86681255,UGS-MAAdvancedDegree.ParentDoctype,06-Jan-20,23-Jan-20,06-Jan-20,Approve,IN,Sports,,TCEM,,EVTOURMS,,,,UGS.MAAdvDeg.INFinal.UGS,13,30
+1453,86681740,UGS-MAAdvancedDegree.ParentDoctype,06-Jan-20,06-Jan-20,06-Jan-20,Approve,IN,,,PHSL,,CELINPHMS,,,,UGS.IN.MAAdvDeg.PHSL1,30,30
+1454,86681989,UGS-MAAdvancedDegree.ParentDoctype,06-Jan-20,09-Jan-20,06-Jan-20,Approve,IN,,,CLRES,,CLRESMSCR,,,,UGS.MAAdvDeg.INFinal.UGS,27,30
+1455,86682817,UGS.ExceptionWaiver.Doctype,06-Jan-20,07-Jan-20,06-Jan-20,Approve,BL,OBHRM,,BUS,,BUSPHD,,BUSGMIN,,erikgonz,29,30
+1456,86682851,UGS-PhDDefense.ParentDoctype,06-Jan-20,08-Jan-20,07-Jan-20,Approve,BL,,,CHEM,,CHEMPHD,,Chemical Biology,,npohl,28,30
+1457,86683378,UGS.ExceptionWaiver.Doctype,07-Jan-20,07-Jan-20,07-Jan-20,Approve,BL,Finance,,BUS,ECON,BUSPHD,,BEPPGMIN,,hzlin,29,29
+1458,86683775,UGS.CommitteeV2.Doctype,07-Jan-20,21-Jan-20,07-Jan-20,FYI,BL,,,INFO,,INFOPHD,,Design methods for online subcultures' values,,lucgill,15,29
+1459,86683775,UGS.CommitteeV2.Doctype,07-Jan-20,22-Jan-20,07-Jan-20,Approve,BL,,,INFO,,INFOPHD,,Design methods for online subcultures' values,,jbardzel,14,29
+1460,86683783,UGS.ExceptionWaiver.Doctype,07-Jan-20,07-Jan-20,07-Jan-20,Approve,BL,BEPP,,BUS,,BUSPHD,,FINGMIN,,hzlin,29,29
+1461,86684060,UGS-MAAdvancedDegree.ParentDoctype,07-Jan-20,07-Jan-20,07-Jan-20,Approve,BL,Geomorphology,,EAS,,GEOLMS,,,,UGS.BL.MAAdvDeg.EAS1,29,29
+1462,86684105,UGS-PhDCommencement.ParentDoctype,07-Jan-20,07-Jan-20,07-Jan-20,Approve,BL,,,EDUC,,SPCEDPHD,,,,UGS.BL.PhDComm.EDUC1,29,29
+1464,86685403,UGS-MAAdvancedDegree.ParentDoctype,07-Jan-20,07-Jan-20,07-Jan-20,Approve,IN,Sport Event Tourism,,SHHS,,HSSCIMS,,,,bmhutton,29,29
+1465,86685938,UGS-MAAdvancedDegree.ParentDoctype,07-Jan-20,07-Jan-20,07-Jan-20,Approve,BL,,,FOLK,,FOLKMA,,,,UGS.BL.MAAdvDeg.FOLK1,29,29
+1466,86686573,UGS.CommitteeV2.Doctype,07-Jan-20,07-Jan-20,07-Jan-20,Approve,BL,,,SPES,,ENSCIPHD2,,,,UGS.BL.Committee.SPES1,29,29
+1467,86687208,UGS.ExceptionWaiver.Doctype,07-Jan-20,08-Jan-20,07-Jan-20,Approve,BL,Entrepreneurship,,BUS,,BUSPHD,,,,fisherg,28,29
+1468,86687245,UGS.ExceptionWaiver.Doctype,07-Jan-20,07-Jan-20,07-Jan-20,Approve,BL,Finance,,BUS,,BUSPHD,,,,ww18,29,29
+1469,86688359,UGS-MAAdvancedDegree.ParentDoctype,07-Jan-20,09-Jan-20,07-Jan-20,Approve,IN,,,ANTH,,APLANTHMA,,,,UGS.MAAdvDeg.INFinal.UGS,27,29
+1470,86689502,UGS.Candidacy.Doctype,08-Jan-20,08-Jan-20,08-Jan-20,Approve,IN,,,PBHL,,HLPMPHD1,,Individualized,,joshvest,28,28
+1471,86689537,UGS.CommitteeV2.Doctype,08-Jan-20,09-Jan-20,08-Jan-20,Approve,BL,,,FRIT,,ITALPHD,,,,marnaudo,27,28
+1472,86689733,UGS.Candidacy.Doctype,08-Jan-20,16-Jan-20,08-Jan-20,Approve,IN,,,SWK,,SWKPHD,,Eclectic,,UGS.Candidacy.UGS.IN,20,28
+1473,86693136,UGS.Candidacy.Doctype,08-Jan-20,21-Jan-20,08-Jan-20,Approve,BL,Computer Engineering,,ENGR,,INSENGRPHD,,CSCIGMIN,,UGS.BL.Candidacy.ENGR1,15,28
+1474,86693136,UGS.Candidacy.Doctype,08-Jan-20,21-Jan-20,08-Jan-20,FYI,BL,Computer Engineering,,ENGR,,INSENGRPHD,,CSCIGMIN,,lucgill,15,28
+1475,86693262,UGS.ExceptionMinor.Doctype,08-Jan-20,08-Jan-20,08-Jan-20,FYI,BL,,,EDUCCI,,CRINPHD,,,,UGS.BL.DGS.EDUCCI,28,28
+1476,86693262,UGS.ExceptionMinor.Doctype,08-Jan-20,09-Jan-20,08-Jan-20,Approve,BL,,,EDUCCI,,CRINPHD,,,,UGS.BL.DGS.EDUCCI,27,28
+1477,86693745,UGS.Candidacy.Doctype,09-Jan-20,09-Jan-20,09-Jan-20,Approve,BL,,,CSCI,,CSCIPHD,,CSCIGMIN,,UGS.BL.Candidacy.CSCI1,27,27
+1478,86693931,UGS.Candidacy.Doctype,09-Jan-20,21-Jan-20,09-Jan-20,Approve,BL,,,SPPA,,PBAFFPHD2,,PUBAFGMIN,,UGS.BL.Candidacy.SPPA1,15,27
+1479,86695447,UGS-MAAdvancedDegree.ParentDoctype,09-Jan-20,09-Jan-20,09-Jan-20,Approve,IN,Sports,,TCEM,,EVTOURMS,,,,UGS.IN.MAAdvDeg.TCEM1,27,27
+1480,86696502,UGS.Candidacy.Doctype,09-Jan-20,04-Feb-20,09-Jan-20,Approve,BL,2 concen: Pol. Phil. / Comp. Pol.,,POLS,,POLSPHD,,LAWGMIN,,UGS.BL.Candidacy.POLS1,1,27
+1481,86696990,UGS.ExceptionWaiver.Doctype,09-Jan-20,09-Jan-20,09-Jan-20,Approve,BL,,,MED,,CMCBIOPHD,,GENGMIN,,pchollen,27,27
+1482,86697348,UGS.CommitteeChangeV2.Doctype,09-Jan-20,30-Jan-20,09-Jan-20,Approve,BL,,,EDUCCEP,,LRNDEVPHD,,Adult Education,,UGS.Committee.UGS.BL,6,27
+1487,86698142,UGS.ExceptionWaiver.Doctype,09-Jan-20,09-Jan-20,09-Jan-20,Approve,BL,Ancient History,,HIST,,HISTPHD,,,,UGS.BL.SECREC.HIST,27,27
+1488,86698204,UGS-MAAdvancedDegree.ParentDoctype,09-Jan-20,09-Jan-20,09-Jan-20,Approve,BL,Poetry,,ENG,,CRWRMFA,,,,UGS.BL.MAAdvDeg.ENG1,27,27
+1489,86724237,COLLGRAD.AdvisoryCom.Doctype,10-Jan-20,10-Jan-20,10-Jan-20,Approve,BL,,,CHEM,,CHEMPHD,,Inorganic/Chemical Biology,,tsnaddon,26,26
+1490,86724662,COLLGRAD.AdvisoryCom.Doctype,10-Jan-20,10-Jan-20,10-Jan-20,Approve,BL,,,CHEM,,CHEMPHD,,Biophysics,,giedroc,26,26
+1491,86725246,UGS-MAAdvancedDegree.ParentDoctype,10-Jan-20,14-Jan-20,10-Jan-20,Approve,IN,,,CLRES,,CLRESMSCR,,,,UGS.MAAdvDeg.INFinal.UGS,22,26
+1492,86725315,UGS.Candidacy.Doctype,10-Jan-20,10-Jan-20,10-Jan-20,Approve,IN,Cultural Ecologies,,AMST,,AMSTPHD,,Individualized,,UGS.IN.Candidacy.AMST1,26,26
+1493,86725320,UGS.Candidacy.Doctype,10-Jan-20,10-Jan-20,10-Jan-20,Approve,BL,,,EDUCLCLE,,LCLNGPHD,,ISTGMIN,NELCGMIN,UGS.BL.Candidacy.EDUCLCLE1,26,26
+1494,86725386,UGS.Candidacy.Doctype,10-Jan-20,10-Jan-20,10-Jan-20,Approve,BL,,,EDUCLCLE,,LCLNGPHD,,ISTGMIN,NELCGMIN,UGS.BL.Candidacy.EDUCLCLE1,26,26
+1495,86725442,UGS.Candidacy.Doctype,10-Jan-20,22-Jan-20,10-Jan-20,Approve,BL,Chemical Biology,,CHEM,,CHEMPHD,,ANACHEGMIN,,clemmer,14,26
+1496,86725482,UGS.CommitteeV2.Doctype,10-Jan-20,10-Jan-20,10-Jan-20,Approve,BL,,,CHEM,,CHEMPHD,,Analytical Chemistry,,UGS.BL.Committee.CHEM1,26,26
+1497,86726396,UGS.ExceptionWaiver.Doctype,10-Jan-20,03-Feb-20,10-Jan-20,Approve,BL,Analytical,,CHEM,CHEM,CHEMPHD,,CHEBIOGMIN,,UGS.Exception.UGS1.BL,2,26
+1498,86726611,UGS-MAAdvancedDegree.ParentDoctype,10-Jan-20,10-Jan-20,10-Jan-20,Approve,BL,,,CEUS,,CEUSMA,,,,UGS.BL.MAAdvDeg.CEUS1,26,26
+1499,86727577,UGS.CommitteeV2.Doctype,10-Jan-20,10-Jan-20,10-Jan-20,Approve,IN,,,AMST,,AMSTPHD,,Public Problem Solving in Cultural Ecologies,,UGS.IN.Committee.AMST,26,26
+1500,86728317,UGS.ExceptionWaiver.Doctype,12-Jan-20,23-Jan-20,12-Jan-20,FYI,BL,PhD,,FOLK,,FOLKPHD,,,,UGS.BL.DGS.FOLK,13,24
+1501,86728317,UGS.ExceptionWaiver.Doctype,12-Jan-20,31-Jan-20,12-Jan-20,Approve,BL,PhD,,FOLK,,FOLKPHD,,,,UGS.BL.DGS.FOLK,5,24
+1502,86730255,UGS-MAAdvancedDegree.ParentDoctype,13-Jan-20,13-Jan-20,13-Jan-20,Approve,BL,,,ECON,,ECONMA,,,,UGS.BL.MAAdvDeg.ECON1,23,23
+1503,86730530,UGS.CommitteeV2.Doctype,13-Jan-20,14-Jan-20,13-Jan-20,Approve,BL,,,HISP,,SPANPHD,,Catalan,,UGS.BL.Committee.HISP2,22,23
+1505,86730695,UGS.CommitteeV2.Doctype,13-Jan-20,13-Jan-20,13-Jan-20,Approve,BL,,,LING,,LINGPHD,,Speech and Hearing Sciences,,lanzaldu,23,23
+1506,86731039,UGS-PhDCommencement.ParentDoctype,13-Jan-20,13-Jan-20,13-Jan-20,Approve,BL,,,EDUC,,SCPSYPHD,,,,UGS.BL.PhDComm.EDUC1,23,23
+1511,86731333,UGS.ExceptionMinor.Doctype,13-Jan-20,22-Jan-20,13-Jan-20,Approve,BL,,,CHEM,,CHEMPHD,,,,UGS.Exception.AssistantDean,14,23
+1512,86731336,UGS-MAAdvancedDegree.ParentDoctype,13-Jan-20,13-Jan-20,13-Jan-20,Approve,BL,Literature,,ENG,,ENGMA,,,,UGS.BL.MAAdvDeg.ENG1,23,23
+1513,86731336,UGS-MAAdvancedDegree.ParentDoctype,13-Jan-20,13-Jan-20,13-Jan-20,FYI,BL,Literature,,ENG,,ENGMA,,,,UGS.MAAdvDeg.BL.UGS,23,23
+1514,86731902,UGS-MAAdvancedDegree.ParentDoctype,13-Jan-20,13-Jan-20,13-Jan-20,Approve,BL,,,GRAD,,CYSRMGMTMS,,,,UGS.BL.MAAdvDeg.GRAD1,23,23
+1515,86732447,UGS-MAAdvancedDegree.ParentDoctype,13-Jan-20,14-Jan-20,14-Jan-20,Approve,BL,Literature,,FRIT,,FRENMA,,,,UGS.BL.MAAdvDeg.FRIT1,22,23
+1516,86732848,UGS-PhDCommencement.ParentDoctype,13-Jan-20,13-Jan-20,13-Jan-20,Approve,BL,,,SLIS,,INFSCPHD,,,,UGS.BL.PhDComm.SLIS1,23,23
+1517,86734727,UGS-MAAdvancedDegree.ParentDoctype,14-Jan-20,17-Jan-20,14-Jan-20,Approve,BL,,,MED,,CMCBIOMS,,,,UGS.BL.MAAdvDeg.MED1,19,22
+1518,86734740,UGS-MAAdvancedDegree.ParentDoctype,14-Jan-20,14-Jan-20,14-Jan-20,Approve,BL,Graphic Design,,SOAD,,FINASMFA1,,,,UGS.BL.MAAdvDeg.SOAD1,22,22
+1519,86734771,UGS-PhDCommencement.ParentDoctype,14-Jan-20,15-Jan-20,14-Jan-20,Approve,BL,,,FRIT,,FRENPHD,,,,abcalhou,21,22
+1520,86734980,UGS-MAAdvancedDegree.ParentDoctype,14-Jan-20,14-Jan-20,14-Jan-20,Approve,BL,,,ENG,,ENGMA,,,,UGS.BL.MAAdvDeg.ENG1,22,22
+1521,86735115,UGS-MAAdvancedDegree.ParentDoctype,14-Jan-20,14-Jan-20,14-Jan-20,Approve,BL,Graphic Design,,SOAD,,FINASMFA1,,,,UGS.BL.MAAdvDeg.SOAD1,22,22
+1525,86735657,UGS-PhDCommencement.ParentDoctype,14-Jan-20,14-Jan-20,14-Jan-20,Approve,BL,,,EDUC,,HIEDPHD,,,,UGS.BL.PhDComm.EDUC1,22,22
+1526,86736100,UGS-MAAdvancedDegree.ParentDoctype,14-Jan-20,14-Jan-20,14-Jan-20,Approve,BL,Printmaking,,FINS,,FINASMFA,,,,UGS.BL.MAAdvDeg.FINA.MFA1,22,22
+1527,86736460,COLLGRAD.AdvisoryComChange.Doctype,14-Jan-20,15-Jan-20,14-Jan-20,Approve,BL,,,CHEM,,CHEMPHD,,Biophysical Chemistry,,COLLGRAD.AdvisoryCom.COLLGRAD,21,22
+1528,86737276,UGS.CommitteeV2.Doctype,14-Jan-20,14-Jan-20,14-Jan-20,Approve,BL,,,ANTH,,ANTHPHD,,Geography,,UGS.BL.Committee.ANTH1,22,22
+1529,86739195,UGS.Candidacy.Doctype,15-Jan-20,21-Jan-20,15-Jan-20,Approve,BL,Bioengineering,,ENGR,,INSENGRPHD,,CSCIGMIN,,UGS.BL.Candidacy.ENGR1,15,21
+1530,86739195,UGS.Candidacy.Doctype,15-Jan-20,21-Jan-20,15-Jan-20,FYI,BL,Bioengineering,,ENGR,,INSENGRPHD,,CSCIGMIN,,lucgill,15,21
+1531,86739388,UGS.Candidacy.Doctype,15-Jan-20,15-Jan-20,15-Jan-20,Approve,BL,,,CEUS,EDUCELPS,CEUSPHD,HIEDPHD,NELCGMIN,,UGS.BL.Candidacy.CEUS1,21,21
+1536,86739682,UGS-PhDDefense.ParentDoctype,15-Jan-20,15-Jan-20,15-Jan-20,Approve,BL,,,GER,,GERPHD,,Critical Theory (minr) / Mod German Lit & Cul (conc),,UGS.BL.PhDDefense.GER1,21,21
+1537,86739700,COLLGRAD.AdvisoryCom.Doctype,15-Jan-20,21-Jan-20,15-Jan-20,Approve,BL,,,GEOG,,GEOGPHD,,SPEA (Environmental Science),,COLLGRAD.AdvisoryCom.COLLGRAD,15,21
+1538,86739745,UGS-MAAdvancedDegree.ParentDoctype,15-Jan-20,15-Jan-20,15-Jan-20,Approve,BL,Mongolian Studies,,CEUS,,CEUSMA,,,,UGS.BL.MAAdvDeg.CEUS1,21,21
+1539,86739783,UGS-PhDCommencement.ParentDoctype,15-Jan-20,15-Jan-20,15-Jan-20,Approve,BL,,,EAS,,GEOLPHD,,,,UGS.BL.PhDComm.EAS1,21,21
+1540,86740215,UGS.CommitteeV2.Doctype,15-Jan-20,31-Jan-20,15-Jan-20,Approve,IN,,,MNEU,,MNEURSPHD,,,,UGS.IN.Committee.MNEU1,5,21
+1541,86740648,UGS-MAAdvancedDegree.ParentDoctype,15-Jan-20,15-Jan-20,15-Jan-20,Approve,BL,Fibers,,FINS,,FINASMFA,,,,UGS.BL.MAAdvDeg.FINA.MFA1,21,21
+1546,86740903,UGS-PhDCommencement.ParentDoctype,15-Jan-20,15-Jan-20,15-Jan-20,Approve,BL,,,EDUC,,SCPSYPHD,,,,UGS.BL.PhDComm.EDUC1,21,21
+1547,86740904,UGS.ExceptionWaiver.Doctype,15-Jan-20,15-Jan-20,15-Jan-20,Approve,BL,Finance ,,BUS,,BUSPHD,,ECONGMIN,,UGS.BL.DGS.BUS,21,21
+1548,86741006,UGS.ExceptionWaiver.Doctype,15-Jan-20,15-Jan-20,15-Jan-20,Approve,BL,Finance ,,BUS,,BUSPHD,,ECONGMIN,,UGS.BL.DGS.BUS,21,21
+1549,86741163,COLLGRAD.AdvisoryCom.Doctype,15-Jan-20,15-Jan-20,15-Jan-20,Approve,BL,,,GER,,GERPHD,,Latin American and Caribbean Studies,,COLLGRAD.AdvisoryCom.COLLGRAD,21,21
+1550,86741700,UGS.CommitteeV2.Doctype,15-Jan-20,17-Jan-20,15-Jan-20,Approve,BL,,,EDUCIST,,INSYTPHD,,Human-Computer Interaction,,hekbia,19,21
+1551,86741700,UGS.CommitteeV2.Doctype,15-Jan-20,17-Jan-20,15-Jan-20,Approve,BL,,,EDUCIST,,INSYTPHD,,Human-Computer Interaction,,kwonkyu,19,21
+1552,86741930,UGS-MAAdvancedDegree.ParentDoctype,15-Jan-20,15-Jan-20,15-Jan-20,Approve,BL,Africa,,HIST,,HISTMA,,,,UGS.BL.MAAdvDeg.HIST1,21,21
+1553,86742169,UGS.ExceptionWaiver.Doctype,15-Jan-20,15-Jan-20,15-Jan-20,Approve,BL,,,CSCI,,CSCIPHD,,,,UGS.BL.SECREC.CSCI,21,21
+1554,86742174,UGS-MAAdvancedDegree.ParentDoctype,15-Jan-20,15-Jan-20,15-Jan-20,Approve,IN,,,ENG,,ENGMA,,,,UGS.IN.MAAdvDeg.ENG1,21,21
+1555,86742260,UGS-MAAdvancedDegree.ParentDoctype,15-Jan-20,15-Jan-20,15-Jan-20,Approve,IN,Public History,,HIST,,HISTMA,,,,UGS.IN.MAAdvDeg.HIST1,21,21
+1556,86742282,UGS-MAAdvancedDegree.ParentDoctype,15-Jan-20,15-Jan-20,15-Jan-20,Approve,BL,,,STAT,,STATSCMS,,,,UGS.BL.MAAdvDeg.STAT1,21,21
+1557,86742548,UGS-MAAdvancedDegree.ParentDoctype,16-Jan-20,16-Jan-20,16-Jan-20,Approve,BL,Literature,,HISP,,PORTMA,,,,UGS.BL.MAAdvDeg.HISP1,20,20
+1573,86743560,UGS-MAAdvancedDegree.ParentDoctype,16-Jan-20,16-Jan-20,16-Jan-20,Approve,BL,,,STAT,,STATSCMS,,,,UGS.BL.MAAdvDeg.STAT1,20,20
+1574,86752329,UGS-PhDCommencement.ParentDoctype,16-Jan-20,16-Jan-20,16-Jan-20,Approve,BL,,,EDUC,,COPSYPHD,,,,UGS.BL.PhDComm.EDUC1,20,20
+1575,86753487,UGS.ExceptionMinor.Doctype,16-Jan-20,17-Jan-20,16-Jan-20,Approve,BL,Environmental Policy/Policy Analysis,,SPPA,SPPA,PBAFFPHD2,PBAFFPHD2,,,UGS.BL.DGS.SPPA,19,20
+1576,86753932,UGS-MAAdvancedDegree.ParentDoctype,16-Jan-20,16-Jan-20,16-Jan-20,Approve,BL,,,STAT,,STATSCMS,,,,UGS.BL.MAAdvDeg.STAT1,20,20
+1577,86754255,UGS-MAAdvancedDegree.ParentDoctype,16-Jan-20,16-Jan-20,16-Jan-20,Approve,BL,,,GRAD,,CYSRMGMTMS,,,,UGS.BL.MAAdvDeg.GRAD1,20,20
+1583,86754669,UGS.ExceptionWaiver.Doctype,16-Jan-20,04-Feb-20,16-Jan-20,Approve,BL,Cultural Studies,,AADM,,ARTADMA,,,,UGS.Exception.AssistantDean,1,20
+1584,86755385,UGS-PhDCommencement.ParentDoctype,16-Jan-20,16-Jan-20,16-Jan-20,Approve,BL,,,EDUC,,COPSYPHD,,,,UGS.BL.PhDComm.EDUC1,20,20
+1585,86755564,UGS-MAAdvancedDegree.ParentDoctype,17-Jan-20,03-Feb-20,17-Jan-20,Approve,BL,Computational Linguistics,,LING,,LINGMA,,,,UGS.BL.MAAdvDeg.LING1,2,19
+1586,86756176,UGS-MAAdvancedDegree.ParentDoctype,17-Jan-20,17-Jan-20,17-Jan-20,Approve,BL,,,STAT,,STATSCMS,,,,UGS.BL.MAAdvDeg.STAT1,19,19
+1587,86756226,UGS.CommitteeV2.Doctype,17-Jan-20,17-Jan-20,17-Jan-20,Approve,BL,,,MUS,,MSEDPHD,,Jazz Pedagogy,,fmdiaz,19,19
+1588,86756240,UGS.Candidacy.Doctype,17-Jan-20,04-Feb-20,17-Jan-20,Approve,BL,,,SPH,,EPIDPHD,,INFOGMIN,,UGS.Candidacy.UGS.BL,1,19
+1589,86756401,UGS.Candidacy.Doctype,17-Jan-20,17-Jan-20,17-Jan-20,Approve,BL,,,EDUCLCLE,,LCLNGPHD,,EDPSYGMIN,,UGS.BL.Candidacy.EDUCLCLE1,19,19
+1590,86757228,UGS-MAAdvancedDegree.ParentDoctype,17-Jan-20,21-Jan-20,17-Jan-20,Approve,IN,,,JOPR,,SPRTJOUMA1,,,,UGS.MAAdvDeg.INFinal.UGS,15,19
+1591,86757343,UGS.CommitteeV2.Doctype,17-Jan-20,17-Jan-20,17-Jan-20,Approve,BL,,,CSCI,,CSCIPHD,,Computer Science,,UGS.BL.Committee.CSCI1,19,19
+1592,86757657,UGS-MAAdvancedDegree.ParentDoctype,17-Jan-20,29-Jan-20,17-Jan-20,Approve,IN,Literature,,ENG,,ENGMA,,,,UGS.MAAdvDeg.INFinal.UGS,7,19
+1593,86757728,UGS.ExceptionWaiver.Doctype,17-Jan-20,30-Jan-20,17-Jan-20,Approve,BL,,,BIOL,,BIOTECMS,,,,UGS.Exception.AssistantDean,6,19
+1594,86757909,UGS-MAAdvancedDegree.ParentDoctype,17-Jan-20,17-Jan-20,17-Jan-20,Approve,IN,Public History,,HIST,,HISTMA,,,,UGS.IN.MAAdvDeg.HIST1,19,19
+1595,86758512,UGS.Candidacy.Doctype,17-Jan-20,17-Jan-20,17-Jan-20,Approve,BL,Curriculum Studies,,EDUCCI,EDUCCEP,CRINPHD,INQMTHPHD,STATSCIMIN,,UGS.BL.Candidacy.EDUCCI1,19,19
+1596,86759573,UGS.CommitteeV2.Doctype,18-Jan-20,21-Jan-20,18-Jan-20,Approve,BL,,,HISP,,SPANPHD,,Hispanic Linguistics,,pamaral,15,18
+1597,86759667,UGS-PhDCommencement.ParentDoctype,18-Jan-20,28-Jan-20,18-Jan-20,Approve,BL,,,EDUC,,SCPSYPHD,,,,kquest,8,18
+1598,86759679,UGS-PhDDefense.ParentDoctype,18-Jan-20,31-Jan-20,31-Jan-20,Approve,BL,,,ANTH,,ANTHPHD,,India Studies,,UGS.BL.PhDDefense.ANTH1,5,18
+1599,86759748,UGS-MAAdvancedDegree.ParentDoctype,18-Jan-20,18-Jan-20,18-Jan-20,Approve,IN,Clinical Anatomy Track,,ANAT,,ANTCBMS,,,,UGS.IN.MAAdvDeg.ANAT1,18,18
+1600,86759808,UGS-MAAdvancedDegree.ParentDoctype,18-Jan-20,18-Jan-20,18-Jan-20,Approve,BL,Literatures & Culture,,HISP,,SPANMA,,,,UGS.BL.MAAdvDeg.HISP1,18,18
+1601,86759867,UGS-MAAdvancedDegree.ParentDoctype,19-Jan-20,19-Jan-20,19-Jan-20,Approve,IN,Public History,,HIST,,HISTMA,,,,UGS.IN.MAAdvDeg.HIST1,17,17
+1602,86760072,UGS-MAAdvancedDegree.ParentDoctype,19-Jan-20,19-Jan-20,19-Jan-20,Approve,BL,Poetry,,ENG,,CRWRMFA,,,,UGS.BL.MAAdvDeg.ENG1,17,17
+1603,86760419,UGS-MAAdvancedDegree.ParentDoctype,20-Jan-20,20-Jan-20,20-Jan-20,Approve,BL,Medieval Art,,FINA,,FINAHMA,,,,UGS.BL.MAAdvDeg.FINA.MA1,16,16
+1604,86760458,UGS.Candidacy.Doctype,20-Jan-20,20-Jan-20,20-Jan-20,Approve,BL,Physical,,CHEM,,CHEMPHD,,SCMPTGMIN,,UGS.BL.Candidacy.CHEM1,16,16
+1605,86760494,UGS-PhDCommencement.ParentDoctype,20-Jan-20,04-Feb-20,20-Jan-20,Approve,BL,,,MATH,,MATHPHD,,,,UGS.PhDComm.UGS,1,16
+1606,86760505,UGS.CommitteeV2.Doctype,20-Jan-20,20-Jan-20,20-Jan-20,Approve,BL,,,CHEM,,CHEMPHD,,Physical,,UGS.BL.Committee.CHEM1,16,16
+1607,86760692,UGS-PhDCommencement.ParentDoctype,20-Jan-20,20-Jan-20,20-Jan-20,Approve,BL,,,EDUC,,SCPSYPHD,,,,UGS.BL.PhDComm.EDUC1,16,16
+1608,86760751,UGS.Candidacy.Doctype,20-Jan-20,21-Jan-20,20-Jan-20,Approve,BL,Computer Engineering,,ENGR,,INSENGRPHD,,CSCIGMIN,,UGS.BL.Candidacy.ENGR1,15,16
+1609,86760751,UGS.Candidacy.Doctype,20-Jan-20,21-Jan-20,20-Jan-20,FYI,BL,Computer Engineering,,ENGR,,INSENGRPHD,,CSCIGMIN,,lucgill,15,16
+1610,86760953,UGS-MAAdvancedDegree.ParentDoctype,20-Jan-20,20-Jan-20,20-Jan-20,Approve,BL,,,MUS,,MSCLOGYMA,,,,UGS.BL.MAAdvDeg.MUS1,16,16
+1611,86760953,UGS-MAAdvancedDegree.ParentDoctype,20-Jan-20,20-Jan-20,20-Jan-20,FYI,BL,,,MUS,,MSCLOGYMA,,,,UGS.MAAdvDeg.BL.UGS,16,16
+1612,86762935,UGS-PhDCommencement.ParentDoctype,21-Jan-20,21-Jan-20,21-Jan-20,Approve,BL,,,EDUC,,LCLNGPHD,,,,UGS.BL.PhDComm.EDUC1,15,15
+1613,86763062,UGS-MAAdvancedDegree.ParentDoctype,21-Jan-20,03-Feb-20,21-Jan-20,Approve,BL,CL,,LING,,LINGMA,,,,UGS.BL.MAAdvDeg.LING1,2,15
+1619,86763299,UGS-MAAdvancedDegree.ParentDoctype,21-Jan-20,21-Jan-20,21-Jan-20,Approve,BL,,,BIOL,,BIOTECMS,,,,UGS.BL.MAAdvDeg.BIOL.BIOTEC1,15,15
+1620,86763299,UGS-MAAdvancedDegree.ParentDoctype,21-Jan-20,21-Jan-20,21-Jan-20,FYI,BL,,,BIOL,,BIOTECMS,,,,UGS.BL.MAAdvDeg.BIOL.BIOTEC1,15,15
+1621,86763453,UGS-MAAdvancedDegree.ParentDoctype,21-Jan-20,21-Jan-20,21-Jan-20,Approve,BL,,,BIOL,,BIOTECMS,,,,UGS.BL.MAAdvDeg.BIOL.BIOTEC1,15,15
+1622,86763453,UGS-MAAdvancedDegree.ParentDoctype,21-Jan-20,21-Jan-20,21-Jan-20,FYI,BL,,,BIOL,,BIOTECMS,,,,UGS.BL.MAAdvDeg.BIOL.BIOTEC1,15,15
+1633,86764058,UGS-MAAdvancedDegree.ParentDoctype,21-Jan-20,21-Jan-20,21-Jan-20,Approve,IN,,,PHST,,PHLSTMA,,,,UGS.MAAdvDeg.INFinal.UGS,15,15
+1634,86764109,UGS-MAAdvancedDegree.ParentDoctype,21-Jan-20,22-Jan-20,21-Jan-20,Approve,IN,,,PHST,,PHLSTEXCMA,,,,UGS.MAAdvDeg.INFinal.UGS,14,15
+1635,86765649,UGS.Candidacy.Doctype,21-Jan-20,28-Jan-20,21-Jan-20,Approve,BL,Marketing,,BUS,,BUSPHD,,PSYGMIN,,UGS.Candidacy.UGS.BL,8,15
+1636,86766251,UGS-MAAdvancedDegree.ParentDoctype,21-Jan-20,22-Jan-20,21-Jan-20,Approve,IN,,,PHST,,PHLSTMA,,,,UGS.MAAdvDeg.INFinal.UGS,14,15
+1637,86766346,UGS-PhDCommencement.ParentDoctype,21-Jan-20,21-Jan-20,21-Jan-20,Approve,BL,,,EDUC,,HIEDPHD,,,,UGS.BL.PhDComm.EDUC1,15,15
+1638,86766494,UGS.CommitteeV2.Doctype,21-Jan-20,23-Jan-20,21-Jan-20,Approve,IN,,,PBHL,,HLPMPHD1,,Biostatistics,,UGS.Committee.UGS.IN,13,15
+1639,86767206,UGS-MAAdvancedDegree.ParentDoctype,22-Jan-20,04-Feb-20,22-Jan-20,Approve,BL,,,REL,,RELMA,,,,UGS.MAAdvDeg.BL.UGS,1,14
+1640,86767211,UGS-MAAdvancedDegree.ParentDoctype,22-Jan-20,22-Jan-20,22-Jan-20,Approve,IN,,,PHST,,PHLSTMA,,,,UGS.MAAdvDeg.INFinal.UGS,14,14
+1641,86768444,UGS.CommitteeV2.Doctype,22-Jan-20,03-Feb-20,03-Feb-20,Approve,IN,,,MICR,,MIIMPHD,,Bioinformatics,,UGS.IN.Committee.MICR1,2,14
+1642,86768698,COLLGRAD.AdvisoryCom.Doctype,22-Jan-20,23-Jan-20,22-Jan-20,Approve,BL,,,GEOG,,GEOGPHD,,Ph.D. Minor in Environmental Science,,COLLGRAD.AdvisoryCom.COLLGRAD,13,14
+1643,86769558,UGS-MAAdvancedDegree.ParentDoctype,22-Jan-20,23-Jan-20,22-Jan-20,Approve,IN,PhD Prep,,ECON,,ECONMA,,,,UGS.MAAdvDeg.INFinal.UGS,13,14
+1644,86769855,UGS-MAAdvancedDegree.ParentDoctype,22-Jan-20,22-Jan-20,22-Jan-20,Approve,BL,,,AADM,,ARTADMA,,,,UGS.BL.MAAdvDeg.AADM1,14,14
+1650,86769901,UGS-MAAdvancedDegree.ParentDoctype,22-Jan-20,25-Jan-20,25-Jan-20,Approve,BL,,,BIOL,,BIOTECMS,,,,UGS.BL.MAAdvDeg.BIOL.BIOTEC1,11,14
+1651,86769901,UGS-MAAdvancedDegree.ParentDoctype,22-Jan-20,25-Jan-20,25-Jan-20,FYI,BL,,,BIOL,,BIOTECMS,,,,UGS.BL.MAAdvDeg.BIOL.BIOTEC1,11,14
+1667,86770672,UGS-MAAdvancedDegree.ParentDoctype,22-Jan-20,22-Jan-20,22-Jan-20,Approve,BL,Communication Science,,MSCH,,MDARSCMA,,,,UGS.BL.MAAdvDeg.MSCH1,14,14
+1668,86772196,UGS-MAAdvancedDegree.ParentDoctype,22-Jan-20,23-Jan-20,22-Jan-20,Approve,IN,,,PHST,,PHLSTMA,,,,UGS.MAAdvDeg.INFinal.UGS,13,14
+1669,86772363,UGS-MAAdvancedDegree.ParentDoctype,23-Jan-20,23-Jan-20,23-Jan-20,Approve,IN,,,PHSL,,CELINPHMS,,,,UGS.IN.MAAdvDeg.PHSL1,13,13
+1670,86772524,UGS-MAAdvancedDegree.ParentDoctype,23-Jan-20,23-Jan-20,23-Jan-20,Approve,IN,,,PHST,,PHLSTEXCMA,,,,UGS.IN.MAAdvDeg.PHST1,13,13
+1671,86773211,UGS-MAAdvancedDegree.ParentDoctype,23-Jan-20,23-Jan-20,23-Jan-20,Approve,BL,Theatre Technology,,THTR,,THTRMFA,,,,UGS.BL.MAAdvDeg.THTR1,13,13
+1675,86774580,UGS-PhDCommencement.ParentDoctype,23-Jan-20,23-Jan-20,23-Jan-20,Approve,BL,,,EDUC,,HIEDPHD,,,,UGS.BL.PhDComm.EDUC1,13,13
+1676,86774925,UGS.ExceptionWaiver.Doctype,23-Jan-20,24-Jan-20,23-Jan-20,Approve,BL,,,STAT,,STATSCMS,,,,UGS.BL.DGS.STAT,12,13
+1677,86774995,UGS-MAAdvancedDegree.ParentDoctype,23-Jan-20,23-Jan-20,23-Jan-20,Approve,BL,Russian and East European Area Studies,,REEI,,REEIMA,,,,UGS.BL.MAAdvDeg.REEI1,13,13
+1678,86775331,COLLGRAD.AdvisoryCom.Doctype,23-Jan-20,23-Jan-20,23-Jan-20,Approve,BL,,,NELC,,NELCPHD,,Philosophy,,aafsarud,13,13
+1679,86775331,COLLGRAD.AdvisoryCom.Doctype,23-Jan-20,23-Jan-20,23-Jan-20,Approve,BL,,,NELC,,NELCPHD,,Philosophy,,alani,13,13
+1680,86775331,COLLGRAD.AdvisoryCom.Doctype,23-Jan-20,23-Jan-20,23-Jan-20,Approve,BL,,,NELC,,NELCPHD,,Philosophy,,jwalbrid,13,13
+1681,86775331,COLLGRAD.AdvisoryCom.Doctype,23-Jan-20,23-Jan-20,23-Jan-20,Approve,BL,,,NELC,,NELCPHD,,Philosophy,,kaabrams,13,13
+1682,86775494,UGS-MAAdvancedDegree.ParentDoctype,23-Jan-20,23-Jan-20,23-Jan-20,Approve,BL,,,ENG,,ENGMA,,,,UGS.BL.MAAdvDeg.ENG1,13,13
+1683,86775863,UGS.ExceptionRevalidation.Doctype,23-Jan-20,24-Jan-20,23-Jan-20,Approve,BL,,,EDUCLCLE,,LCLNGPHD,,INQRSGMIN,,pcarspec,12,13
+1684,86777244,UGS.Candidacy.Doctype,23-Jan-20,23-Jan-20,23-Jan-20,Approve,BL,Curriculum Studies,,EDUCCI,,CRINPHD,,ARHSGMIN,,UGS.BL.Candidacy.EDUCCI1,13,13
+1685,86801912,UGS.CommitteeV2.Doctype,24-Jan-20,26-Jan-20,24-Jan-20,Approve,IN,,,SWK,,SWKPHD,,,,UGS.Committee.UGS.IN,10,12
+1686,86802145,COLLGRAD.AdvisoryCom.Doctype,24-Jan-20,24-Jan-20,24-Jan-20,Approve,BL,,,GER,,GERPHD,,,,ggmay,12,12
+1687,86803750,UGS.Candidacy.Doctype,24-Jan-20,03-Feb-20,24-Jan-20,Approve,BL,Applied Linguistics,,NELC,,NELCPHD,,LINGGMIN,,dcavar,2,12
+1688,86804909,UGS.CommitteeV2.Doctype,24-Jan-20,27-Jan-20,24-Jan-20,Approve,IN,,,DENT,,DNTPHPHD,,Life Sciences,,UGS.Committee.UGS.IN,9,12
+1689,86805279,UGS.CommitteeV2.Doctype,24-Jan-20,24-Jan-20,24-Jan-20,Approve,BL,,,CSCI,,CSCIPHD,,Security Informatics,,UGS.BL.Committee.CSCI1,12,12
+1690,86805340,UGS-MAAdvancedDegree.ParentDoctype,24-Jan-20,24-Jan-20,24-Jan-20,Approve,BL,,,NELC,,NELCMA,,,,UGS.BL.MAAdvDeg.NELC1,12,12
+1691,86805479,UGS-MAAdvancedDegree.ParentDoctype,24-Jan-20,24-Jan-20,24-Jan-20,Approve,BL,Arabic,,NELC,,NELCMA,,,,UGS.BL.MAAdvDeg.NELC1,12,12
+1692,86805579,UGS-MAAdvancedDegree.ParentDoctype,24-Jan-20,24-Jan-20,24-Jan-20,Approve,BL,,,FINS,,FINASMFA,,,,UGS.BL.MAAdvDeg.FINA.MFA1,12,12
+1693,86805617,UGS.Candidacy.Doctype,24-Jan-20,24-Jan-20,24-Jan-20,Approve,BL,,,EDUCLCLE,,LCLNGPHD,,EDLDRGMIN,,UGS.BL.Candidacy.EDUCLCLE1,12,12
+1694,86806451,UGS-MAAdvancedDegree.ParentDoctype,26-Jan-20,27-Jan-20,26-Jan-20,Approve,BL,Turkish Studies,,CEUS,,CEUSMA,,,,ikturner,9,10
+1695,86806624,UGS-MAAdvancedDegree.ParentDoctype,26-Jan-20,29-Jan-20,26-Jan-20,Approve,IN,,,PHST,,PHLSTMA,,,,UGS.MAAdvDeg.INFinal.UGS,7,10
+1696,86807049,UGS-MAAdvancedDegree.ParentDoctype,27-Jan-20,03-Feb-20,27-Jan-20,Approve,BL,,,LING,,LINGMA,,,,UGS.BL.MAAdvDeg.LING1,2,9
+1697,86807273,UGS-MAAdvancedDegree.ParentDoctype,27-Jan-20,27-Jan-20,27-Jan-20,Approve,BL,,,JSTU,,JSTUMA,,,,UGS.BL.MAAdvDeg.JSTU1,9,9
+1698,86807287,UGS-MAAdvancedDegree.ParentDoctype,27-Jan-20,27-Jan-20,27-Jan-20,Approve,BL,,,HIST,,HISTMA,,,,UGS.BL.MAAdvDeg.HIST1,9,9
+1699,86808286,UGS-MAAdvancedDegree.ParentDoctype,27-Jan-20,30-Jan-20,27-Jan-20,Approve,IN,,,PHST,,PHLSTMA,,,,UGS.MAAdvDeg.INFinal.UGS,6,9
+1700,86808390,UGS.ExceptionWaiver.Doctype,27-Jan-20,30-Jan-20,27-Jan-20,Approve,BL,,,EDUCCEP,,COPSYPHD,,SPPRFPGMIN,,UGS.BL.DGS.EDUCCEP,6,9
+1701,86808460,UGS-MAAdvancedDegree.ParentDoctype,27-Jan-20,30-Jan-20,27-Jan-20,Approve,IN,,,PHST,,PHLSTMA,,,,UGS.MAAdvDeg.INFinal.UGS,6,9
+1702,86808563,UGS.CommitteeV2.Doctype,27-Jan-20,27-Jan-20,27-Jan-20,Approve,IN,,,MICR,,MIIMPHD,,Bioinformatics,,xfyang,9,9
+1703,86808603,UGS.Candidacy.Doctype,27-Jan-20,29-Jan-20,27-Jan-20,Approve,IN,,,MICR,,MIIMPHD,,BIOINFOMIN,,UGS.Candidacy.UGS.IN,7,9
+1704,86808645,UGS.CommitteeV2.Doctype,27-Jan-20,30-Jan-20,27-Jan-20,Approve,BL,,,NELC,,NELCPHD,,,,alani,6,9
+1705,86808645,UGS.CommitteeV2.Doctype,27-Jan-20,30-Jan-20,27-Jan-20,Approve,BL,,,NELC,,NELCPHD,,,,vinsons,6,9
+1706,86809087,UGS.Candidacy.Doctype,27-Jan-20,04-Feb-20,27-Jan-20,Approve,BL,U.S. History,,HIST,,HISTPHD,,GNDRGMIN,,UGS.Candidacy.UGS.BL,1,9
+1707,86809296,UGS-MAAdvancedDegree.ParentDoctype,27-Jan-20,27-Jan-20,27-Jan-20,Approve,IN,,,PHSL,,CELINPHMS,,,,UGS.IN.MAAdvDeg.PHSL1,9,9
+1708,86809463,UGS.Candidacy.Doctype,27-Jan-20,27-Jan-20,27-Jan-20,Approve,BL,,,EDUCCEP,,LRNDEVPHD,,NETSCIGMIN,,UGS.BL.Candidacy.EDUCCEP1,9,9
+1709,86809674,UGS.CommitteeV2.Doctype,27-Jan-20,27-Jan-20,27-Jan-20,Approve,IN,,,MICR,,MIIMPHD,,Life Sciences,,thurley,9,9
+1710,86809674,UGS.CommitteeV2.Doctype,27-Jan-20,27-Jan-20,27-Jan-20,FYI,IN,,,MICR,,MIIMPHD,,Life Sciences,,rumclark,9,9
+1711,86809744,UGS.Candidacy.Doctype,27-Jan-20,29-Jan-20,27-Jan-20,Approve,IN,,,MICR,,MIIMPHD,,LIFSCGMIN,,UGS.Candidacy.UGS.IN,7,9
+1712,86810062,UGS-PhDCommencement.ParentDoctype,27-Jan-20,04-Feb-20,27-Jan-20,Approve,BL,,,MATH,,MATHPHD,,,,UGS.PhDComm.UGS,1,9
+1713,86810779,UGS-MAAdvancedDegree.ParentDoctype,27-Jan-20,27-Jan-20,27-Jan-20,Approve,BL,French/Francophone Studies,,FRIT,,FRENMA,,,,UGS.BL.MAAdvDeg.FRIT1,9,9
+1714,86811146,UGS.Candidacy.Doctype,27-Jan-20,28-Jan-20,27-Jan-20,Approve,IN,,,ECON,,ECONPHD,,Individualized,,UGS.Candidacy.UGS.IN,8,9
+1715,86811394,UGS-PhDCommencement.ParentDoctype,27-Jan-20,29-Jan-20,27-Jan-20,Approve,BL,,,ENG,,ENGPHD,,,,jcb,7,9
+1716,86811565,UGS-MAAdvancedDegree.ParentDoctype,27-Jan-20,27-Jan-20,27-Jan-20,Approve,BL,Acting,,THTR,,THTRMFA,,,,UGS.BL.MAAdvDeg.THTR1,9,9
+1717,86811722,UGS.CommitteeV2.Doctype,27-Jan-20,04-Feb-20,27-Jan-20,Approve,BL,,,SOC,,SOCPHD,,Social Science Research Methods,,UGS.Committee.UGS.BL,1,9
+1718,86811722,UGS.CommitteeV2.Doctype,27-Jan-20,04-Feb-20,27-Jan-20,FYI,BL,,,SOC,,SOCPHD,,Social Science Research Methods,,UGS.BL.Committee.SOC1,1,9
+1719,86811788,UGS-MAAdvancedDegree.ParentDoctype,27-Jan-20,27-Jan-20,27-Jan-20,Approve,BL,French and Francophone Studies,,FRIT,,FRENMA,,,,UGS.BL.MAAdvDeg.FRIT1,9,9
+1721,86812210,UGS.CommitteeV2.Doctype,28-Jan-20,29-Jan-20,28-Jan-20,Approve,BL,,,GEOG,ENG,GEOGPHD,ENGPHD,,,cirmsche,7,8
+1722,86813728,UGS.Candidacy.Doctype,28-Jan-20,04-Feb-20,28-Jan-20,Approve,BL,Exercise Physiology,,SPH,,KYHPPHD,,NTRSCIGMIN,,afly,1,8
+1723,86815544,UGS.CommitteeV2.Doctype,28-Jan-20,30-Jan-20,28-Jan-20,Approve,BL,,,EDUCELPS,,HIEDPHD,,History of Education,,andwalto,6,8
+1724,86815544,UGS.CommitteeV2.Doctype,28-Jan-20,30-Jan-20,28-Jan-20,Approve,BL,,,EDUCELPS,,HIEDPHD,,History of Education,,ddanns,6,8
+1725,86815697,UGS.ExceptionWaiver.Doctype,28-Jan-20,28-Jan-20,28-Jan-20,Approve,BL,,,BIOL,,BIOTECMS,,,,UGS.BL.SECREC.BIOL,8,8
+1726,86815733,UGS.CommitteeV2.Doctype,28-Jan-20,30-Jan-20,28-Jan-20,Approve,IN,,,ECON,,ECONPHD,,Individualized/Applied Statistics,,UGS.Committee.UGS.IN,6,8
+1727,86817744,UGS-PhDCommencement.ParentDoctype,29-Jan-20,29-Jan-20,29-Jan-20,Approve,BL,,,ANTH,,ANTHPHD,,,,kaestle,7,7
+1728,86817959,UGS-MAAdvancedDegree.ParentDoctype,29-Jan-20,29-Jan-20,29-Jan-20,Approve,BL,,,AADM,,ARTADMA,,,,UGS.BL.MAAdvDeg.AADM1,7,7
+1729,86818615,UGS-MAAdvancedDegree.ParentDoctype,29-Jan-20,29-Jan-20,29-Jan-20,Approve,BL,,,AST,,ASTYMA,,,,UGS.MAAdvDeg.BL.UGS,7,7
+1730,86818615,UGS-MAAdvancedDegree.ParentDoctype,29-Jan-20,29-Jan-20,29-Jan-20,FYI,BL,,,AST,,ASTYMA,,,,UGS.MAAdvDeg.BL.UGS,7,7
+1731,86819030,UGS-MAAdvancedDegree.ParentDoctype,29-Jan-20,29-Jan-20,29-Jan-20,Approve,BL,Lighting Design and Technology,,THTR,,THTRMFA,,,,UGS.BL.MAAdvDeg.THTR1,7,7
+1732,86820653,UGS-MAAdvancedDegree.ParentDoctype,29-Jan-20,29-Jan-20,29-Jan-20,Approve,BL,Acting,,THTR,,THTRMFA,,,,UGS.BL.MAAdvDeg.THTR1,7,7
+1733,86821103,UGS-MAAdvancedDegree.ParentDoctype,29-Jan-20,30-Jan-20,29-Jan-20,Approve,IN,,,PHST,,PHLSTMA,,,,UGS.MAAdvDeg.INFinal.UGS,6,7
+1734,86821250,UGS.CommitteeV2.Doctype,29-Jan-20,04-Feb-20,29-Jan-20,Approve,BL,,,NELC,,NELCPHD,,Linguistics,,UGS.Committee.UGS.BL,1,7
+1735,86821250,UGS.CommitteeV2.Doctype,29-Jan-20,04-Feb-20,29-Jan-20,FYI,BL,,,NELC,,NELCPHD,,Linguistics,,UGS.BL.Committee.NELC1,1,7
+1736,86821408,UGS.CommitteeV2.Doctype,29-Jan-20,29-Jan-20,29-Jan-20,Approve,BL,,,EDUCCEP,,SCPSYPHD,,,,UGS.BL.Committee.EDUCCEP1,7,7
+1737,86821429,UGS-MAAdvancedDegree.ParentDoctype,29-Jan-20,29-Jan-20,29-Jan-20,Approve,BL,Metalsmithing and Jewelry Design,,FINS,,FINASMFA,,,,UGS.BL.MAAdvDeg.FINA.MFA1,7,7
+1738,86821523,UGS-MAAdvancedDegree.ParentDoctype,29-Jan-20,30-Jan-20,30-Jan-20,Approve,BL,,,JSTU,,JSTUMA,,,,UGS.BL.MAAdvDeg.JSTU1,6,7
+1739,86821554,UGS-MAAdvancedDegree.ParentDoctype,29-Jan-20,29-Jan-20,29-Jan-20,Approve,BL,,,STAT,,STATSCMS,,,,UGS.BL.MAAdvDeg.STAT1,7,7
+1740,86822834,UGS-MAAdvancedDegree.ParentDoctype,30-Jan-20,30-Jan-20,30-Jan-20,Approve,BL,,,INTL,,INTLSTMA,,,,UGS.BL.MAAdvDeg.INTL1,6,6
+1741,86822843,UGS-PhDCommencement.ParentDoctype,30-Jan-20,30-Jan-20,30-Jan-20,Approve,BL,,,EDUC,,COPSYPHD,,,,UGS.BL.PhDComm.EDUC1,6,6
+1742,86822994,COLLGRAD.AdvisoryComChange.Doctype,30-Jan-20,31-Jan-20,30-Jan-20,Approve,BL,,,CHEM,,CHEMPHD,,Chemical Biology,,COLLGRAD.AdvisoryCom.COLLGRAD,5,6
+1749,86824399,UGS-PhDCommencement.ParentDoctype,30-Jan-20,30-Jan-20,30-Jan-20,Approve,BL,,,EDUC,,INSYTPHD,,,,UGS.BL.PhDComm.EDUC1,6,6
+1750,86824970,UGS-MAAdvancedDegree.ParentDoctype,30-Jan-20,30-Jan-20,30-Jan-20,Approve,BL,,,EALC,,EASTMA,,,,UGS.BL.MAAdvDeg.EALC1,6,6
+1751,86825159,UGS-PhDCommencement.ParentDoctype,30-Jan-20,30-Jan-20,30-Jan-20,Approve,BL,,,EDUC,,HIEDPHD,,,,UGS.BL.PhDComm.EDUC1,6,6
+1752,86825298,UGS-MAAdvancedDegree.ParentDoctype,30-Jan-20,30-Jan-20,30-Jan-20,Approve,BL,,,STAT,,STATSCMS,,,,UGS.BL.MAAdvDeg.STAT1,6,6
+1753,86825456,UGS-MAAdvancedDegree.ParentDoctype,30-Jan-20,04-Feb-20,30-Jan-20,Approve,IN,,,PHST,,PHLSTMA,,,,UGS.MAAdvDeg.INFinal.UGS,1,6
+1754,86825879,UGS.CommitteeChangeV2.Doctype,30-Jan-20,30-Jan-20,30-Jan-20,Approve,BL,,,EDUCELPS,,HIEDPHD,,History of Education,,UGS.BL.Committee.EDUCELPS1,6,6
+1755,86826017,UGS-PhDCommencement.ParentDoctype,30-Jan-20,30-Jan-20,30-Jan-20,Approve,BL,,,CSCI,,CSCIPHD,,,,UGS.BL.PhDComm.CSCI1,6,6
+1756,86826026,UGS-PhDCommencement.ParentDoctype,30-Jan-20,30-Jan-20,30-Jan-20,Approve,BL,,,CSCI,,CSCIPHD,,,,UGS.BL.PhDComm.CSCI1,6,6
+1757,86826057,UGS-PhDCommencement.ParentDoctype,30-Jan-20,30-Jan-20,30-Jan-20,Approve,BL,,,INFO,COGS,INFOPHD,COGSPHD,,,UGS.BL.PhDComm.INFO1,6,6
+1758,86826237,UGS-PhDCommencement.ParentDoctype,30-Jan-20,30-Jan-20,30-Jan-20,Approve,BL,,,CSCI,,CSCIPHD,,,,UGS.BL.PhDComm.CSCI1,6,6
+1759,86826546,UGS.ExceptionWaiver.Doctype,31-Jan-20,04-Feb-20,31-Jan-20,Approve,BL,,,MATH,,MATHPHD,,,,mmandell,1,5
+1766,86828400,UGS-MAAdvancedDegree.ParentDoctype,31-Jan-20,31-Jan-20,31-Jan-20,Approve,BL,                                                                              French and Francophone Studies,,FRIT,,FRENMA,,,,UGS.BL.MAAdvDeg.FRIT1,5,5
+1767,86828537,UGS-MAAdvancedDegree.ParentDoctype,31-Jan-20,31-Jan-20,31-Jan-20,Approve,IN,Public History,,HIST,,HISTMA,,,,UGS.IN.MAAdvDeg.HIST1,5,5
+1768,86828541,UGS-MAAdvancedDegree.ParentDoctype,31-Jan-20,31-Jan-20,31-Jan-20,Approve,BL,,,BIOL,,BIOTECMS,,,,UGS.BL.MAAdvDeg.BIOL.BIOTEC1,5,5
+1769,86828541,UGS-MAAdvancedDegree.ParentDoctype,31-Jan-20,31-Jan-20,31-Jan-20,FYI,BL,,,BIOL,,BIOTECMS,,,,UGS.BL.MAAdvDeg.BIOL.BIOTEC1,5,5
+1770,86828541,UGS-MAAdvancedDegree.ParentDoctype,31-Jan-20,31-Jan-20,31-Jan-20,FYI,BL,,,BIOL,,BIOTECMS,,,,UGS.MAAdvDeg.BL.UGS,5,5
+1771,86829064,UGS.ExceptionWaiver.Doctype,31-Jan-20,04-Feb-20,31-Jan-20,Approve,BL,,,EDUCCEP,,LRNDEVPHD,,NETSCIGMIN,,chmelosi,1,5
+1772,86829396,UGS.ExceptionWaiver.Doctype,31-Jan-20,04-Feb-20,31-Jan-20,Approve,BL,,,CJUS,,CJUSPHD,,LINGGMIN,,UGS.Exception.UGS1.BL,1,5
+1773,86829470,UGS.ExceptionWaiver.Doctype,31-Jan-20,04-Feb-20,31-Jan-20,Approve,BL,,,CJUS,,CJUSPHD,,LINGGMIN,,UGS.Exception.UGS1.BL,1,5
+1774,86829509,UGS-PhDDefense.ParentDoctype,31-Jan-20,04-Feb-20,03-Feb-20,Approve,BL,,,EDUCCEP,,LRNDEVPHD,,Literacy Culture and Language Education,,UGS.PhDDefense.UGS.BL,1,5
+1775,86829951,UGS.CommitteeV2.Doctype,31-Jan-20,31-Jan-20,31-Jan-20,Approve,IN,,,,,ANTCBPHD,,Life Sciences,,mcnultma,5,5
+1776,86830270,UGS-MAAdvancedDegree.ParentDoctype,31-Jan-20,31-Jan-20,31-Jan-20,Approve,IN,,,MUSE,,MUSSTMA,,,,UGS.IN.MAAdvDeg.MUSE1,5,5
+1777,86830287,UGS-MAAdvancedDegree.ParentDoctype,31-Jan-20,31-Jan-20,31-Jan-20,Approve,IN,Public History,,HIST,,HISTMA,,,,UGS.IN.MAAdvDeg.HIST1,5,5
+1778,86830290,UGS-MAAdvancedDegree.ParentDoctype,31-Jan-20,31-Jan-20,31-Jan-20,Approve,IN,,,MUSE,,MUSSTMA,,,,UGS.IN.MAAdvDeg.MUSE1,5,5
+1779,86830582,UGS.Candidacy.Doctype,01-Feb-20,01-Feb-20,01-Feb-20,Approve,BL,Early Modern,,ENG,,ENGPHD,,ENGPEDGMIN,,UGS.BL.Candidacy.ENG1,4,4
+1780,86830677,UGS-PhDCommencement.ParentDoctype,01-Feb-20,01-Feb-20,01-Feb-20,Approve,BL,,,EDUC,EDUC,CRINPHD,INQMTHPHD,,,UGS.BL.PhDComm.EDUC1,4,4
+1781,86830714,UGS-MAAdvancedDegree.ParentDoctype,01-Feb-20,01-Feb-20,01-Feb-20,Approve,IN,,,MUSE,,MUSSTMA,,,,UGS.IN.MAAdvDeg.MUSE1,4,4
+1782,86830788,UGS-PhDCommencement.ParentDoctype,01-Feb-20,01-Feb-20,01-Feb-20,Approve,BL,,,STAT,,STATSCPHD,,,,UGS.BL.PhDComm.STAT1,4,4
+1783,86830888,UGS.CommitteeChangeV2.Doctype,01-Feb-20,03-Feb-20,01-Feb-20,Approve,BL,,,PHIL,,PHILPHD,,Logic (Program of Pure and Applied Logic),,UGS.Committee.UGS.BL,2,4
+1784,86830910,UGS-MAAdvancedDegree.ParentDoctype,01-Feb-20,01-Feb-20,01-Feb-20,Approve,BL,,,REEI,,REEIMA,,,,UGS.BL.MAAdvDeg.REEI1,4,4
+1785,86830924,UGS-PhDCommencement.ParentDoctype,01-Feb-20,01-Feb-20,01-Feb-20,Approve,BL,,,CMLT,,CMLTPHD,,,,UGS.BL.PhDComm.CMLT1,4,4
+1786,86830960,UGS-MAAdvancedDegree.ParentDoctype,01-Feb-20,01-Feb-20,01-Feb-20,Approve,BL,Musicology,,MUS,,MSCLOGYMA,,,,UGS.BL.MAAdvDeg.MUS1,4,4
+1787,86830960,UGS-MAAdvancedDegree.ParentDoctype,01-Feb-20,01-Feb-20,01-Feb-20,FYI,BL,Musicology,,MUS,,MSCLOGYMA,,,,UGS.MAAdvDeg.BL.UGS,4,4
+1788,86831022,UGS-MAAdvancedDegree.ParentDoctype,01-Feb-20,01-Feb-20,01-Feb-20,Approve,BL,Graphic Design,,FINS,,FINASMFA,,,,UGS.BL.MAAdvDeg.FINA.MFA1,4,4
+1789,86831111,UGS.Candidacy.Doctype,01-Feb-20,01-Feb-20,01-Feb-20,Approve,BL,,,EDUCCEP,,COPSYPHD,,INDVGMIN,,UGS.BL.Candidacy.EDUCCEP1,4,4
+1790,86831127,UGS.CommitteeV2.Doctype,01-Feb-20,01-Feb-20,01-Feb-20,Approve,BL,,,EDUCCEP,,COPSYPHD,,Human Development,,UGS.BL.Committee.EDUCCEP1,4,4
+1791,86831129,UGS-PhDCommencement.ParentDoctype,01-Feb-20,01-Feb-20,01-Feb-20,Approve,BL,,,INFO,,INFOPHD,,,,UGS.BL.PhDComm.INFO1,4,4
+1792,86831154,UGS-PhDDefense.ParentDoctype,01-Feb-20,02-Feb-20,02-Feb-20,Approve,BL,,,LING,,LINGPHD,,,,UGS.PhDDefense.UGS.BL,3,4
+1793,86831265,UGS-PhDCommencement.ParentDoctype,02-Feb-20,02-Feb-20,02-Feb-20,Approve,BL,,,ENGR,,INSENGRPHD,,,,UGS.BL.PhDComm.ENGR1,3,3
+1794,86831377,UGS-MAAdvancedDegree.ParentDoctype,02-Feb-20,02-Feb-20,02-Feb-20,Approve,BL,Acting,,THTR,,THTRMFA,,,,UGS.BL.MAAdvDeg.THTR1,3,3
+1795,86831387,UGS-PhDCommencement.ParentDoctype,02-Feb-20,04-Feb-20,02-Feb-20,Approve,BL,,,CJUS,,CJUSPHD,,,,UGS.PhDComm.UGS,1,3
+1796,86831406,UGS-PhDCommencement.ParentDoctype,02-Feb-20,02-Feb-20,02-Feb-20,Approve,BL,,,EDUC,,CRINPHD,,,,UGS.BL.PhDComm.EDUC1,3,3
+1797,86831407,UGS-PhDCommencement.ParentDoctype,02-Feb-20,02-Feb-20,02-Feb-20,Approve,BL,,,EDUC,,CRINPHD,,,,UGS.BL.PhDComm.EDUC1,3,3
+1798,86831421,UGS-MAAdvancedDegree.ParentDoctype,02-Feb-20,02-Feb-20,02-Feb-20,Approve,BL,Painting,,SOAD,,FINASMFA1,,,,UGS.BL.MAAdvDeg.SOAD1,3,3
+1799,86831458,UGS-MAAdvancedDegree.ParentDoctype,02-Feb-20,02-Feb-20,02-Feb-20,Approve,BL,,,MUS,,MSCLOGYMA,,,,UGS.BL.MAAdvDeg.MUS1,3,3
+1800,86831458,UGS-MAAdvancedDegree.ParentDoctype,02-Feb-20,02-Feb-20,02-Feb-20,FYI,BL,,,MUS,,MSCLOGYMA,,,,UGS.MAAdvDeg.BL.UGS,3,3
+1801,86831477,UGS-MAAdvancedDegree.ParentDoctype,02-Feb-20,02-Feb-20,02-Feb-20,Approve,BL,American Politics/PhD Track,,POLS,,POLSMA,,,,UGS.BL.MAAdvDeg.POLS1,3,3
+1802,86831477,UGS-MAAdvancedDegree.ParentDoctype,02-Feb-20,02-Feb-20,02-Feb-20,FYI,BL,American Politics/PhD Track,,POLS,,POLSMA,,,,UGS.MAAdvDeg.BL.UGS,3,3
+1803,86831483,COLLGRAD.AdvisoryComChange.Doctype,02-Feb-20,02-Feb-20,02-Feb-20,Approve,BL,,,GER,,GERPHD,,Classics,,COLLGRAD.AdvisoryCom.BL.GER1,3,3
+1804,86831502,UGS-MAAdvancedDegree.ParentDoctype,02-Feb-20,02-Feb-20,02-Feb-20,Approve,BL,,,STAT,,APLDSTATMS,,,,UGS.BL.MAAdvDeg.STAT1,3,3
+1805,86831631,UGS-MAAdvancedDegree.ParentDoctype,02-Feb-20,02-Feb-20,02-Feb-20,Approve,BL,,,LING,,LINGMA,,,,UGS.BL.MAAdvDeg.LING1,3,3
+1806,86834888,UGS.CommitteeChangeV2.Doctype,03-Feb-20,03-Feb-20,03-Feb-20,Approve,BL,,,EDUCELPS,,HIEDPHD,,History of Education,,UGS.BL.Committee.EDUCELPS1,2,2
+1807,86836073,UGS-MAAdvancedDegree.ParentDoctype,03-Feb-20,03-Feb-20,03-Feb-20,Approve,BL,French and Francophone Studies,,FRIT,,FRENMA,,,,UGS.BL.MAAdvDeg.FRIT1,2,2
+1808,86836073,UGS-MAAdvancedDegree.ParentDoctype,03-Feb-20,03-Feb-20,03-Feb-20,FYI,BL,French and Francophone Studies,,FRIT,,FRENMA,,,,UGS.MAAdvDeg.BL.UGS,2,2
+1809,86836342,UGS-PhDCommencement.ParentDoctype,03-Feb-20,03-Feb-20,03-Feb-20,Approve,BL,,,EDUC,,HPPEDPHD,,,,UGS.BL.PhDComm.EDUC1,2,2
+1810,86836672,UGS-PhDDefense.ParentDoctype,03-Feb-20,03-Feb-20,03-Feb-20,Approve,BL,,,SPHS,,SPHSPHD,,Psychological and Brain Sciences,,UGS.BL.PhDDefense.SPHS1,2,2
+1811,86836946,UGS.CommitteeV2.Doctype,03-Feb-20,03-Feb-20,03-Feb-20,Approve,BL,,,EDUCELPS,,HIEDPHD,,Individualized,,UGS.BL.Committee.EDUCELPS1,2,2
+1812,86837201,UGS.Candidacy.Doctype,03-Feb-20,04-Feb-20,03-Feb-20,Approve,IN,,,MICR,,MIIMPHD,,BIOINFOMIN,,UGS.IN.Candidacy.MED.CustomApproval,1,2
+1813,86837201,UGS.Candidacy.Doctype,03-Feb-20,04-Feb-20,03-Feb-20,Approve,IN,,,MICR,,MIIMPHD,,BIOINFOMIN,,UGS.IN.Candidacy.MICR2.MIIMPHD,1,2
+1814,86837201,UGS.Candidacy.Doctype,03-Feb-20,04-Feb-20,03-Feb-20,FYI,IN,,,MICR,,MIIMPHD,,BIOINFOMIN,,UGS.IN.Candidacy.MICR.SpecialFYI,1,2
+1815,86837235,UGS-MAAdvancedDegree.ParentDoctype,03-Feb-20,03-Feb-20,03-Feb-20,Approve,BL,Photography,,FINS,,FINASMFA,,,,UGS.BL.MAAdvDeg.FINA.MFA1,2,2
+1816,86837551,UGS-MAAdvancedDegree.ParentDoctype,03-Feb-20,03-Feb-20,03-Feb-20,Approve,BL,Photography,,SOAD,,FINASMFA1,,,,UGS.BL.MAAdvDeg.SOAD1,2,2
+1817,86837551,UGS-MAAdvancedDegree.ParentDoctype,03-Feb-20,03-Feb-20,03-Feb-20,FYI,BL,Photography,,SOAD,,FINASMFA1,,,,UGS.MAAdvDeg.BL.UGS,2,2
+1818,86838269,UGS-PhDCommencement.ParentDoctype,03-Feb-20,04-Feb-20,03-Feb-20,Approve,BL,,,MED,,,,,,UGS.PhDComm.UGS,1,2
+1819,86838679,UGS-MAAdvancedDegree.ParentDoctype,03-Feb-20,03-Feb-20,03-Feb-20,Approve,IN,,,MUSE,,MUSSTMA,,,,UGS.IN.MAAdvDeg.MUSE1,2,2
+1820,86838777,UGS-MAAdvancedDegree.ParentDoctype,03-Feb-20,03-Feb-20,03-Feb-20,Approve,BL,Communication Research,,MSCH,,MDARSCMA,,,,UGS.BL.MAAdvDeg.MSCH1,2,2
+1821,86838777,UGS-MAAdvancedDegree.ParentDoctype,03-Feb-20,03-Feb-20,03-Feb-20,FYI,BL,Communication Research,,MSCH,,MDARSCMA,,,,UGS.MAAdvDeg.BL.UGS,2,2
+1822,86838840,UGS.CommitteeV2.Doctype,03-Feb-20,04-Feb-20,03-Feb-20,Approve,BL,,,PHYS,,PHYSPHD,,,,berger,1,2
+1823,86838840,UGS.CommitteeV2.Doctype,03-Feb-20,04-Feb-20,03-Feb-20,Approve,BL,,,PHYS,,PHYSPHD,,,,wsnow,1,2
+1824,86838948,UGS-MAAdvancedDegree.ParentDoctype,03-Feb-20,03-Feb-20,03-Feb-20,Approve,IN,,,PHST,,PHLSTEXCMA,,,,UGS.IN.MAAdvDeg.PHST1,2,2
+1825,86839162,UGS-MAAdvancedDegree.ParentDoctype,03-Feb-20,03-Feb-20,03-Feb-20,Approve,IN,,,PHST,,PHLSTMA,,,,UGS.IN.MAAdvDeg.PHST1,2,2
+1826,86839296,UGS.CommitteeV2.Doctype,04-Feb-20,04-Feb-20,04-Feb-20,Approve,IN,,,,,ANTCBPHD,,Education,,phusmann,1,1
+1827,86839296,UGS.CommitteeV2.Doctype,04-Feb-20,04-Feb-20,04-Feb-20,Approve,IN,,,,,ANTCBPHD,,Education,,rgonyea,1,1
+1828,86839597,UGS.Candidacy.Doctype,04-Feb-20,04-Feb-20,04-Feb-20,Approve,BL,,,CSCI,,CSCIPHD,,Individualized,,UGS.BL.Candidacy.CSCI1,1,1
+1829,86840818,UGS-PhDCommencement.ParentDoctype,04-Feb-20,04-Feb-20,04-Feb-20,Approve,BL,,,EDUC,,HPPEDPHD,,,,UGS.BL.PhDComm.EDUC1,1,1
+1830,86840818,UGS-PhDCommencement.ParentDoctype,04-Feb-20,04-Feb-20,04-Feb-20,FYI,BL,,,EDUC,,HPPEDPHD,,,,UGS.PhDComm.UGS,1,1
+1831,86840877,UGS.CommitteeV2.Doctype,04-Feb-20,04-Feb-20,04-Feb-20,Approve,BL,,,CHEM,,CHEMPHD,,Bioanalytical/Physical Chemistry,,clemmer,1,1
+1832,86840877,UGS.CommitteeV2.Doctype,04-Feb-20,04-Feb-20,04-Feb-20,Approve,BL,,,CHEM,,CHEMPHD,,Bioanalytical/Physical Chemistry,,dragnea,1,1
+1833,86840877,UGS.CommitteeV2.Doctype,04-Feb-20,04-Feb-20,04-Feb-20,Approve,BL,,,CHEM,,CHEMPHD,,Bioanalytical/Physical Chemistry,,mfj,1,1
+1834,86840885,UGS-PhDCommencement.ParentDoctype,04-Feb-20,04-Feb-20,04-Feb-20,Approve,BL,,,HIST,,HISTPHD,,,,UGS.BL.PhDComm.HIST1,1,1
+1835,86840885,UGS-PhDCommencement.ParentDoctype,04-Feb-20,04-Feb-20,04-Feb-20,FYI,BL,,,HIST,,HISTPHD,,,,UGS.PhDComm.UGS,1,1
+1836,86841227,UGS-PhDCommencement.ParentDoctype,04-Feb-20,04-Feb-20,04-Feb-20,Approve,BL,,,MATH,,MATHPHD,,,,UGS.BL.PhDComm.MATH1,1,1
+1837,86841227,UGS-PhDCommencement.ParentDoctype,04-Feb-20,04-Feb-20,04-Feb-20,FYI,BL,,,MATH,,MATHPHD,,,,UGS.PhDComm.UGS,1,1
+1838,86841976,UGS-PhDCommencement.ParentDoctype,04-Feb-20,04-Feb-20,04-Feb-20,Approve,BL,,,POLS,,POLSPHD,,,,UGS.PhDComm.UGS,1,1
+1839,86841976,UGS-PhDCommencement.ParentDoctype,04-Feb-20,04-Feb-20,04-Feb-20,FYI,BL,,,POLS,,POLSPHD,,,,UGS.PhDComm.UGS,1,1
+1840,86842743,UGS.ExceptionWaiver.Doctype,04-Feb-20,04-Feb-20,04-Feb-20,Approve,BL,African art,,,,,,,,UGS.BL.SECREC.FINA,1,1
+1841,86843274,UGS.CommitteeChangeV2.Doctype,04-Feb-20,04-Feb-20,04-Feb-20,Approve,BL,,,EDUCCEP,,LRNDEVPHD,,Inquiry Methodology ,,UGS.BL.Committee.EDUCCEP1,1,1
+1842,86843337,UGS.Candidacy.Doctype,04-Feb-20,04-Feb-20,04-Feb-20,Approve,IN,,,MNEU,,MNEURSPHD,,LIFSCGMIN,,lhulvers,1,1
+1843,86843341,UGS.CommitteeV2.Doctype,04-Feb-20,04-Feb-20,04-Feb-20,Approve,IN,,,MNEU,,MNEURSPHD,,,,UGS.IN.Committee.MNEU1,1,1
+1844,86844517,UGS-PhDDefense.ParentDoctype,04-Feb-20,04-Feb-20,04-Feb-20,Approve,BL,,,MUS,,MSTHRYPHD,,,,UGS.BL.PhDDefense.MUS1,1,1

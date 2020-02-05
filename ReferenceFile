@@ -1,0 +1,92 @@
+
+#Get the data from enrouteedocs.csv, comma quoted file
+data1 <- read.csv("//bl-dsa-pv1/Go/GRAD/Team/Beth-Vakar Shared Projects/Beth/edocdata/enrouteedocs.csv", header=T, stringsAsFactors = F)
+
+#get the data values into columns (data is long, need wide) requires reshape2 package
+pivot <- dcast(data1, DOC_HDR_ID + DOC_TYP_NM + DOC_CRTE_DT + DOC_MDFN_DT + CRTE_DT + ACTN_RQST_CD + QUAL_ROLE_NM + PRNCPL_NM + GRP_NM ~ FLD_NM, value.var = "FLD_VAL",fun.aggregate = max, na.rm = TRUE)
+#drop add/remove and study abroad doctypes
+enroute <- pivot[which(pivot$DOC_TYP_NM != 'UGS.StudyAbroad.Doctype' & pivot$DOC_TYP_NM != 'UGS.AddRemoveUserRequest.Doctype' ),]
+#give codes words
+enroute$ACTN_RQST_CD[enroute$ACTN_RQST_CD=='A'] <- 'Approve'
+enroute$ACTN_RQST_CD[enroute$ACTN_RQST_CD=='F'] <- 'FYI'
+#fix BL campus before eDocs were available to IUPUI
+enroute$campus[is.na(enroute$campus) | enroute$campus=='Select' | enroute$campus=='select'] <- 'BL'
+#consolidate requested of, group name, prncpl_nm and qual_role_nm
+enroute$requestedof <- enroute$GRP_NM
+enroute$requestedof[which(enroute$requestedof=='')] <- enroute$PRNCPL_NM[which(enroute$requestedof=='')]
+enroute$requestedof[which(enroute$requestedof=='')] <- enroute$QUAL_ROLE_NM[which(enroute$requestedof=='')]
+enroute <- enroute[,c(1:6,23,10:22)]
+#get rid of selects
+enroute[enroute=='Select' | enroute==''] <- NA
+#move masters info into the correct column
+enroute$department1[which(is.na(enroute$department1))] <- enroute$department[which(is.na(enroute$department1))]
+#move major into major1
+enroute$major1[which(is.na(enroute$major1))] <- enroute$major[which(is.na(enroute$major1))]
+#move concentrationTrack into concentration1
+enroute$concentration1[which(is.na(enroute$concentration1))] <- enroute$concentrationTrack[which(is.na(enroute$concentration1))]
+#re-order columns and drop those not needed
+enroute <- enroute[,c(1:8, 14:15, 17:20, 10:11)]
+#change all NA's to empty string
+enroute[is.na(enroute)] <- ''
+#take campus off dept ID
+enroute$department1 <- substr(enroute$department1, 4, length(enroute$department1) )
+enroute$department2 <- substr(enroute$department2, 4, length(enroute$department2) )
+#calculate age
+currentdate <- as.Date(Sys.Date())
+enroute$dayssincerequest <- difftime(currentdate, as.Date(enroute$CRTE_DT, format="%d-%b-%y"), units = 'days')
+enroute$dayssincecreate <- difftime(currentdate, as.Date(enroute$DOC_CRTE_DT, format="%d-%b-%y"), units = 'days')
+#write out file for consumption
+write.table(enroute, "//bl-dsa-pv1/Go/GRAD/Team/Beth-Vakar Shared Projects/Beth/edocdata/enroute.txt", row.names=FALSE, sep="\t")
+
+##########Begin comparison################
+#install.packages('dplyr')
+library(dplyr)
+require(dplyr)
+
+current <- enroute
+previous <- read.csv("//bl-dsa-pv1/Go/GRAD/Team/Beth-Vakar Shared Projects/Beth/edocdata/enroute_previous.txt", sep="", header=T, stringsAsFactors = F)
+
+docidscurrent <- unique(current[c("DOC_HDR_ID","DOC_TYP_NM","DOC_CRTE_DT", "campus", "department1", "department2")] )
+docidsprevious <- unique(previous[c("DOC_HDR_ID","DOC_TYP_NM","DOC_CRTE_DT", "campus", "department1", "department2")] )
+
+edocsadded <- anti_join(docidscurrent, docidsprevious, by="DOC_HDR_ID")
+edocsremoved  <- anti_join(docidsprevious, docidscurrent, by="DOC_HDR_ID")
+
+edocsadded$rundate <- Sys.Date()
+edocsadded$event <- "added"
+edocsadded <- edocsadded[c(7,8,1:6)]
+
+edocsremoved$rundate <- Sys.Date()
+edocsremoved$event <- "removed"
+edocsremoved <- edocsremoved[c(7,8,1:6)]
+
+write.table(edocsadded, "//bl-dsa-pv1/Go/GRAD/Team/Beth-Vakar Shared Projects/Beth/edocdata/changelog.txt", append=TRUE, row.names=FALSE, col.names = FALSE, sep="\t")
+write.table(edocsremoved, "//bl-dsa-pv1/Go/GRAD/Team/Beth-Vakar Shared Projects/Beth/edocdata/changelog.txt", append=TRUE, row.names=FALSE, col.names = FALSE, sep="\t")
+
+
+#make backups and previous
+file.copy("//bl-dsa-pv1/Go/GRAD/Team/Beth-Vakar Shared Projects/Beth/edocdata/enroute.txt","//bl-dsa-pv1/Go/GRAD/Team/Beth-Vakar Shared Projects/Beth/edocdata/enroute_previous.txt", overwrite = TRUE)
+file.copy("//bl-dsa-pv1/Go/GRAD/Team/Beth-Vakar Shared Projects/Beth/edocdata/enroute.txt",paste("//bl-dsa-pv1/Go/GRAD/Team/Beth-Vakar Shared Projects/Beth/edocdata/previous/enroute_", Sys.Date(),".txt", SEP=""), overwrite = TRUE)
+
+
+##############  SQL to generate data from IUIE tables #####################
+##############  Export as CSV #############################################
+# select distinct
+# b.DOC_HDR_ID, a.DOC_TYP_NM, a.DOC_CRTE_DT, b.CRTE_DT, a.DOC_MDFN_DT, b.ACTN_RQST_CD,
+# c.PRNCPL_NM, d.GRP_NM, b.QUAL_ROLE_NM,
+# a.FLD_NM, a.FLD_VAL
+# from
+# DSS_KR.KR_KREW_ACTN_RQST_T_v b
+# left join dss_kr.kr_edl_dmp_gt a on b.doc_hdr_id = a.doc_hdr_id
+# left join DSS_KR.KR_KRIM_PRNCPL_T_GT c on b.PRNCPL_ID = c.PRNCPL_ID
+# left join DSS_KR.KR_KRIM_GRP_T_GT d on b.GRP_ID = d.GRP_ID
+# where
+# a.DOC_RTE_STAT_CD = 'R'
+# and
+# b.PARNT_ID is null
+# and
+# b.ACTN_TKN_ID is null
+# and
+# a.FLD_NM in ('campus','campusTitle','concentration1','concentration2','concentrationTrack',
+#              'department','department1','department2','major','major1','major2','minor1','minor2')
+# order by b.DOC_HDR_ID, b.CRTE_DT
